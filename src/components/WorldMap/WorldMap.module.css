@@ -1,0 +1,174 @@
+.section {
+  position: relative;
+  z-index: 1;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg2);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 40px 10px;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.05rem;
+  letter-spacing: 2px;
+  color: var(--orange);
+}
+
+.hint {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  color: var(--muted);
+  letter-spacing: 1px;
+  flex: 1;
+}
+
+.zoomBtns {
+  display: flex;
+  gap: 4px;
+}
+
+.zoomBtns button {
+  width: 30px;
+  height: 28px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'JetBrains Mono', monospace;
+}
+.zoomBtns button:last-child {
+  width: auto;
+  padding: 0 10px;
+  font-size: 0.68rem;
+  letter-spacing: 1px;
+  color: var(--muted);
+}
+.zoomBtns button:hover { border-color: var(--orange); color: var(--orange); }
+
+.mapWrap {
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+  background: #0a1120;
+}
+
+/* Tooltip */
+.tooltip {
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+  background: var(--card);
+  border: 1px solid var(--orange);
+  border-radius: 10px;
+  padding: 12px 14px;
+  min-width: 200px;
+  max-width: 260px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 0 1px rgba(249,115,22,0.2);
+  animation: popIn 0.12s ease;
+}
+
+@keyframes popIn {
+  from { opacity: 0; transform: scale(0.94); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.ttHead {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.ttFlag { font-size: 1.5rem; line-height: 1; }
+.ttName { font-size: 0.95rem; font-weight: 700; }
+
+.ttFuelRow {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.ttFuelBlock {
+  flex: 1;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 7px 8px;
+  transition: border-color 0.2s;
+}
+.ttFuelActive { border-color: var(--orange); background: rgba(249,115,22,0.08); }
+
+.ttFuelLabel {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: var(--muted);
+  letter-spacing: 1px;
+  margin-bottom: 3px;
+}
+
+.ttPrice {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.4rem;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+.ttLocal {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.ttRegion {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: var(--border);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cheap    { color: var(--green); }
+.medium   { color: var(--amber); }
+.expensive{ color: var(--red);   }
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  .header { padding: 10px 16px; }
+  .hint   { display: none; }
+  .mapWrap { height: 260px; }
+
+  /* On mobile show tooltip at bottom of screen, not near cursor */
+  .tooltip {
+    position: fixed;
+    left: 50% !important;
+    top: auto !important;
+    bottom: 16px;
+    transform: translateX(-50%);
+    min-width: 280px;
+    max-width: calc(100vw - 32px);
+    animation: slideUp 0.18s ease;
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(12px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+  }
+}
+
+@media (max-width: 480px) {
+  .mapWrap { height: 210px; }
+  .zoomBtns button:last-child { display: none; }
+}

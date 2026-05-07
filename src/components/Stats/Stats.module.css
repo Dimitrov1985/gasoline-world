@@ -1,0 +1,81 @@
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  padding: 20px 40px;
+  border-bottom: 1px solid var(--border);
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 18px;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.3s, transform 0.3s;
+}
+.card:hover { transform: translateY(-2px); }
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--border), transparent);
+}
+.green::before  { background: linear-gradient(90deg, var(--green), transparent); }
+.green:hover    { border-color: var(--green); }
+.red::before    { background: linear-gradient(90deg, var(--red), transparent); }
+.red:hover      { border-color: var(--red); }
+.blue::before   { background: linear-gradient(90deg, var(--accent), transparent); }
+.blue:hover     { border-color: var(--accent); }
+.card:not(.green):not(.red):not(.blue)::before { background: linear-gradient(90deg, var(--orange), transparent); }
+.card:not(.green):not(.red):not(.blue):hover   { border-color: var(--orange); }
+
+.label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.value {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+.cheapVal    { color: var(--green); }
+.expensiveVal{ color: var(--red); }
+.avgVal      { color: var(--accent); }
+.orangeVal   { color: var(--orange); }
+
+.country {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-top: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 900px) {
+  .stats { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 640px) {
+  .stats { padding: 12px 16px; gap: 10px; }
+  .value { font-size: 1.6rem; }
+  .label { font-size: 0.58rem; }
+}
+
+@media (max-width: 380px) {
+  .stats { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .card { padding: 12px 14px; }
+}

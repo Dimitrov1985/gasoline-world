@@ -1,0 +1,91 @@
+.app {
+  min-height: 100vh;
+  position: relative;
+}
+
+.orb1 {
+  position: fixed;
+  top: -200px; left: -200px;
+  width: 560px; height: 560px;
+  background: radial-gradient(circle, rgba(249,115,22,0.07) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+  animation: float 9s ease-in-out infinite;
+}
+
+.orb2 {
+  position: fixed;
+  bottom: -200px; right: -100px;
+  width: 640px; height: 640px;
+  background: radial-gradient(circle, rgba(14,165,233,0.05) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+  animation: float 12s ease-in-out infinite reverse;
+}
+
+@keyframes float {
+  0%, 100% { transform: translate(0, 0); }
+  50%       { transform: translate(24px, 24px); }
+}
+
+.main {
+  position: relative;
+  z-index: 1;
+  padding: 20px 40px 60px;
+}
+
+.count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--muted);
+  margin-bottom: 14px;
+  letter-spacing: 1px;
+}
+.count span { color: var(--orange); }
+
+/* ── Section navigation ── */
+.sectionNav {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  background: var(--overlay);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+
+.navBtn {
+  padding: 13px 28px;
+  border: none;
+  border-bottom: 3px solid transparent;
+  background: transparent;
+  color: var(--muted);
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.navBtn:hover:not(.navActive) {
+  color: var(--text);
+  background: rgba(255,255,255,0.03);
+}
+.navActive {
+  color: var(--orange);
+  border-bottom-color: var(--orange);
+  background: rgba(249,115,22,0.05);
+}
+
+@media (max-width: 768px) {
+  .sectionNav { overflow-x: auto; scrollbar-width: none; }
+  .sectionNav::-webkit-scrollbar { display: none; }
+  .navBtn { padding: 11px 18px; font-size: 0.88rem; }
+}
+
+@media (max-width: 768px) {
+  .main { padding: 14px 16px 40px; }
+  .orb1, .orb2 { display: none; }
+}
