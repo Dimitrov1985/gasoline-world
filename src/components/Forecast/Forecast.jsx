@@ -250,7 +250,7 @@ export default function Forecast({ fuel, onFuelChange }) {
                   <th>#</th><th></th><th>{t('table.country')}</th>
                   <th>{t('fc.now')}</th><th>{t('fc.12m')}</th><th>{t('fc.24m')}</th>
                   <th>Δ 24{t('fc.months')}</th><th>{lang === 'en' ? 'Trend' : 'Тренд'}</th>
-                  <th>{lang === 'en' ? 'Chart' : 'График'}</th>
+                  <th>{lang === 'en' ? 'Chart' : 'Графік'}</th>
                 </tr>
               </thead>
               <tbody>

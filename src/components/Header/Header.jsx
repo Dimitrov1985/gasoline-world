@@ -35,9 +35,9 @@ export default function Header({ notificationSlot }) {
 
         <div className={styles.langToggle}>
           <button
-            className={`${styles.langBtn} ${lang === 'ru' ? styles.langActive : ''}`}
-            onClick={() => setLang('ru')}
-          >RU</button>
+            className={`${styles.langBtn} ${lang === 'uk' ? styles.langActive : ''}`}
+            onClick={() => setLang('uk')}
+          >UA</button>
           <button
             className={`${styles.langBtn} ${lang === 'en' ? styles.langActive : ''}`}
             onClick={() => setLang('en')}

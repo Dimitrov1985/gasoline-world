@@ -84,7 +84,7 @@ export default function App() {
         </button>
         <button className={`${styles.navBtn} ${section === 'news' ? styles.navActive : ''}`}
           onClick={() => setSection('news')}>
-          {lang === 'en' ? '📰 News' : '📰 Новости'}
+          {lang === 'en' ? '📰 News' : '📰 Новини'}
         </button>
       </nav>
 

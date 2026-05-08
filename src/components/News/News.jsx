@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { NEWS, CATEGORIES_RU, CATEGORIES_EN } from '../../data/news'
+import { NEWS, CATEGORIES_UK, CATEGORIES_EN } from '../../data/news'
 import { useTranslation } from '../../i18n'
 import styles from './News.module.css'
 
@@ -24,9 +24,9 @@ const CAT_COLORS = {
 }
 
 function NewsCard({ item, featured, onClick, lang }) {
-  const cat   = lang === 'en' ? item.categoryEn : item.category
-  const color = CAT_COLORS[cat] ?? 'var(--orange)'
-  const title = lang === 'en' ? item.titleEn   : item.title
+  const cat     = lang === 'en' ? item.categoryEn : item.categoryUk
+  const color   = CAT_COLORS[cat] ?? 'var(--orange)'
+  const title   = lang === 'en' ? item.titleEn   : item.title
   const summary = lang === 'en' ? item.summaryEn : item.summary
 
   return (
@@ -53,7 +53,7 @@ function NewsCard({ item, featured, onClick, lang }) {
 
 function Modal({ item, onClose, lang }) {
   if (!item) return null
-  const cat     = lang === 'en' ? item.categoryEn : item.category
+  const cat     = lang === 'en' ? item.categoryEn : item.categoryUk
   const color   = CAT_COLORS[cat] ?? 'var(--orange)'
   const title   = lang === 'en' ? item.titleEn   : item.title
   const summary = lang === 'en' ? item.summaryEn : item.summary
@@ -90,10 +90,10 @@ export default function News() {
   const [search,         setSearch]         = useState('')
   const [openItem,       setOpenItem]       = useState(null)
 
-  const categories = lang === 'en' ? CATEGORIES_EN : CATEGORIES_RU
+  const categories = lang === 'en' ? CATEGORIES_EN : CATEGORIES_UK
 
   const filtered = NEWS.filter(item => {
-    const cat  = lang === 'en' ? item.categoryEn : item.category
+    const cat  = lang === 'en' ? item.categoryEn : item.categoryUk
     const txt  = (lang === 'en' ? item.titleEn + item.summaryEn : item.title + item.summary).toLowerCase()
     const catOk = activeCategory === 0 || cat === categories[activeCategory]
     const srcOk = txt.includes(search.toLowerCase()) || item.source.toLowerCase().includes(search.toLowerCase())
