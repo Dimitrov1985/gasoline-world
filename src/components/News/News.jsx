@@ -63,22 +63,31 @@ function Modal({ item, onClose, lang }) {
     <>
       <div className={styles.modalBackdrop} onClick={onClose} />
       <div className={styles.modal}>
-        <button className={styles.modalClose} onClick={onClose}>✕</button>
-        <div className={styles.modalMeta}>
-          <span className={styles.flag}>{item.flag}</span>
-          <span className={styles.cat} style={{ color, borderColor: color, background: `${color}18` }}>{cat}</span>
-          <span className={styles.date}>{timeAgo(item.date, lang)}</span>
-          <span className={styles.source}>{item.source}</span>
+
+        {/* Sticky header */}
+        <div className={styles.modalHead}>
+          <div className={styles.modalMeta}>
+            <span className={styles.flag}>{item.flag}</span>
+            <span className={styles.cat} style={{ color, borderColor: color, background: `${color}18` }}>{cat}</span>
+            <span className={styles.date}>{timeAgo(item.date, lang)}</span>
+            <span className={styles.source}>{item.source}</span>
+          </div>
+          <button className={styles.modalClose} onClick={onClose}>✕</button>
         </div>
-        <h2 className={styles.modalTitle}>{title}</h2>
-        <p className={styles.modalSummary}>{summary}</p>
-        <div className={styles.modalDivider} style={{ background: color }} />
-        <p className={styles.modalBody}>{body}</p>
-        <div className={styles.modalFooterNote}>
-          {lang === 'en'
-            ? '* Content is for demonstration purposes only.'
-            : '* Материал создан в демонстрационных целях.'}
+
+        {/* Scrollable body */}
+        <div className={styles.modalScroll}>
+          <h2 className={styles.modalTitle}>{title}</h2>
+          <p className={styles.modalSummary}>{summary}</p>
+          <div className={styles.modalDivider} style={{ background: color }} />
+          <p className={styles.modalBody}>{body}</p>
+          <div className={styles.modalFooterNote}>
+            {lang === 'en'
+              ? '* Content is for demonstration purposes only.'
+              : '* Матеріал створений у демонстраційних цілях.'}
+          </div>
         </div>
+
       </div>
     </>
   )

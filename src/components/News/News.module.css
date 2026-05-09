@@ -235,14 +235,11 @@
   background: var(--bg2);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 32px 36px;
   z-index: 201;
-  overflow-y: auto;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  overflow: hidden;
   animation: popUp 0.22s cubic-bezier(0.22,1,0.36,1);
-  scrollbar-width: thin;
 }
 
 @keyframes popUp {
@@ -250,10 +247,31 @@
   to   { opacity: 1; transform: translate(-50%, -50%) scale(1); }
 }
 
+/* Sticky header — always visible */
+.modalHead {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 18px 20px 14px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  background: var(--bg2);
+  border-radius: 16px 16px 0 0;
+}
+
+.modalMeta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  flex: 1;
+  min-width: 0;
+}
+
 .modalClose {
-  position: absolute;
-  top: 16px; right: 16px;
-  width: 32px; height: 32px;
+  width: 30px; height: 30px;
+  flex-shrink: 0;
   border-radius: 8px;
   border: 1px solid var(--border);
   background: transparent;
@@ -265,11 +283,15 @@
 }
 .modalClose:hover { border-color: var(--red); color: var(--red); }
 
-.modalMeta {
+/* Scrollable content area */
+.modalScroll {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 24px 24px;
   display: flex;
-  align-items: center;
-  gap: 10px;
-  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 14px;
+  scrollbar-width: thin;
 }
 
 .modalTitle {
@@ -315,5 +337,6 @@
   .grid          { grid-template-columns: 1fr; }
   .featured      { padding: 20px 18px; }
   .featured .title { font-size: 1.15rem; }
-  .modal         { padding: 24px 20px; }
+  .modalHead  { padding: 14px 16px 12px; }
+  .modalScroll { padding: 16px 16px 20px; }
 }
