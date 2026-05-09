@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { NEWS, CATEGORIES_UK, CATEGORIES_EN } from '../../data/news'
+import { CATEGORIES_UK, CATEGORIES_EN } from '../../data/news'
+import { useNews } from '../../hooks/useNews'
 import { useTranslation } from '../../i18n'
 import styles from './News.module.css'
 
@@ -81,11 +82,18 @@ function Modal({ item, onClose, lang }) {
           <p className={styles.modalSummary}>{summary}</p>
           <div className={styles.modalDivider} style={{ background: color }} />
           <p className={styles.modalBody}>{body}</p>
-          <div className={styles.modalFooterNote}>
-            {lang === 'en'
-              ? '* Content is for demonstration purposes only.'
-              : '* Матеріал створений у демонстраційних цілях.'}
-          </div>
+          {item.url && item.url !== '#' && (
+            <a href={item.url} target="_blank" rel="noopener noreferrer" className={styles.sourceLink}>
+              {lang === 'en' ? '↗ Read full article on' : '↗ Читати повністю на'} {item.source}
+            </a>
+          )}
+          {!item.isLive && (
+            <div className={styles.modalFooterNote}>
+              {lang === 'en'
+                ? '* Demo content for illustration purposes.'
+                : '* Демо-контент у навчальних цілях.'}
+            </div>
+          )}
         </div>
 
       </div>
@@ -95,13 +103,14 @@ function Modal({ item, onClose, lang }) {
 
 export default function News() {
   const { lang } = useTranslation()
+  const { articles, loading, isLive } = useNews()
   const [activeCategory, setActiveCategory] = useState(0)
   const [search,         setSearch]         = useState('')
   const [openItem,       setOpenItem]       = useState(null)
 
   const categories = lang === 'en' ? CATEGORIES_EN : CATEGORIES_UK
 
-  const filtered = NEWS.filter(item => {
+  const filtered = articles.filter(item => {
     const cat  = lang === 'en' ? item.categoryEn : item.categoryUk
     const txt  = (lang === 'en' ? item.titleEn + item.summaryEn : item.title + item.summary).toLowerCase()
     const catOk = activeCategory === 0 || cat === categories[activeCategory]
@@ -116,7 +125,12 @@ export default function News() {
     <div className={styles.page}>
       <div className={styles.topBar}>
         <div className={styles.topLeft}>
-          <span className={styles.pageTitle}>📰 {lang === 'en' ? 'Fuel News' : 'Новости топлива'}</span>
+          <span className={styles.pageTitle}>📰 {lang === 'en' ? 'Fuel News' : 'Новини пального'}</span>
+          {isLive
+            ? <span className={styles.liveBadge}>🔴 LIVE</span>
+            : <span className={styles.staticBadge}>{lang === 'en' ? 'Demo' : 'Демо'}</span>
+          }
+          {loading && <span className={styles.loadingBadge}>⏳</span>}
           <span className={styles.count}>{filtered.length} {lang === 'en' ? 'articles' : 'материалов'}</span>
         </div>
         <div className={styles.searchWrap}>
