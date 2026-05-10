@@ -16,7 +16,7 @@
   overflow: hidden;
   cursor: pointer;
   transition: border-color 0.3s, transform 0.2s, box-shadow 0.3s;
-  animation: fadeUp 0.4s ease both;
+  animation: fadeUp 0.4s ease backwards;
   -webkit-tap-highlight-color: transparent;
 }
 
