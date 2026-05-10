@@ -69,7 +69,7 @@ export default function App() {
       <div className={styles.orb1} />
       <div className={styles.orb2} />
 
-      <Header notificationSlot={bellSlot} />
+      <Header notificationSlot={bellSlot} onLogoClick={() => setSection('main')} />
       <Stats fuel={fuel} />
 
       {/* Section nav */}

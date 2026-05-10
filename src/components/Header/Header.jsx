@@ -2,13 +2,13 @@ import { useTranslation, setLang } from '../../i18n'
 import { useTheme, setTheme } from '../../hooks/useTheme'
 import styles from './Header.module.css'
 
-export default function Header({ notificationSlot }) {
+export default function Header({ notificationSlot, onLogoClick }) {
   const { t, lang } = useTranslation()
   const { theme }   = useTheme()
 
   return (
     <header className={styles.header}>
-      <div className={styles.logo}>
+      <div className={styles.logo} onClick={onLogoClick} style={{ cursor: onLogoClick ? 'pointer' : 'default' }}>
         <div className={styles.logoIcon}>⛽</div>
         <div className={styles.logoText}>
           <h1>GASOLINE WORLD</h1>
