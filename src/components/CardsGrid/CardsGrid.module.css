@@ -89,9 +89,9 @@
 .name {
   font-size: 0.95rem;
   font-weight: 700;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: normal;
+  line-height: 1.2;
+  word-break: break-word;
 }
 
 .local {
