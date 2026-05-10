@@ -1,3 +1,5 @@
+import PRICES from './prices.json'
+
 export const REGIONS = ['Азия', 'Европа', 'Сев. Америка', 'Ю. Америка', 'Африка', 'Океания']
 
 export const FUELS = [
@@ -240,7 +242,11 @@ export const DATA = [
     petrol: { usd: 1.46, local: '2.25 AUD'  }, diesel: { usd: 1.62, local: '2.50 AUD'  } },
   { country: 'Новая Зеландия',    flag: '🇳🇿', region: 'Океания',      iso: 554,
     petrol: { usd: 1.65, local: '2.76 NZD'  }, diesel: { usd: 1.52, local: '2.54 NZD'  } },
-]
+].map(d => ({
+  ...d,
+  petrol: { ...d.petrol, usd: PRICES.petrol?.[d.iso] ?? d.petrol.usd },
+  diesel: { ...d.diesel, usd: PRICES.diesel?.[d.iso] ?? d.diesel.usd },
+}))
 
 export function getPriceClass(usd) {
   if (usd < 0.5) return 'cheap'
