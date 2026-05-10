@@ -87,7 +87,7 @@
 .info { flex: 1; min-width: 0; }
 
 .name {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   font-weight: 700;
   white-space: nowrap;
   overflow: hidden;
