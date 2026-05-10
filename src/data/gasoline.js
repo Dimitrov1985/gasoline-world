@@ -252,3 +252,8 @@ export function getBarWidth(usd, fuel = 'petrol') {
   const max = Math.max(...DATA.map(d => d[fuel].usd))
   return Math.min(100, (usd / max) * 100)
 }
+
+export function getPriceRange(fuel = 'petrol') {
+  const prices = DATA.map(d => d[fuel].usd)
+  return { min: Math.min(...prices), max: Math.max(...prices) }
+}

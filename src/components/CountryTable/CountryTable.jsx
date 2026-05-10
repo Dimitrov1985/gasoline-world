@@ -1,6 +1,8 @@
 import { getPriceClass } from '../../data/gasoline'
+import { generateForecast } from '../../data/forecast'
 import { useTranslation } from '../../i18n'
 import { countryName } from '../../i18n/countryNames'
+import Sparkline from '../Sparkline/Sparkline'
 import styles from './CountryTable.module.css'
 
 export default function CountryTable({ items, fuel, selectedIso, onSelect, isWatched, onWatch }) {
@@ -17,16 +19,18 @@ export default function CountryTable({ items, fuel, selectedIso, onSelect, isWat
             <th>{t('table.country')}</th>
             <th>{t('table.region')}</th>
             <th>{t('table.usd')}</th>
+            <th className={styles.trendCol}>8м</th>
             <th>{t('table.local')}</th>
             <th></th>
           </tr>
         </thead>
         <tbody>
           {items.map((d, i) => {
-            const price    = d[fuel]
-            const cls      = getPriceClass(price.usd)
-            const isActive = d.iso === selectedIso
-            const watching = isWatched?.(d.iso)
+            const price       = d[fuel]
+            const cls         = getPriceClass(price.usd)
+            const isActive    = d.iso === selectedIso
+            const watching    = isWatched?.(d.iso)
+            const sparkPoints = generateForecast(d, fuel, 8).map(p => p.price)
             return (
               <tr
                 key={d.country}
@@ -44,6 +48,9 @@ export default function CountryTable({ items, fuel, selectedIso, onSelect, isWat
                 <td className={styles.priceUsd}>
                   <span className={`${styles.dot} ${styles[cls]}`} />
                   <span className={styles[cls]}>${price.usd.toFixed(2)}</span>
+                </td>
+                <td className={styles.trendCol}>
+                  <Sparkline points={sparkPoints} cls={cls} width={48} height={18} />
                 </td>
                 <td className={styles.local}>{price.local}</td>
                 <td className={styles.watchCell}>

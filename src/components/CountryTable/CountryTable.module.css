@@ -103,6 +103,12 @@ td { padding: 11px 16px; font-size: 0.9rem; }
 .dot.medium   { background: var(--amber); }
 .dot.expensive{ background: var(--red);   }
 
+.trendCol {
+  width: 72px;
+  padding: 8px 12px;
+  vertical-align: middle;
+}
+
 .watchCell { width: 36px; padding: 8px 10px; }
 
 .watchBtn {

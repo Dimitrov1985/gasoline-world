@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { CATEGORIES_UK, CATEGORIES_EN } from '../../data/news'
+import { CATEGORIES_RU, CATEGORIES_EN } from '../../data/news'
 import { useNews } from '../../hooks/useNews'
 import { useTranslation } from '../../i18n'
 import styles from './News.module.css'
@@ -25,7 +25,7 @@ const CAT_COLORS = {
 }
 
 function NewsCard({ item, featured, onClick, lang }) {
-  const cat     = lang === 'en' ? item.categoryEn : item.categoryUk
+  const cat     = lang === 'en' ? item.categoryEn : item.category
   const color   = CAT_COLORS[cat] ?? 'var(--orange)'
   const title   = lang === 'en' ? item.titleEn   : item.title
   const summary = lang === 'en' ? item.summaryEn : item.summary
@@ -54,7 +54,7 @@ function NewsCard({ item, featured, onClick, lang }) {
 
 function Modal({ item, onClose, lang }) {
   if (!item) return null
-  const cat     = lang === 'en' ? item.categoryEn : item.categoryUk
+  const cat     = lang === 'en' ? item.categoryEn : item.category
   const color   = CAT_COLORS[cat] ?? 'var(--orange)'
   const title   = lang === 'en' ? item.titleEn   : item.title
   const summary = lang === 'en' ? item.summaryEn : item.summary
@@ -84,14 +84,14 @@ function Modal({ item, onClose, lang }) {
           <p className={styles.modalBody}>{body}</p>
           {item.url && item.url !== '#' && (
             <a href={item.url} target="_blank" rel="noopener noreferrer" className={styles.sourceLink}>
-              {lang === 'en' ? '↗ Read full article on' : '↗ Читати повністю на'} {item.source}
+              {lang === 'en' ? '↗ Read full article on' : '↗ Читать полностью на'} {item.source}
             </a>
           )}
           {!item.isLive && (
             <div className={styles.modalFooterNote}>
               {lang === 'en'
                 ? '* Demo content for illustration purposes.'
-                : '* Демо-контент у навчальних цілях.'}
+                : '* Демо-контент в ознакомительных целях.'}
             </div>
           )}
         </div>
@@ -108,10 +108,10 @@ export default function News() {
   const [search,         setSearch]         = useState('')
   const [openItem,       setOpenItem]       = useState(null)
 
-  const categories = lang === 'en' ? CATEGORIES_EN : CATEGORIES_UK
+  const categories = lang === 'en' ? CATEGORIES_EN : CATEGORIES_RU
 
   const filtered = articles.filter(item => {
-    const cat  = lang === 'en' ? item.categoryEn : item.categoryUk
+    const cat  = lang === 'en' ? item.categoryEn : item.category
     const txt  = (lang === 'en' ? item.titleEn + item.summaryEn : item.title + item.summary).toLowerCase()
     const catOk = activeCategory === 0 || cat === categories[activeCategory]
     const srcOk = txt.includes(search.toLowerCase()) || item.source.toLowerCase().includes(search.toLowerCase())
@@ -125,7 +125,7 @@ export default function News() {
     <div className={styles.page}>
       <div className={styles.topBar}>
         <div className={styles.topLeft}>
-          <span className={styles.pageTitle}>📰 {lang === 'en' ? 'Fuel News' : 'Новини пального'}</span>
+          <span className={styles.pageTitle}>📰 {lang === 'en' ? 'Fuel News' : 'Новости о топливе'}</span>
           {isLive
             ? <span className={styles.liveBadge}>🔴 LIVE</span>
             : <span className={styles.staticBadge}>{lang === 'en' ? 'Demo' : 'Демо'}</span>

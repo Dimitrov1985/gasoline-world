@@ -1,6 +1,9 @@
-import { getPriceClass, getBarWidth } from '../../data/gasoline'
+import { getPriceClass } from '../../data/gasoline'
+import { generateForecast } from '../../data/forecast'
 import { useTranslation } from '../../i18n'
 import { countryName } from '../../i18n/countryNames'
+import Sparkline from '../Sparkline/Sparkline'
+import PriceBar from '../PriceBar/PriceBar'
 import styles from './CardsGrid.module.css'
 
 export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatched, onWatch }) {
@@ -10,11 +13,11 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
   return (
     <div className={styles.grid}>
       {items.map((d, i) => {
-        const price    = d[fuel]
-        const cls      = getPriceClass(price.usd)
-        const bw       = getBarWidth(price.usd, fuel)
-        const isActive = d.iso === selectedIso
-        const watching = isWatched?.(d.iso)
+        const price       = d[fuel]
+        const cls         = getPriceClass(price.usd)
+        const isActive    = d.iso === selectedIso
+        const watching    = isWatched?.(d.iso)
+        const sparkPoints = generateForecast(d, fuel, 8).map(p => p.price)
         return (
           <div
             key={d.country}
@@ -22,7 +25,7 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
             style={{ animationDelay: `${i * 0.025}s` }}
             onClick={() => onSelect(d.iso)}
           >
-            <div className={`${styles.bar} ${styles[cls]}`} style={{ width: `${bw}%` }} />
+            <PriceBar usd={price.usd} fuel={fuel} cls={cls} />
 
             <button
               className={`${styles.watchBtn} ${watching ? styles.watchActive : ''}`}
@@ -39,6 +42,7 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
               <div className={styles.name}>{countryName(d.country, lang)}</div>
               <div className={styles.local}>{price.local} / {t('calc.liters')}</div>
             </div>
+            <Sparkline points={sparkPoints} cls={cls} />
             <div className={styles.priceBlock}>
               <div className={`${styles.usd} ${styles[cls]}`}>${price.usd.toFixed(2)}</div>
               <div className={styles.unit}>{t('list.perLiter')}</div>

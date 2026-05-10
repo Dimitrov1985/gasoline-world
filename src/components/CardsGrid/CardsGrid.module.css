@@ -78,20 +78,9 @@
   white-space: nowrap;
 }
 
-.bar {
-  position: absolute;
-  bottom: 0; left: 0;
-  height: 3px;
-  transition: width 0.5s ease;
-}
-
 .cheap    { color: var(--green); }
 .medium   { color: var(--amber); }
 .expensive{ color: var(--red);   }
-
-.bar.cheap    { background: var(--green); }
-.bar.medium   { background: var(--amber); }
-.bar.expensive{ background: var(--red);   }
 
 .flag { font-size: 1.9rem; line-height: 1; flex-shrink: 0; }
 
@@ -112,7 +101,7 @@
   margin-top: 2px;
 }
 
-.priceBlock { text-align: right; flex-shrink: 0; }
+.priceBlock { text-align: right; flex-shrink: 0; min-width: 58px; }
 
 .usd {
   font-family: 'Bebas Neue', sans-serif;

@@ -1,0 +1,32 @@
+.track {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--border);
+  border-radius: 0 0 12px 12px;
+  overflow: visible;
+}
+
+.fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  border-radius: 0 0 0 12px;
+  opacity: 0.5;
+  transition: width 0.4s ease;
+}
+
+.marker {
+  position: absolute;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: 2px solid var(--bg);
+  transform: translate(-50%, -50%);
+  transition: left 0.4s ease;
+  box-shadow: 0 0 6px currentColor;
+}

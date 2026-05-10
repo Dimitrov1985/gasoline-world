@@ -1,13 +1,13 @@
 import { useReducer, useEffect } from 'react'
-import { uk } from './uk'
+import { ru } from './ru'
 import { en } from './en'
 
-const TRANSLATIONS = { uk, en }
+const TRANSLATIONS = { ru, en }
 
-// migrate old 'ru' setting to 'uk'
+// migrate old 'uk' setting to 'ru'
 const _stored = localStorage.getItem('gw_lang')
-if (_stored === 'ru') localStorage.setItem('gw_lang', 'uk')
-let _lang = (localStorage.getItem('gw_lang') === 'en') ? 'en' : 'uk'
+if (_stored === 'uk') localStorage.setItem('gw_lang', 'ru')
+let _lang = (localStorage.getItem('gw_lang') === 'en') ? 'en' : 'ru'
 const _subs = new Set()
 
 function _notify() { _subs.forEach(fn => fn()) }
@@ -30,7 +30,7 @@ export function useTranslation() {
   }, [])
 
   function t(key, vars) {
-    const str = TRANSLATIONS[_lang]?.[key] ?? TRANSLATIONS.en?.[key] ?? key
+    const str = TRANSLATIONS[_lang]?.[key] ?? TRANSLATIONS.ru?.[key] ?? key
     if (!vars) return str
     return str.replace(/\{(\w+)\}/g, (_, k) => vars[k] ?? `{${k}}`)
   }

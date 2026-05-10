@@ -19,11 +19,6 @@ export default function Header({ notificationSlot }) {
         <div className={styles.badge}>
           {t('header.data')}: <span>{t('header.dataPeriod')}</span>
         </div>
-        <div className={styles.legend}>
-          <span className={styles.dot} style={{ background: 'var(--green)' }} /> &lt; $0.50
-          <span className={styles.dot} style={{ background: 'var(--amber)', marginLeft: 14 }} /> $0.50–$1.50
-          <span className={styles.dot} style={{ background: 'var(--red)', marginLeft: 14 }} /> &gt; $1.50
-        </div>
         {/* Theme toggle */}
         <button
           className={styles.themeBtn}
@@ -35,9 +30,9 @@ export default function Header({ notificationSlot }) {
 
         <div className={styles.langToggle}>
           <button
-            className={`${styles.langBtn} ${lang === 'uk' ? styles.langActive : ''}`}
-            onClick={() => setLang('uk')}
-          >UA</button>
+            className={`${styles.langBtn} ${lang === 'ru' ? styles.langActive : ''}`}
+            onClick={() => setLang('ru')}
+          >RU</button>
           <button
             className={`${styles.langBtn} ${lang === 'en' ? styles.langActive : ''}`}
             onClick={() => setLang('en')}

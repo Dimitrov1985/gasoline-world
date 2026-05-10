@@ -29,6 +29,27 @@
   flex: 1;
 }
 
+.legend {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+}
+
+.legendBar {
+  width: 80px;
+  height: 6px;
+  border-radius: 3px;
+  opacity: 0.85;
+}
+
+.legendLabel {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
 .zoomBtns {
   display: flex;
   gap: 4px;
@@ -65,18 +86,18 @@
   background: #0a1120;
 }
 
-/* Tooltip */
+/* ── Tooltip ── */
 .tooltip {
   position: fixed;
   z-index: 9999;
-  pointer-events: none;
+  pointer-events: auto;
   background: var(--card);
   border: 1px solid var(--orange);
-  border-radius: 10px;
-  padding: 12px 14px;
-  min-width: 200px;
-  max-width: 260px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 0 1px rgba(249,115,22,0.2);
+  border-radius: 12px;
+  padding: 13px 14px 10px;
+  min-width: 230px;
+  max-width: 270px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.55), 0 0 0 1px rgba(249,115,22,0.2);
   animation: popIn 0.12s ease;
 }
 
@@ -88,16 +109,53 @@
 .ttHead {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 8px;
+  gap: 9px;
+  margin-bottom: 10px;
 }
-.ttFlag { font-size: 1.5rem; line-height: 1; }
-.ttName { font-size: 0.95rem; font-weight: 700; }
+.ttFlag { font-size: 1.6rem; line-height: 1; flex-shrink: 0; }
+
+.ttHeadText {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.ttName {
+  font-size: 0.95rem;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ttRegion {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.ttRank {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.15rem;
+  color: var(--orange);
+  letter-spacing: 1px;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.ttRankOf {
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0;
+}
 
 .ttFuelRow {
   display: flex;
-  gap: 8px;
-  margin-bottom: 6px;
+  gap: 7px;
+  margin-bottom: 10px;
 }
 
 .ttFuelBlock {
@@ -112,7 +170,7 @@
 
 .ttFuelLabel {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.58rem;
+  font-size: 0.56rem;
   color: var(--muted);
   letter-spacing: 1px;
   margin-bottom: 3px;
@@ -127,17 +185,73 @@
 
 .ttLocal {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.62rem;
+  font-size: 0.6rem;
   color: var(--muted);
   margin-top: 2px;
 }
 
-.ttRegion {
+/* Price position bar */
+.ttBarWrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.ttBarLabel {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.6rem;
-  color: var(--border);
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  font-size: 0.56rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.ttBarTrack {
+  flex: 1;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  position: relative;
+  overflow: visible;
+}
+
+.ttBarFill {
+  position: absolute;
+  left: 0; top: 0;
+  height: 100%;
+  border-radius: 2px;
+  opacity: 0.45;
+  transition: width 0.3s ease;
+}
+
+.ttBarDot {
+  position: absolute;
+  top: 50%;
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  border: 2px solid var(--card);
+  transform: translate(-50%, -50%);
+  transition: left 0.3s ease;
+  box-shadow: 0 0 5px currentColor;
+}
+
+/* CTA button */
+.ttCta {
+  width: 100%;
+  padding: 7px 10px;
+  background: rgba(249,115,22,0.12);
+  border: 1px solid rgba(249,115,22,0.35);
+  border-radius: 7px;
+  color: var(--orange);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.2s, border-color 0.2s;
+}
+.ttCta:hover {
+  background: rgba(249,115,22,0.22);
+  border-color: var(--orange);
 }
 
 .cheap    { color: var(--green); }
