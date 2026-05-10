@@ -1,4 +1,6 @@
-export const NEWS = [
+import LIVE from './news-live.json'
+
+const STATIC_NEWS = [
   {
     id: 1, flag: '🌍', category: 'ОПЕК', categoryUk: 'ОПЕК', categoryEn: 'OPEC',
     date: '2026-05-06', source: 'Reuters', featured: true,
@@ -160,6 +162,9 @@ export const NEWS = [
     bodyEn:    'The Malaysian government announced a targeted fuel subsidy reform. Starting from June 1, 2026, citizens in the top income quintile (above MYR 15,000/month) will pay the market price for RON95 — approximately MYR 3.35/L. The remaining 80% will retain the preferential price of MYR 2.05/L. The government will save approximately MYR 4 billion per year. Technically, the reform is implemented through the MyKad application.',
   },
 ]
+
+// Live articles from CI override static fallback
+export const NEWS = LIVE.articles?.length ? LIVE.articles : STATIC_NEWS
 
 export const CATEGORIES_RU = ['Все',  'ОПЕК', 'Ближний Восток', 'Европа', 'Сев. Америка', 'Азия', 'Африка', 'Ю. Америка', 'Россия']
 export const CATEGORIES_UK = ['Всі',  'ОПЕК', 'Близький Схід', 'Європа', 'Пн. Америка', 'Азія', 'Африка', 'Пд. Америка', 'Росія']

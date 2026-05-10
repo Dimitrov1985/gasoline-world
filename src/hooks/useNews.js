@@ -89,13 +89,17 @@ const QUERIES = [
 ]
 
 export function useNews() {
+  // If CI already fetched live articles, mark as live right away
+  const ciIsLive = NEWS.length > 0 && NEWS[0]?.isLive === true
+
   const [articles, setArticles] = useState(NEWS)
   const [loading,  setLoading]  = useState(false)
-  const [isLive,   setIsLive]   = useState(false)
+  const [isLive,   setIsLive]   = useState(ciIsLive)
   const [error,    setError]    = useState(null)
 
   useEffect(() => {
-    if (!API_KEY) return  // немає ключа — статичні новини
+    if (ciIsLive) return  // CI data is fresh — skip client-side fetch
+    if (!API_KEY) return  // no key and no CI data — use static news
 
     // Спробувати кеш
     const cached = getCached()
