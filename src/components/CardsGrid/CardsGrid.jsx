@@ -39,7 +39,7 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
 
             <div className={styles.flag}>{d.flag}</div>
             <div className={styles.info}>
-              <div className={styles.name}>{countryName(d.country, lang)}</div>
+              <div className={styles.name} title={countryName(d.country, lang)}>{countryName(d.country, lang)}</div>
               <div className={styles.local}>{price.local} / {t('calc.liters')}</div>
             </div>
             <Sparkline points={sparkPoints} cls={cls} />
