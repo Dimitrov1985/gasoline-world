@@ -1,6 +1,7 @@
 .header {
-  position: relative;
-  z-index: 10;
+  position: sticky;
+  top: 0;
+  z-index: 100;
   padding: 20px 40px 18px;
   border-bottom: 1px solid var(--border);
   display: flex;
@@ -8,7 +9,9 @@
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 12px;
-  background: linear-gradient(180deg, var(--header-grad) 0%, transparent 100%);
+  background: var(--bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 
 .logo {
