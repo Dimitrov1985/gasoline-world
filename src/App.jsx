@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react'
+import Splash from './components/Splash/Splash'
 import { DATA } from './data/gasoline'
 import { useNotifications } from './hooks/useNotifications'
 import Header from './components/Header/Header'
@@ -15,6 +16,7 @@ import { useTranslation } from './i18n'
 import styles from './App.module.css'
 
 export default function App() {
+  const [splash, setSplash]           = useState(true)
   const [search, setSearch]           = useState('')
   const [sort, setSort]               = useState('asc')
   const [region, setRegion]           = useState('all')
@@ -66,6 +68,7 @@ export default function App() {
 
   return (
     <div className={styles.app}>
+      {splash && <Splash onDone={() => setSplash(false)} />}
       <div className={styles.orb1} />
       <div className={styles.orb2} />
 
