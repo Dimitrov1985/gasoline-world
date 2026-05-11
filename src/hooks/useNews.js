@@ -22,22 +22,22 @@ function setCache(articles) {
 function detectCategory(text) {
   const t = text.toLowerCase()
   if (/opec|saudi|aramco|uae|iran|iraq|kuwait|qatar|bahrain|oman/.test(t))
-    return { uk: 'ОПЕК', en: 'OPEC', cat: 'ОПЕК' }
+    return { en: 'OPEC', cat: 'ОПЕК' }
   if (/russia|moscow|kremlin|lukoil|rosneft/.test(t))
-    return { uk: 'Росія', en: 'Russia', cat: 'Россия' }
+    return { en: 'Russia', cat: 'Россия' }
   if (/europe|germany|france|britain|norway|netherlands|eu |poland|italy|spain/.test(t))
-    return { uk: 'Європа', en: 'Europe', cat: 'Европа' }
+    return { en: 'Europe', cat: 'Европа' }
   if (/china|india|japan|korea|singapore|asia|vietnam|indonesia|malaysia/.test(t))
-    return { uk: 'Азія', en: 'Asia', cat: 'Азия' }
+    return { en: 'Asia', cat: 'Азия' }
   if (/america|united states|\busa\b|canada|mexico/.test(t))
-    return { uk: 'Пн. Америка', en: 'N. America', cat: 'Сев. Америка' }
+    return { en: 'N. America', cat: 'Сев. Америка' }
   if (/africa|nigeria|kenya|ghana|angola|ethiopia/.test(t))
-    return { uk: 'Африка', en: 'Africa', cat: 'Африка' }
+    return { en: 'Africa', cat: 'Африка' }
   if (/venezuela|brazil|argentina|latin|colombia|chile/.test(t))
-    return { uk: 'Пд. Америка', en: 'S. America', cat: 'Ю. Америка' }
+    return { en: 'S. America', cat: 'Ю. Америка' }
   if (/middle east|jordan|israel|lebanon|turkey/.test(t))
-    return { uk: 'Близький Схід', en: 'Middle East', cat: 'Ближний Восток' }
-  return { uk: 'ОПЕК', en: 'OPEC', cat: 'ОПЕК' }
+    return { en: 'Middle East', cat: 'Ближний Восток' }
+  return { en: 'OPEC', cat: 'ОПЕК' }
 }
 
 function detectFlag(text) {
@@ -65,7 +65,7 @@ function mapArticle(a, i) {
     id:          `live-${i}`,
     flag:        detectFlag(text),
     category:    cat.cat,
-    categoryUk:  cat.uk,
+
     categoryEn:  cat.en,
     date:        (a.publishedAt ?? '').split('T')[0] || new Date().toISOString().split('T')[0],
     source:      a.source?.name ?? 'News',
