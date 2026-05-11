@@ -212,14 +212,14 @@
 }
 
 .title {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 700;
   line-height: 1.4;
   color: var(--text);
 }
 
 .summary {
-  font-size: 0.88rem;
+  font-size: 0.96rem;
   color: var(--muted);
   line-height: 1.6;
   display: -webkit-box;
