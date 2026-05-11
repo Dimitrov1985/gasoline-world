@@ -53,10 +53,10 @@ export default function NotificationCenter({
   function handleSimulate() {
     const count = onSimulate()
     setSimMsg(count > 0
-      ? `✅ ${count} ${lang === 'en' ? 'price changes detected' : 'змін знайдено'}`
+      ? `✅ ${count} ${lang === 'en' ? 'price changes detected' : 'изменений найдено'}`
       : watched.size === 0
-        ? (lang === 'en' ? '⚠️ No subscriptions' : '⚠️ Немає підписок')
-        : (lang === 'en' ? '✅ No changes' : '✅ Змін немає'))
+        ? (lang === 'en' ? '⚠️ No subscriptions' : '⚠️ Нет подписок')
+        : (lang === 'en' ? '✅ No changes' : '✅ Изменений нет'))
     setTimeout(() => setSimMsg(null), 4000)
     setTab('notifs')
   }
