@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react'
+import Background3D from './components/Background3D/Background3D'
 import Splash from './components/Splash/Splash'
 import { DATA } from './data/gasoline'
 import { useNotifications } from './hooks/useNotifications'
@@ -69,8 +70,7 @@ export default function App() {
   return (
     <div className={styles.app}>
       {splash && <Splash onDone={() => setSplash(false)} />}
-      <div className={styles.orb1} />
-      <div className={styles.orb2} />
+      <Background3D />
 
       <Header notificationSlot={bellSlot} onLogoClick={() => setSection('main')} />
       <Stats fuel={fuel} />

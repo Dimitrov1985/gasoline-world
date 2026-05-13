@@ -3,30 +3,6 @@
   position: relative;
 }
 
-.orb1 {
-  position: fixed;
-  top: -200px; left: -200px;
-  width: 560px; height: 560px;
-  background: radial-gradient(circle, rgba(249,115,22,0.07) 0%, transparent 70%);
-  pointer-events: none;
-  z-index: 0;
-  animation: float 9s ease-in-out infinite;
-}
-
-.orb2 {
-  position: fixed;
-  bottom: -200px; right: -100px;
-  width: 640px; height: 640px;
-  background: radial-gradient(circle, rgba(14,165,233,0.05) 0%, transparent 70%);
-  pointer-events: none;
-  z-index: 0;
-  animation: float 12s ease-in-out infinite reverse;
-}
-
-@keyframes float {
-  0%, 100% { transform: translate(0, 0); }
-  50%       { transform: translate(24px, 24px); }
-}
 
 .main {
   position: relative;
@@ -87,5 +63,4 @@
 
 @media (max-width: 768px) {
   .main { padding: 14px 16px 40px; }
-  .orb1, .orb2 { display: none; }
 }
