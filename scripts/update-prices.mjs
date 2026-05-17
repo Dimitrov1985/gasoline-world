@@ -67,36 +67,31 @@ async function scrapeWithPlaywright(url) {
 
   await page.setExtraHTTPHeaders({
     'Accept-Language': 'en-US,en;q=0.9',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
   })
 
   console.log(`  → Opening ${url}`)
-  await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 })
+  await page.goto(url, { waitUntil: 'networkidle', timeout: 45000 })
+  await page.waitForTimeout(3000)
 
-  // Wait for the price table to appear
-  await page.waitForSelector('table tbody tr td', { timeout: 15000 }).catch(() => {
-    console.warn('  ⚠ Table selector timeout — page may not have loaded fully')
-  })
-
+  // Site changed from <table> to a CSS bar chart.
+  // Country labels (.outsideTitleElement) and price bars (#graphic > div[background:#e2bb04])
+  // are both sorted cheapest→most-expensive, so we zip them by index.
   const prices = await page.evaluate((enToIso) => {
     const result = {}
-    const rows = document.querySelectorAll('table tbody tr')
 
-    for (const row of rows) {
-      const cells = Array.from(row.querySelectorAll('td'))
-      if (cells.length < 3) continue
+    const countryEls = [...document.querySelectorAll('.outsideTitleElement a')]
+    const countries = countryEls.map(a => a.textContent.trim().replace(/\*/g, '').trim())
 
-      const country = cells[0]?.textContent?.trim()?.replace(/\*/g, '')
-      if (!country) continue
+    const barEls = [...document.querySelectorAll('#graphic div[style*="background: #e2bb04"]')]
+    const sorted = barEls
+      .map(el => ({ top: parseInt(el.style.top) || 0, price: parseFloat(el.querySelector('div')?.textContent?.trim()) }))
+      .filter(b => !isNaN(b.price) && b.price > 0 && b.price < 10)
+      .sort((a, b) => a.top - b.top)
 
-      // Column index for USD price — GlobalPetrolPrices shows:
-      // 0: Country  1: Local/EUR  2: USD/liter  3: USD/gallon  ...
-      const usdRaw = cells[2]?.textContent?.trim()
-      const usd = parseFloat(usdRaw)
-
-      if (!isNaN(usd) && usd > 0 && usd < 10) {
-        const iso = enToIso[country]
-        if (iso) result[iso] = Math.round(usd * 1000) / 1000
-      }
+    for (let i = 0; i < Math.min(countries.length, sorted.length); i++) {
+      const iso = enToIso[countries[i]]
+      if (iso) result[iso] = Math.round(sorted[i].price * 1000) / 1000
     }
     return result
   }, EN_TO_ISO)
