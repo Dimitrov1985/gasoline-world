@@ -2,7 +2,7 @@ name: Update Fuel Prices
 
 on:
   schedule:
-    - cron: '0 6 * * 1'   # каждый понедельник в 6:00 UTC
+    - cron: '0 6 * * *'   # каждый день в 6:00 UTC
   workflow_dispatch:        # ручной запуск из вкладки Actions на GitHub
 
 jobs:
