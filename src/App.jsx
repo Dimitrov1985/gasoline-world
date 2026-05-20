@@ -17,7 +17,9 @@ import { useTranslation } from './i18n'
 import styles from './App.module.css'
 
 export default function App() {
-  const [splash, setSplash]           = useState(true)
+  const [splash, setSplash]           = useState(
+    () => new URLSearchParams(location.search).get('prerender') !== '1'
+  )
   const [search, setSearch]           = useState('')
   const [sort, setSort]               = useState('asc')
   const [region, setRegion]           = useState('all')
@@ -68,7 +70,7 @@ export default function App() {
   )
 
   return (
-    <div className={styles.app}>
+    <div className={styles.app} data-app="ready">
       {splash && <Splash onDone={() => setSplash(false)} />}
       <Background3D />
 
