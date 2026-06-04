@@ -11,14 +11,15 @@
 .card {
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 16px 18px;
+  border-radius: 14px;
+  padding: 18px 20px 16px;
   position: relative;
   overflow: hidden;
-  transition: border-color 0.3s, transform 0.3s;
+  transition: border-color 0.3s, transform 0.3s, box-shadow 0.3s;
 }
-.card:hover { transform: translateY(-2px); }
+.card:hover { transform: translateY(-3px); }
 
+/* Colored top bar */
 .card::before {
   content: '';
   position: absolute;
@@ -26,43 +27,51 @@
   height: 2px;
   background: linear-gradient(90deg, var(--border), transparent);
 }
+/* Subtle tinted background per card type */
+.green  { background: linear-gradient(145deg, rgba(34,197,94,0.05) 0%, var(--card) 55%); }
+.red    { background: linear-gradient(145deg, rgba(239,68,68,0.05) 0%, var(--card) 55%); }
+.blue   { background: linear-gradient(145deg, rgba(14,165,233,0.05) 0%, var(--card) 55%); }
+.card:not(.green):not(.red):not(.blue) { background: linear-gradient(145deg, rgba(249,115,22,0.05) 0%, var(--card) 55%); }
+
 .green::before  { background: linear-gradient(90deg, var(--green), transparent); }
-.green:hover    { border-color: var(--green); }
+.green:hover    { border-color: var(--green); box-shadow: 0 8px 24px rgba(34,197,94,0.1); }
 .red::before    { background: linear-gradient(90deg, var(--red), transparent); }
-.red:hover      { border-color: var(--red); }
+.red:hover      { border-color: var(--red); box-shadow: 0 8px 24px rgba(239,68,68,0.1); }
 .blue::before   { background: linear-gradient(90deg, var(--accent), transparent); }
-.blue:hover     { border-color: var(--accent); }
+.blue:hover     { border-color: var(--accent); box-shadow: 0 8px 24px rgba(14,165,233,0.1); }
 .card:not(.green):not(.red):not(.blue)::before { background: linear-gradient(90deg, var(--orange), transparent); }
-.card:not(.green):not(.red):not(.blue):hover   { border-color: var(--orange); }
+.card:not(.green):not(.red):not(.blue):hover   { border-color: var(--orange); box-shadow: 0 8px 24px rgba(249,115,22,0.1); }
 
 .label {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.62rem;
-  letter-spacing: 1.5px;
+  font-size: 0.6rem;
+  letter-spacing: 2px;
   text-transform: uppercase;
   color: var(--muted);
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 .value {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: 2rem;
+  font-size: 2.2rem;
   line-height: 1;
   letter-spacing: 1px;
 }
 
-.cheapVal    { color: var(--green); }
-.expensiveVal{ color: var(--red); }
-.avgVal      { color: var(--accent); }
-.orangeVal   { color: var(--orange); }
+.cheapVal    { color: var(--green);  text-shadow: 0 0 18px var(--glow-green); }
+.expensiveVal{ color: var(--red);    text-shadow: 0 0 18px var(--glow-red); }
+.avgVal      { color: var(--accent); text-shadow: 0 0 18px var(--glow-blue); }
+.orangeVal   { color: var(--orange); text-shadow: 0 0 18px var(--glow-orange); }
 
 .country {
-  font-size: 0.82rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
   color: var(--muted);
-  margin-top: 4px;
+  margin-top: 5px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  letter-spacing: 0.3px;
 }
 
 @media (max-width: 900px) {

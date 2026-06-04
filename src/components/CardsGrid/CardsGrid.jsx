@@ -18,10 +18,11 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
         const isActive    = d.iso === selectedIso
         const watching    = isWatched?.(d.iso)
         const sparkPoints = generateForecast(d, fuel, 8).map(p => p.price)
+        const tierClass = cls === 'cheap' ? styles.cardCheap : cls === 'medium' ? styles.cardMedium : styles.cardExpensive
         return (
           <div
             key={d.country}
-            className={`${styles.card} ${isActive ? styles.cardActive : ''}`}
+            className={`${styles.card} ${tierClass} ${isActive ? styles.cardActive : ''}`}
             style={{ animationDelay: `${i * 0.025}s` }}
             onClick={() => onSelect(d.iso)}
           >

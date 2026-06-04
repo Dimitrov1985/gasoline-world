@@ -43,9 +43,12 @@
   font-family: 'Rajdhani', sans-serif;
   font-size: 1rem;
   outline: none;
-  transition: border-color 0.25s;
+  transition: border-color 0.25s, box-shadow 0.25s;
 }
-.input:focus { border-color: var(--orange); }
+.input:focus {
+  border-color: var(--orange);
+  box-shadow: 0 0 0 3px rgba(249,115,22,0.1);
+}
 .input::placeholder { color: var(--muted); }
 
 .select {
@@ -123,22 +126,25 @@
 }
 
 .regionBtn {
-  padding: 5px 12px;
+  padding: 5px 13px;
   border-radius: 20px;
   border: 1px solid var(--border);
   background: transparent;
   color: var(--muted);
   font-family: 'Rajdhani', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
 }
-.regionBtn:hover:not(.regionActive) { color: var(--text); border-color: var(--muted); }
+.regionBtn:hover:not(.regionActive) { color: var(--text); border-color: rgba(255,255,255,0.2); }
 .regionActive {
   border-color: var(--orange);
   color: var(--orange);
   background: rgba(249,115,22,0.1);
+  box-shadow: 0 0 10px rgba(249,115,22,0.1);
 }
 
 /* ── Mobile ── */
