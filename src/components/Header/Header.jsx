@@ -15,11 +15,15 @@ export default function Header({ notificationSlot, onLogoClick }) {
           <p>{t('header.subtitle')}</p>
         </div>
       </div>
+
       <div className={styles.right}>
         <div className={styles.badge}>
+          <span className={styles.liveDot} />
           {t('header.data')}: <span>{t('header.dataPeriod')}</span>
         </div>
-        {/* Theme toggle */}
+
+        <div className={styles.divider} />
+
         <button
           className={styles.themeBtn}
           onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
@@ -38,6 +42,7 @@ export default function Header({ notificationSlot, onLogoClick }) {
             onClick={() => setLang('en')}
           >EN</button>
         </div>
+
         {notificationSlot}
       </div>
     </header>
