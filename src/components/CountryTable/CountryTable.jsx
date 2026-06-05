@@ -5,6 +5,8 @@ import { countryName } from '../../i18n/countryNames'
 import Sparkline from '../Sparkline/Sparkline'
 import styles from './CountryTable.module.css'
 
+const MEDAL = ['#f59e0b', '#94a3b8', '#cd7f32']
+
 export default function CountryTable({ items, fuel, selectedIso, onSelect, isWatched, onWatch }) {
   const { t, lang } = useTranslation()
   if (items.length === 0) return <div className={styles.empty}>{t('list.notFound')}</div>
@@ -36,9 +38,14 @@ export default function CountryTable({ items, fuel, selectedIso, onSelect, isWat
                 key={d.country}
                 className={isActive ? styles.activeRow : ''}
                 onClick={() => onSelect(d.iso)}
-                style={{ cursor: 'pointer', animationDelay: `${i * 0.02}s` }}
+                style={{ animationDelay: `${i * 0.015}s` }}
               >
-                <td className={styles.rank}>{i + 1}</td>
+                <td className={styles.rank}>
+                  {i < 3
+                    ? <span className={styles.rankMedal} style={{ color: MEDAL[i] }}>{i + 1}</span>
+                    : i + 1
+                  }
+                </td>
                 <td className={styles.flag}>{d.flag}</td>
                 <td className={styles.name}>
                   {countryName(d.country, lang)}
