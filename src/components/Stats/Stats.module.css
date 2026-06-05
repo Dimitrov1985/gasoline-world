@@ -9,82 +9,144 @@
 }
 
 .card {
-  background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 14px;
+  border-radius: 16px;
   padding: 18px 20px 16px;
   position: relative;
   overflow: hidden;
-  transition: border-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  transition: border-color 0.3s, transform 0.3s cubic-bezier(0.34,1.56,0.64,1), box-shadow 0.3s;
+  cursor: default;
 }
-.card:hover { transform: translateY(-3px); }
+.card:hover { transform: translateY(-4px) scale(1.015); }
 
-/* Colored top bar */
+/* ── Colored top bar (3px) ── */
 .card::before {
   content: '';
   position: absolute;
   top: 0; left: 0; right: 0;
-  height: 2px;
-  background: linear-gradient(90deg, var(--border), transparent);
+  height: 3px;
 }
-/* Subtle tinted background per card type */
-.green  { background: linear-gradient(145deg, rgba(34,197,94,0.05) 0%, var(--card) 55%); }
-.red    { background: linear-gradient(145deg, rgba(239,68,68,0.05) 0%, var(--card) 55%); }
-.blue   { background: linear-gradient(145deg, rgba(14,165,233,0.05) 0%, var(--card) 55%); }
-.card:not(.green):not(.red):not(.blue) { background: linear-gradient(145deg, rgba(249,115,22,0.05) 0%, var(--card) 55%); }
 
-.green::before  { background: linear-gradient(90deg, var(--green), transparent); }
-.green:hover    { border-color: var(--green); box-shadow: 0 8px 24px rgba(34,197,94,0.1); }
-.red::before    { background: linear-gradient(90deg, var(--red), transparent); }
-.red:hover      { border-color: var(--red); box-shadow: 0 8px 24px rgba(239,68,68,0.1); }
+/* ── Watermark glyph ── */
+.card::after {
+  content: attr(data-glyph);
+  position: absolute;
+  right: 8px;
+  bottom: -10px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 6rem;
+  line-height: 1;
+  letter-spacing: -2px;
+  opacity: 0.05;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* ── Tinted backgrounds ── */
+.green {
+  background: linear-gradient(145deg, rgba(34,197,94,0.07) 0%, var(--card) 60%);
+}
+.red {
+  background: linear-gradient(145deg, rgba(239,68,68,0.07) 0%, var(--card) 60%);
+}
+.blue {
+  background: linear-gradient(145deg, rgba(14,165,233,0.07) 0%, var(--card) 60%);
+}
+.orange {
+  background: linear-gradient(145deg, rgba(249,115,22,0.07) 0%, var(--card) 60%);
+}
+
+/* Top bars */
+.green::before  { background: linear-gradient(90deg, var(--green),  transparent); }
+.red::before    { background: linear-gradient(90deg, var(--red),    transparent); }
 .blue::before   { background: linear-gradient(90deg, var(--accent), transparent); }
-.blue:hover     { border-color: var(--accent); box-shadow: 0 8px 24px rgba(14,165,233,0.1); }
-.card:not(.green):not(.red):not(.blue)::before { background: linear-gradient(90deg, var(--orange), transparent); }
-.card:not(.green):not(.red):not(.blue):hover   { border-color: var(--orange); box-shadow: 0 8px 24px rgba(249,115,22,0.1); }
+.orange::before { background: linear-gradient(90deg, var(--orange), transparent); }
 
+/* Hover borders + glow */
+.green:hover  { border-color: var(--green);  box-shadow: 0 12px 28px rgba(34,197,94,0.12); }
+.red:hover    { border-color: var(--red);    box-shadow: 0 12px 28px rgba(239,68,68,0.12); }
+.blue:hover   { border-color: var(--accent); box-shadow: 0 12px 28px rgba(14,165,233,0.12); }
+.orange:hover { border-color: var(--orange); box-shadow: 0 12px 28px rgba(249,115,22,0.12); }
+
+/* ── Corner badge icon ── */
+.cardBadge {
+  position: absolute;
+  top: 14px; right: 15px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.15rem;
+  letter-spacing: 1px;
+  line-height: 1;
+  opacity: 0.55;
+  transition: opacity 0.2s;
+}
+.card:hover .cardBadge { opacity: 0.9; }
+
+.badgeGreen  { color: var(--green); }
+.badgeRed    { color: var(--red); }
+.badgeBlue   { color: var(--accent); }
+.badgeOrange { color: var(--orange); }
+
+/* ── Label ── */
 .label {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.6rem;
+  font-size: 0.58rem;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: var(--muted);
   margin-bottom: 8px;
+  padding-right: 28px; /* avoid overlap with badge */
 }
 
+/* ── Value (hero number) ── */
 .value {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: 2.2rem;
+  font-size: 2.5rem;
   line-height: 1;
   letter-spacing: 1px;
 }
 
-.cheapVal    { color: var(--green);  text-shadow: 0 0 18px var(--glow-green); }
-.expensiveVal{ color: var(--red);    text-shadow: 0 0 18px var(--glow-red); }
-.avgVal      { color: var(--accent); text-shadow: 0 0 18px var(--glow-blue); }
-.orangeVal   { color: var(--orange); text-shadow: 0 0 18px var(--glow-orange); }
+.cheapVal    { color: var(--green);  text-shadow: 0 0 22px var(--glow-green); }
+.expensiveVal{ color: var(--red);    text-shadow: 0 0 22px var(--glow-red); }
+.avgVal      { color: var(--accent); text-shadow: 0 0 22px var(--glow-blue); }
+.orangeVal   { color: var(--orange); text-shadow: 0 0 22px var(--glow-orange); }
 
+/* ── Country / description ── */
 .country {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   color: var(--muted);
-  margin-top: 5px;
+  margin-top: 6px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.2px;
 }
 
+/* ── Delta (% vs average) ── */
+.delta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.56rem;
+  letter-spacing: 0.8px;
+  margin-top: 4px;
+  opacity: 0.75;
+}
+.deltaDown { color: var(--green); }
+.deltaUp   { color: var(--red); }
+
+/* ── Mobile ── */
 @media (max-width: 900px) {
   .stats { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media (max-width: 640px) {
   .stats { padding: 12px 16px; gap: 10px; }
-  .value { font-size: 1.6rem; }
-  .label { font-size: 0.58rem; }
+  .value { font-size: 2rem; }
+  .label { font-size: 0.56rem; }
+  .card::after { font-size: 4.5rem; }
 }
 
 @media (max-width: 380px) {
   .stats { grid-template-columns: 1fr 1fr; gap: 8px; }
-  .card { padding: 12px 14px; }
+  .card  { padding: 12px 14px; }
+  .value { font-size: 1.8rem; }
 }
