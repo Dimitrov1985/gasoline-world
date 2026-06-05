@@ -2,7 +2,7 @@ export const en = {
   // Header
   'header.subtitle':   'World Fuel Prices • Price Dashboard',
   'header.data':       'Data',
-  'header.dataPeriod': 'Summer 2025',
+  'header.dataPeriod': 'Summer 2026',
 
   // Stats
   'stats.cheapest':  '⬇ Cheapest',

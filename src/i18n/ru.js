@@ -2,7 +2,7 @@ export const ru = {
   // Header
   'header.subtitle':   'Мировые цены на топливо • Price Dashboard',
   'header.data':       'Данные',
-  'header.dataPeriod': 'Лето 2025',
+  'header.dataPeriod': 'Лето 2026',
 
   // Stats
   'stats.cheapest':  '⬇ Самый дешёвый',
