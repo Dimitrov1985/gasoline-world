@@ -18,7 +18,7 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
         const isActive    = d.iso === selectedIso
         const watching    = isWatched?.(d.iso)
         const sparkPoints = generateForecast(d, fuel, 8).map(p => p.price)
-        const tierClass = cls === 'cheap' ? styles.cardCheap : cls === 'medium' ? styles.cardMedium : styles.cardExpensive
+        const tierClass   = cls === 'cheap' ? styles.cardCheap : cls === 'medium' ? styles.cardMedium : styles.cardExpensive
         return (
           <div
             key={d.country}
@@ -38,12 +38,18 @@ export default function CardsGrid({ items, fuel, selectedIso, onSelect, isWatche
 
             {isActive && <div className={styles.activeBadge}>{t('list.inCalc')}</div>}
 
-            <div className={styles.flag}>{d.flag}</div>
+            <div className={styles.flagWrap}>
+              <div className={styles.flag}>{d.flag}</div>
+            </div>
+
             <div className={styles.info}>
               <div className={styles.name} title={countryName(d.country, lang)}>{countryName(d.country, lang)}</div>
               <div className={styles.local}>{price.local} / {t('calc.liters')}</div>
+              <div className={`${styles.tierLabel} ${styles[cls]}`}>{t(`list.tier_${cls}`)}</div>
             </div>
+
             <Sparkline points={sparkPoints} cls={cls} />
+
             <div className={styles.priceBlock}>
               <div className={`${styles.usd} ${styles[cls]}`}>${price.usd.toFixed(2)}</div>
               <div className={styles.unit}>{t('list.perLiter')}</div>

@@ -38,9 +38,12 @@ export const ru = {
   'ctrl.table':     '☰ Таблица',
 
   // Cards / Table
-  'list.notFound':  '🔍 Ничего не найдено',
-  'list.inCalc':    '⚡ В калькуляторе',
-  'list.perLiter':  'USD / литр',
+  'list.notFound':       '🔍 Ничего не найдено',
+  'list.inCalc':         '⚡ В калькуляторе',
+  'list.perLiter':       'USD / литр',
+  'list.tier_cheap':     'дёшево',
+  'list.tier_medium':    'умеренно',
+  'list.tier_expensive': 'дорого',
   'table.rank':     '#',
   'table.flag':     'Флаг',
   'table.country':  'Страна',

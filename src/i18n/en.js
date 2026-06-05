@@ -38,9 +38,12 @@ export const en = {
   'ctrl.table':     '☰ Table',
 
   // Cards / Table
-  'list.notFound':  '🔍 Nothing found',
-  'list.inCalc':    '⚡ In calculator',
-  'list.perLiter':  'USD / liter',
+  'list.notFound':       '🔍 Nothing found',
+  'list.inCalc':         '⚡ In calculator',
+  'list.perLiter':       'USD / liter',
+  'list.tier_cheap':     'cheap',
+  'list.tier_medium':    'fair',
+  'list.tier_expensive': 'costly',
   'table.rank':     '#',
   'table.flag':     'Flag',
   'table.country':  'Country',
