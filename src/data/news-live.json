@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-06-27",
+  "lastUpdated": "2026-06-28",
   "articles": [
     {
-      "id": "live-1782552485875-0",
+      "id": "live-1782640587300-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-06-27",
+      "source": "The Tribune",
+      "featured": true,
+      "url": "https://www.tribuneindia.com/news/india/why-are-fuel-prices-still-high-when-global-crude-oil-rates-have-fallen-kharge/",
+      "isLive": true,
+      "title": "Why are fuel prices still high when global crude oil rates have fallen: Kharge",
+      "titleEn": "Why are fuel prices still high when global crude oil rates have fallen: Kharge",
+      "summary": "“Today, crude oil prices have fallen to $70.71 per barrel. Then why is the Modi government selling petrol at Rs 102.12 per litre and diesel at Rs 95.20 per litre?” Kharge asked.",
+      "summaryEn": "“Today, crude oil prices have fallen to $70.71 per barrel. Then why is the Modi government selling petrol at Rs 102.12 per litre and diesel at Rs 95.20 per litre?” Kharge asked.",
+      "body": "Congress president Mallikarjun Kharge on Saturday questioned the Narendra Modi government over petrol, diesel and LPG prices despite a sharp fall in global crude oil rates, alleging that consumers were being denied relief even after supply conditions...",
+      "bodyEn": "Congress president Mallikarjun Kharge on Saturday questioned the Narendra Modi government over petrol, diesel and LPG prices despite a sharp fall in global crude oil rates, alleging that consumers were being denied relief even after supply conditions..."
+    },
+    {
+      "id": "live-1782640587301-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-06-27",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-27-check-latest-prices-in-delhi-mumbai-kolkata-and-other-cities-539497-2026-06-27",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, June 27: Check latest prices in Delhi, Mumbai, Kolkata and other cities",
+      "titleEn": "Petrol, diesel prices today, June 27: Check latest prices in Delhi, Mumbai, Kolkata and other cities",
+      "summary": "The petrol and diesel rates have remained stable since May 25, when state-owned fuel retailers last hiked petrol prices by ₹2.61 per litre and diesel by ₹2.71 per litre.",
+      "summaryEn": "The petrol and diesel rates have remained stable since May 25, when state-owned fuel retailers last hiked petrol prices by ₹2.61 per litre and diesel by ₹2.71 per litre.",
+      "body": "It's been a month since the last hike. Fuel prices across Indian cities held steady on June 27, even as global crude markets remain on edge amid tensions in West Asia and disruptions to key shipping routes. The petrol and diesel rates have remained s...",
+      "bodyEn": "It's been a month since the last hike. Fuel prices across Indian cities held steady on June 27, even as global crude markets remain on edge amid tensions in West Asia and disruptions to key shipping routes. The petrol and diesel rates have remained s..."
+    },
+    {
+      "id": "live-1782640587301-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-06-27",
+      "source": "News18",
+      "featured": false,
+      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-27-ws-l-10176314.html",
+      "isLive": true,
+      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 27",
+      "titleEn": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 27",
+      "summary": "Prices of petrol, diesel and CNG remain unchanged on Saturday, June 27, 2026.",
+      "summaryEn": "Prices of petrol, diesel and CNG remain unchanged on Saturday, June 27, 2026.",
+      "body": "Prices of petrol, diesel and CNG remain unchanged on Saturday, June 27, 2026.\nPetrol, Diesel, CNG Prices on June 27, 2026: Prices of petrol, diesel and CNG remained unchanged on Saturrday, June 27, 2026. Oil market companies (OMCs) and natural gas di...",
+      "bodyEn": "Prices of petrol, diesel and CNG remain unchanged on Saturday, June 27, 2026.\nPetrol, Diesel, CNG Prices on June 27, 2026: Prices of petrol, diesel and CNG remained unchanged on Saturrday, June 27, 2026. Oil market companies (OMCs) and natural gas di..."
+    },
+    {
+      "id": "live-1782640587301-3",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-06-26",
       "source": "The Tribune",
-      "featured": true,
+      "featured": false,
       "url": "https://www.tribuneindia.com/news/amritsar/farmers-hold-flag-march-against-proposed-india-us-trade-deal/",
       "isLive": true,
       "title": "Farmers hold flag march against proposed India",
@@ -19,7 +70,7 @@
       "bodyEn": "Members of the Bharatiya Kisan Union (Ekta-Ugrahan) on Friday took out a flag march at Ranjit Avenue to protest against the proposed India-US free trade agreement, rising prices of petrol, diesel and cooking gas, shortage of urea fertiliser and the i..."
     },
     {
-      "id": "live-1782552485876-1",
+      "id": "live-1782640587301-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "According to experts, fuel prices are not determined by daily fluctuations in the international crude oil market; instead, they are usually based on average oil prices over the preceding two weeks or month.\nNew Delhi: Despite a sharp drop in crude oi..."
     },
     {
-      "id": "live-1782552485876-2",
+      "id": "live-1782640587301-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Nearly four months after the United States and Israel launched unprovoked attacks on Iran, forcing the world, especially India, to scramble for oil and gas, crude oil price has crawled back to the pre-war levels of $73 a barrel. The fall in the crude..."
     },
     {
-      "id": "live-1782552485876-3",
+      "id": "live-1782640587301-6",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -70,7 +121,7 @@
       "bodyEn": "Venezuela’s devastating twin earthquakes have triggered a humanitarian crisis, with the death toll crossing 235 and rescue efforts continuing under a nationwide state of emergency declared by acting President Delcy Rodríguez. But beyond the immediate..."
     },
     {
-      "id": "live-1782552485876-4",
+      "id": "live-1782640587301-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "State-run oil marketing companies are unlikely to cut retail fuel prices anytime soon despite the sharp fall in crude oil prices as refiners look to recoup heavy losses incurred during the West Asia conflict while monitoring the implementation of the..."
     },
     {
-      "id": "live-1782552485876-5",
+      "id": "live-1782640587301-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +155,7 @@
       "bodyEn": "The powerful twin earthquakes that struck northern Venezuela on Thursday have created a humanitarian catastrophe with the death toll crossing 235 and counting.\nActing President Delcy Rodríguez declaring a nationwide state of emergency as attention ha..."
     },
     {
-      "id": "live-1782552485876-6",
+      "id": "live-1782640587301-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "Plymouth petrol prices hit 151.7p as local diesel drivers beat the national average\nThe cheapest place in Plymouth to fill up your car with petrol is at a Asda garage in Plymouth.\nAccording to the latest data supplied by retailers, a driver in an ave..."
     },
     {
-      "id": "live-1782552485876-7",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-06-26",
-      "source": "News18",
-      "featured": false,
-      "url": "https://www.news18.com/explainers/can-venezuela-earthquake-push-up-diesel-and-petrol-prices-in-india-global-oil-link-explained-ws-l-10174302.html",
-      "isLive": true,
-      "title": "Can Venezuela Earthquake Push Up Diesel And Petrol Prices In India? Global Oil Link Explained",
-      "titleEn": "Can Venezuela Earthquake Push Up Diesel And Petrol Prices In India? Global Oil Link Explained",
-      "summary": "For India, the immediate concern is not a shortage of crude but preserving the diversification strategy it adopted after disruptions in the Middle East",
-      "summaryEn": "For India, the immediate concern is not a shortage of crude but preserving the diversification strategy it adopted after disruptions in the Middle East",
-      "body": "Last Updated:June 26, 2026, 10:16 IST\nFor India, the immediate concern is not a shortage of crude but preserving the diversification strategy it adopted after disruptions in the Middle East\nThe devastating twin earthquakes that struck Venezuela have ...",
-      "bodyEn": "Last Updated:June 26, 2026, 10:16 IST\nFor India, the immediate concern is not a shortage of crude but preserving the diversification strategy it adopted after disruptions in the Middle East\nThe devastating twin earthquakes that struck Venezuela have ..."
-    },
-    {
-      "id": "live-1782552485876-8",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-06-26",
-      "source": "News18",
-      "featured": false,
-      "url": "https://www.news18.com/explainers/crude-oil-is-back-at-pre-war-levels-so-why-are-petrol-diesel-prices-unchanged-in-india-ws-l-10174190.html",
-      "isLive": true,
-      "title": "Crude Oil Is Back At Pre-War Levels, So Why Are Petrol, Diesel Prices Unchanged In India?",
-      "titleEn": "Crude Oil Is Back At Pre-War Levels, So Why Are Petrol, Diesel Prices Unchanged In India?",
-      "summary": "The latest fall in oil prices has improved the outlook for India, but pump rates depend on more than the day’s crude price.",
-      "summaryEn": "The latest fall in oil prices has improved the outlook for India, but pump rates depend on more than the day’s crude price.",
-      "body": "Last Updated:June 26, 2026, 09:28 IST\nThe latest fall in oil prices has improved the outlook for India, but pump rates depend on more than the day’s crude price.\nGlobal crude oil prices have returned to levels seen before the Iran war, while petrol a...",
-      "bodyEn": "Last Updated:June 26, 2026, 09:28 IST\nThe latest fall in oil prices has improved the outlook for India, but pump rates depend on more than the day’s crude price.\nGlobal crude oil prices have returned to levels seen before the Iran war, while petrol a..."
-    },
-    {
-      "id": "live-1782552485876-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-06-26",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-26-prices-to-rise-again-check-prices-in-delhi-mumbai-kolkata-and-other-cities-539331-2026-06-26",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, June 26: Prices to rise again? Check prices in Delhi, Mumbai, Kolkata and other cities",
-      "titleEn": "Petrol, diesel prices today, June 26: Prices to rise again? Check prices in Delhi, Mumbai, Kolkata and other cities",
-      "summary": "In Delhi, petrol continues to retail above Rs 100. It now costs Rs 102.12 per litre and diesel Rs 95.20 per litre, following the latest increase",
-      "summaryEn": "In Delhi, petrol continues to retail above Rs 100. It now costs Rs 102.12 per litre and diesel Rs 95.20 per litre, following the latest increase",
-      "body": "It's been a month since the last hike. Fuel prices across Indian cities held steady on June 25, even as global crude markets remain on edge amid tensions in West Asia and disruptions to key shipping routes. The petrol and diesel rates have remained s...",
-      "bodyEn": "It's been a month since the last hike. Fuel prices across Indian cities held steady on June 25, even as global crude markets remain on edge amid tensions in West Asia and disruptions to key shipping routes. The petrol and diesel rates have remained s..."
-    },
-    {
-      "id": "live-1782552485876-10",
+      "id": "live-1782640587301-10",
       "flag": "🇷🇺",
       "category": "Россия",
       "categoryEn": "Russia",
