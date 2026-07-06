@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-06",
   "articles": [
     {
-      "id": "live-1783244546250-0",
+      "id": "live-1783337216285-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-07-05",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-5-july-latest-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-hyderabad-other-cities-11783212430515.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today - 5 July: Latest fuel rates in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad, other cities",
+      "titleEn": "Petrol, diesel prices today - 5 July: Latest fuel rates in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad, other cities",
+      "summary": "Fuel prices in India remained stable on 5 July despite falling global crude prices. Oil Marketing Companies are not expected to cut domestic prices soon.",
+      "summaryEn": "Fuel prices in India remained stable on 5 July despite falling global crude prices. Oil Marketing Companies are not expected to cut domestic prices soon.",
+      "body": "Petrol and diesel prices today: Fuel prices in India held steady with marginal changes on Sunday, 5 July. Even though brent crude, the international oil benchmark, recently erased its war-time rally in their biggest quarterly slump since 2020, fuel p...",
+      "bodyEn": "Petrol and diesel prices today: Fuel prices in India held steady with marginal changes on Sunday, 5 July. Even though brent crude, the international oil benchmark, recently erased its war-time rally in their biggest quarterly slump since 2020, fuel p..."
+    },
+    {
+      "id": "live-1783337216286-1",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-07-04",
       "source": "Times Now",
-      "featured": true,
+      "featured": false,
       "url": "https://www.timesnownews.com/business-economy/industry/why-omcs-lost-rs-6-on-every-litre-of-petrol-and-rs-18-9-on-diesel-this-quarter-article-154934819",
       "isLive": true,
       "title": "Why OMCs Lost Rs 6 On Every Litre Of Petrol And Rs 18.9 On Diesel This Quarter",
@@ -19,7 +36,7 @@
       "bodyEn": "The surge in international crude oil and refined fuel prices during the quarter was not fully reflected in domestic pump prices. (File Photo)\nPhoto : IANS\nState-run oil marketing companies (OMCs) reported sharp losses on the retail sale of petrol and..."
     },
     {
-      "id": "live-1783244546251-1",
+      "id": "live-1783337216286-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -36,7 +53,7 @@
       "bodyEn": "State-run oil marketing companies (OMCs) lost an estimated ₹18.9 on every litre of diesel and ₹6 on every litre of petrol sold during the April-June quarter, according to ICICI Securities. The losses came despite domestic pump prices remaining largel..."
     },
     {
-      "id": "live-1783244546251-2",
+      "id": "live-1783337216286-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on Saturday, July 4, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediat..."
     },
     {
-      "id": "live-1783244546251-3",
+      "id": "live-1783337216286-4",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "Pakistan has slashed its retail fuel the prices, following the easing of tensions in West Asia. Both petrol and diesel prices have been cut by Rs 1.97 per litre for the next week. In a statement released by Pakistan’s Ministry of Petroleum, the Shehb..."
     },
     {
-      "id": "live-1783244546251-4",
+      "id": "live-1783337216286-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +104,7 @@
       "bodyEn": "ISLAMABAD - The federal government on Friday night slightly reduced the prices of petrol and high-speed diesel by Rs 1.97 per litre each.\nThe Government of Pakistan has revised the ex-depot prices of the petroleum products for the next week starting ..."
     },
     {
-      "id": "live-1783244546251-5",
+      "id": "live-1783337216286-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +121,7 @@
       "bodyEn": "Despite the reduction in prices of crude oil on a global level, Indian consumers may have to wait a little longer for relief at the fuel pumps. Union Petroleum and Natural Gas Minister Hardeep Singh Puri indicated that any reduction in petrol and die..."
     },
     {
-      "id": "live-1783244546251-6",
+      "id": "live-1783337216286-7",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +138,7 @@
       "bodyEn": "When will state-run oil marketing companies like Indian Oil Corporation, Hindustan Petroleum, and Bharat Petroleum cut rates? (AI image)\nGlobal crude oil prices have crashed to a four month low and are now hovering around the pre-war levels. From aro..."
     },
     {
-      "id": "live-1783244546251-7",
+      "id": "live-1783337216286-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,7 +155,7 @@
       "bodyEn": "As global crude oil prices slide to their lowest levels in nearly three years, Deepak Shenoy believes Indian motorists should be seeing relief at the fuel pump. Instead, with petrol and diesel prices holding steady, the Capitalmind Mutual Fund CEO ha..."
     },
     {
-      "id": "live-1783244546251-8",
+      "id": "live-1783337216286-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -155,123 +172,21 @@
       "bodyEn": "With cooling of brent crude prices, all eyes are on petrol and diesel rates and next move of domestic retailers. Easing of tensions in West Asia and US and Iran's progress in peace talks towards a lasting accord can be attributed to recent softening ..."
     },
     {
-      "id": "live-1783244546251-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-03",
-      "source": "Moneycontrol",
+      "id": "live-1783337216286-10",
+      "flag": "🇷🇺",
+      "category": "Россия",
+      "categoryEn": "Russia",
+      "date": "2026-06-25",
+      "source": "Firstpost",
       "featured": false,
-      "url": "https://www.moneycontrol.com/news/business/commodities/petrol-diesel-rates-today-on-july-3-have-omcs-slashed-fuel-prices-check-latest-levels-across-delhi-mumbai-noida-full-list-13965120.html",
+      "url": "https://www.firstpost.com/business/russia-fuel-prices-20-year-high-ukraine-drone-strikes-refineries-fuel-crisis-rationing-14026075.html",
       "isLive": true,
-      "title": "Petrol, diesel rates today on July 3: Have OMCs slashed fuel prices? Check latest levels across Delhi, Mumbai, Noida - full list",
-      "titleEn": "Petrol, diesel rates today on July 3: Have OMCs slashed fuel prices? Check latest levels across Delhi, Mumbai, Noida - full list",
-      "summary": "Petrol, diesel rates today on July 3: Have OMCs slashed fuel prices? Check latest levels across Delhi, Mumbai, Noida - full list",
-      "summaryEn": "Petrol, diesel rates today on July 3: Have OMCs slashed fuel prices? Check latest levels across Delhi, Mumbai, Noida - full list",
-      "body": "Petrol, diesel rates today on July 3: Suspense continues over whether state-owned oil marketing companies will cut petrol and diesel prices across India, even as global crude oil prices have fallen sharply from the highs seen during the West Asia con...",
-      "bodyEn": "Petrol, diesel rates today on July 3: Suspense continues over whether state-owned oil marketing companies will cut petrol and diesel prices across India, even as global crude oil prices have fallen sharply from the highs seen during the West Asia con..."
-    },
-    {
-      "id": "live-1783244546251-10",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-03",
-      "source": "Outlook Business",
-      "featured": false,
-      "url": "https://www.outlookbusiness.com/economy-and-policy/state-fuel-retailers-lost-74781-cr-in-q1-says-oil-minister-puri",
-      "isLive": true,
-      "title": "State Fuel Retailers Lost ₹74,781 Cr in Q1, Says Oil Minister Puri",
-      "titleEn": "State Fuel Retailers Lost ₹74,781 Cr in Q1, Says Oil Minister Puri",
-      "summary": "State-run oil marketing companies in India suffered losses of ₹74,781 crore in April–June by selling fuel below market rates, even as Brent crude prices fall. Oil minister Hardeep Singh Puri remains noncommittal on cutting petrol and diesel prices, saying refiners are still processing higher-priced crude. Read how losses, global price trends, and private refiners like Nayara Energy could shape future fuel prices.",
-      "summaryEn": "State-run oil marketing companies in India suffered losses of ₹74,781 crore in April–June by selling fuel below market rates, even as Brent crude prices fall. Oil minister Hardeep Singh Puri remains noncommittal on cutting petrol and diesel prices, saying refiners are still processing higher-priced crude. Read how losses, global price trends, and private refiners like Nayara Energy could shape future fuel prices.",
-      "body": "Global crude prices have fallen sharply in recent weeks, with Brent crude trading near $70 a barrel on Thursday, down 26% in a month and nearly 40% below its April high. Despite this, Puri gave no clear signal on cutting retail fuel prices. His reaso...",
-      "bodyEn": "Global crude prices have fallen sharply in recent weeks, with Brent crude trading near $70 a barrel on Thursday, down 26% in a month and nearly 40% below its April high. Despite this, Puri gave no clear signal on cutting retail fuel prices. His reaso..."
-    },
-    {
-      "id": "live-1783244546251-11",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-02",
-      "source": "The Economic Times",
-      "featured": false,
-      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-price-today-have-state-run-omcs-cut-fuel-prices-after-nayara-energys-rate-slash-check-latest-rates/articleshow/132127506.cms",
-      "isLive": true,
-      "title": "Petrol, diesel price today: Have state-run OMCs cut fuel prices after Nayara Energy's rate slash? Check latest rates",
-      "titleEn": "Petrol, diesel price today: Have state-run OMCs cut fuel prices after Nayara Energy's rate slash? Check latest rates",
-      "summary": "Nayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first retail price cut in over two years, following a dip in global crude oil costs. While Nayara reversed its earlier March hike, state-run oil companies like IOC, BPCL, and HPCL have maintained their current rates, leaving consumers with differing prices across the country.",
-      "summaryEn": "Nayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first retail price cut in over two years, following a dip in global crude oil costs. While Nayara reversed its earlier March hike, state-run oil companies like IOC, BPCL, and HPCL have maintained their current rates, leaving consumers with differing prices across the country.",
-      "body": "Synopsis\nNayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first retail price cut in over two years, following a dip in global crude oil costs. While Nayara...",
-      "bodyEn": "Synopsis\nNayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first retail price cut in over two years, following a dip in global crude oil costs. While Nayara..."
-    },
-    {
-      "id": "live-1783244546251-12",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-01",
-      "source": "Free Press Journal",
-      "featured": false,
-      "url": "https://www.freepressjournal.in/mumbai/aimtc-welcomes-nayaras-5-petrol-3-diesel-cut-urges-centre-and-omcs-to-follow-suit-amid-falling-crude",
-      "isLive": true,
-      "title": "AIMTC Welcomes Nayara's ₹5 Petrol, ₹3 Diesel Cut - Urges Centre And OMCs To Follow Suit Amid Falling Crude",
-      "titleEn": "AIMTC Welcomes Nayara's ₹5 Petrol, ₹3 Diesel Cut - Urges Centre And OMCs To Follow Suit Amid Falling Crude",
-      "summary": "All India Motor Transport Congress advisor Bal Malkit Singh has urged the Centre and oil marketing companies to reduce fuel prices, following Nayara Energy’s decision to cut petrol by ₹5 per litre and diesel by ₹3 per litre. He cited falling global crude prices below $70 per barrel and called for relief to transporters facing high operational costs and freight pressures.",
-      "summaryEn": "All India Motor Transport Congress advisor Bal Malkit Singh has urged the Centre and oil marketing companies to reduce fuel prices, following Nayara Energy’s decision to cut petrol by ₹5 per litre and diesel by ₹3 per litre. He cited falling global crude prices below $70 per barrel and called for relief to transporters facing high operational costs and freight pressures.",
-      "body": "Welcoming Nayara Energy's decision to reduce petrol prices by Rs 5 per litre and diesel prices by Rs 3 per litre, Bal Malkit Singh, Advisor and former president of the All India Motor Transport Congress (AIMTC), on Wednesday urged the Centre, public ...",
-      "bodyEn": "Welcoming Nayara Energy's decision to reduce petrol prices by Rs 5 per litre and diesel prices by Rs 3 per litre, Bal Malkit Singh, Advisor and former president of the All India Motor Transport Congress (AIMTC), on Wednesday urged the Centre, public ..."
-    },
-    {
-      "id": "live-1783244546252-13",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-01",
-      "source": "Devdiscourse",
-      "featured": false,
-      "url": "https://www.devdiscourse.com/article/politics/3943489-strategic-energy-shifts-navigating-the-post-iran-conflict-era",
-      "isLive": true,
-      "title": "Strategic Energy Shifts: Navigating the Post-Iran Conflict Era",
-      "titleEn": "Strategic Energy Shifts: Navigating the Post-Iran Conflict Era",
-      "summary": "The recent Iran conflict stage closure might mislead the world into seeing it as lasting peace. However, economic leverage and geopolitical dynamics could shift dramatically post U.S. midterm elections, potentially renewing confrontations. The global market's focus is on stabilizing energy prices while countries strategically aim to reduce fossil fuel dependencies.",
-      "summaryEn": "The recent Iran conflict stage closure might mislead the world into seeing it as lasting peace. However, economic leverage and geopolitical dynamics could shift dramatically post U.S. midterm elections, potentially renewing confrontations. The global market's focus is on stabilizing energy prices while countries strategically aim to reduce fossil fuel dependencies.",
-      "body": "As the recent phase of the Iran conflict concludes, the world questions whether this signals true peace or merely a pause influenced by upcoming U.S. midterm elections. Tehran's economic influence remains robust and could shift depending on election ...",
-      "bodyEn": "As the recent phase of the Iran conflict concludes, the world questions whether this signals true peace or merely a pause influenced by upcoming U.S. midterm elections. Tehran's economic influence remains robust and could shift depending on election ..."
-    },
-    {
-      "id": "live-1783244546252-14",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-01",
-      "source": "Outlook Business",
-      "featured": false,
-      "url": "https://www.outlookbusiness.com/news/nayara-energy-cuts-petrol-price-by-5-diesel-by-3-first-cut-in-over-two-years",
-      "isLive": true,
-      "title": "Nayara Energy Cuts Petrol Price by ₹5, Diesel by ₹3 - First Cut in Over Two Years",
-      "titleEn": "Nayara Energy Cuts Petrol Price by ₹5, Diesel by ₹3 - First Cut in Over Two Years",
-      "summary": "Nayara Energy has cut petrol prices by ₹5 and diesel by ₹3 per litre across its 7,000+ fuel stations in India, marking the first retail fuel price reduction in over two years. Learn how easing global oil prices, lifted government curbs and unchanged state-run OMC rates impact drivers and pump prices nationwide.",
-      "summaryEn": "Nayara Energy has cut petrol prices by ₹5 and diesel by ₹3 per litre across its 7,000+ fuel stations in India, marking the first retail fuel price reduction in over two years. Learn how easing global oil prices, lifted government curbs and unchanged state-run OMC rates impact drivers and pump prices nationwide.",
-      "body": "Nayara Energy reduced fuel prices on Wednesday, cutting petrol by ₹5 per litre and diesel by ₹3 per litre across the country.\nAs India’s largest private fuel retailer, this move represents the first reduction in retail prices by any domestic distribu...",
-      "bodyEn": "Nayara Energy reduced fuel prices on Wednesday, cutting petrol by ₹5 per litre and diesel by ₹3 per litre across the country.\nAs India’s largest private fuel retailer, this move represents the first reduction in retail prices by any domestic distribu..."
-    },
-    {
-      "id": "live-1783244546252-15",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-01",
-      "source": "Outlook Business",
-      "featured": false,
-      "url": "https://www.outlookbusiness.com/news/nayara-energy-cuts-petrol-price-by-5-a-litre-diesel-by-3-as-global-oil-rates-cool-down",
-      "isLive": true,
-      "title": "Nayara Energy Cuts Petrol Price by ₹5 a Litre, Diesel by ₹3 as Global Oil Rates Cool Down",
-      "titleEn": "Nayara Energy Cuts Petrol Price by ₹5 a Litre, Diesel by ₹3 as Global Oil Rates Cool Down",
-      "summary": "Nayara Energy has cut petrol prices by ₹5 a litre and diesel by ₹3 across its 7,000+ fuel stations, marking India’s first fuel price reduction in over two years as global crude oil rates cool. Learn how easing West Asia tensions, restored maritime routes and stable oil markets are bringing relief to motorists, even as PSU fuel retailers hold prices steady.",
-      "summaryEn": "Nayara Energy has cut petrol prices by ₹5 a litre and diesel by ₹3 across its 7,000+ fuel stations, marking India’s first fuel price reduction in over two years as global crude oil rates cool. Learn how easing West Asia tensions, restored maritime routes and stable oil markets are bringing relief to motorists, even as PSU fuel retailers hold prices steady.",
-      "body": "Nayara Energy, India's largest private fuel retailer, on Wednesday cut petrol prices by ₹5 per litre and diesel by ₹3 a litre across its nationwide network, marking the first reduction in retail fuel prices by any company in more than two years as ea...",
-      "bodyEn": "Nayara Energy, India's largest private fuel retailer, on Wednesday cut petrol prices by ₹5 per litre and diesel by ₹3 a litre across its nationwide network, marking the first reduction in retail fuel prices by any company in more than two years as ea..."
+      "title": "Russia exports oil to the world. So why can't it keep fuel cheap at home?",
+      "titleEn": "Russia exports oil to the world. So why can't it keep fuel cheap at home?",
+      "summary": "Ukraine's escalating drone strikes on Russian refineries have slashed gasoline production, triggered fuel shortages and pushed fuel prices to their highest level in at least 20 years, exposing vulnerabilities in the world's second-largest oil exporter",
+      "summaryEn": "Ukraine's escalating drone strikes on Russian refineries have slashed gasoline production, triggered fuel shortages and pushed fuel prices to their highest level in at least 20 years, exposing vulnerabilities in the world's second-largest oil exporter",
+      "body": "Russia, one of the world’s largest oil producers and exporters, is grappling with an unusual problem: fuel shortages, rationing and the fastest rise in gasoline prices in at least two decades.\nThe paradox is stark. Even as the Kremlin continues to ea...",
+      "bodyEn": "Russia, one of the world’s largest oil producers and exporters, is grappling with an unusual problem: fuel shortages, rationing and the fastest rise in gasoline prices in at least two decades.\nThe paradox is stark. Even as the Kremlin continues to ea..."
     }
   ]
 }
