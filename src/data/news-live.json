@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-07-07",
+  "lastUpdated": "2026-07-08",
   "articles": [
     {
-      "id": "live-1783419929335-0",
+      "id": "live-1783502693781-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-07",
+      "source": "Times Now",
+      "featured": true,
+      "url": "https://www.timesnownews.com/auto/car-news/tata-nexon-price-hike-effective-check-full-new-variant-wise-price-list-article-154963226",
+      "isLive": true,
+      "title": "Tata Nexon Price Hike Effective: Check Full New Variant Wise Price List",
+      "titleEn": "Tata Nexon Price Hike Effective: Check Full New Variant Wise Price List",
+      "summary": "Tata Motors has increased the prices of the Nexon compact SUV, affecting all petrol, diesel and CNG variants though the increases vary by trim. Prices now range from Rs 7.40 lakh to Rs 14.40 lakh (ex-showroom)., Car News, Times Now",
+      "summaryEn": "Tata Motors has increased the prices of the Nexon compact SUV, affecting all petrol, diesel and CNG variants though the increases vary by trim. Prices now range from Rs 7.40 lakh to Rs 14.40 lakh (ex-showroom)., Car News, Times Now",
+      "body": "Tata Nexon Price Range Revised in India\nBuying a Tata Nexon now will cost a little more than before. Tata Motors has revised the prices of the compact SUV across its lineup with the new rates already in effect. The revision applies to petrol, diesel ...",
+      "bodyEn": "Tata Nexon Price Range Revised in India\nBuying a Tata Nexon now will cost a little more than before. Tata Motors has revised the prices of the compact SUV across its lineup with the new rates already in effect. The revision applies to petrol, diesel ..."
+    },
+    {
+      "id": "live-1783502693782-1",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-07-07",
+      "source": "Times Now",
+      "featured": false,
+      "url": "https://www.timesnownews.com/auto/car-news/tata-safari-prices-increased-in-india-check-how-much-more-youll-pay-now-article-154954233",
+      "isLive": true,
+      "title": "tata safari prices increased in india check how much more you'll pay now",
+      "titleEn": "tata safari prices increased in india check how much more you'll pay now",
+      "summary": "Prices for the Tata Safari in India have been increased in India across both petrol and diesel variants. The base petrol manual variant now starts at Rs 13.40 lakh, while the top diesel automatic variant reaches Rs 26.15 lakh (both ex-showroom)., Car News, Times Now",
+      "summaryEn": "Prices for the Tata Safari in India have been increased in India across both petrol and diesel variants. The base petrol manual variant now starts at Rs 13.40 lakh, while the top diesel automatic variant reaches Rs 26.15 lakh (both ex-showroom)., Car News, Times Now",
+      "body": "The Safari can be had with either a 6-seat or 7-seat layouts.\nThe Tata Safari prices in India have been increased between Rs 10,000 and Rs 21,000 across petrol and diesel variants. Depending on the model selected, buyers will now have to pay more for...",
+      "bodyEn": "The Safari can be had with either a 6-seat or 7-seat layouts.\nThe Tata Safari prices in India have been increased between Rs 10,000 and Rs 21,000 across petrol and diesel variants. Depending on the model selected, buyers will now have to pay more for..."
+    },
+    {
+      "id": "live-1783502693782-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-07",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-7-check-latest-prices-in-delhi-mumbai-chennai-other-cities-541307-2026-07-07",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, July 7: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "titleEn": "Petrol, diesel prices today, July 7: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre.",
+      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre.",
+      "body": "Fuel prices across India remained largely unchanged on July 7, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in p...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on July 7, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in p..."
+    },
+    {
+      "id": "live-1783502693782-3",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-07-06",
       "source": "Times of India",
-      "featured": true,
+      "featured": false,
       "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-relief-omcs-may-break-even-on-petrol-diesel-rates-soon-what-it-means-for-retail-prices/articleshow/132215124.cms",
       "isLive": true,
       "title": "Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices",
@@ -19,7 +70,7 @@
       "bodyEn": "Public sector refiners have collectively absorbed losses of over Rs 75,000 crore during the first quarter of the current financial year. (AI image)\nRespite for oil marketing companies! State-run oil marketing companies (OMCs) could reach the break-ev..."
     },
     {
-      "id": "live-1783419929336-1",
+      "id": "live-1783502693782-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -36,7 +87,7 @@
       "bodyEn": "When strikes on Iran effectively closed the Strait of Hormuz in late February this year, triggering the biggest disruption to global energy supply in half a century, governments around the world scrambled. Crude oil surged from around $70 a barrel to..."
     },
     {
-      "id": "live-1783419929336-2",
+      "id": "live-1783502693782-5",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Amid renewed tensions around the Strait of Hormuz, reports that Iran could impose a service fee on commercial vessels using the strategic waterway have raised concerns over the cost of oil imports for countries such as India. The narrow sea passage b..."
     },
     {
-      "id": "live-1783419929336-3",
+      "id": "live-1783502693782-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on July 6, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in p..."
     },
     {
-      "id": "live-1783419929336-4",
+      "id": "live-1783502693782-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices today: Fuel prices in India held steady with marginal changes on Sunday, 5 July. Even though brent crude, the international oil benchmark, recently erased its war-time rally in their biggest quarterly slump since 2020, fuel p..."
     },
     {
-      "id": "live-1783419929336-5",
+      "id": "live-1783502693782-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "The surge in international crude oil and refined fuel prices during the quarter was not fully reflected in domestic pump prices. (File Photo)\nPhoto : IANS\nState-run oil marketing companies (OMCs) reported sharp losses on the retail sale of petrol and..."
     },
     {
-      "id": "live-1783419929336-6",
+      "id": "live-1783502693782-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -121,58 +172,7 @@
       "bodyEn": "State-run oil marketing companies (OMCs) lost an estimated ₹18.9 on every litre of diesel and ₹6 on every litre of petrol sold during the April-June quarter, according to ICICI Securities. The losses came despite domestic pump prices remaining largel..."
     },
     {
-      "id": "live-1783419929336-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-04",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-4-check-latest-prices-in-delhi-mumbai-chennai-other-cities-540979-2026-07-04",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, July 4: Check latest prices in Delhi, Mumbai, Chennai, other cities",
-      "titleEn": "Petrol, diesel prices today, July 4: Check latest prices in Delhi, Mumbai, Chennai, other cities",
-      "summary": "Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in petrol and diesel prices.",
-      "summaryEn": "Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in petrol and diesel prices.",
-      "body": "Fuel prices across India remained largely unchanged on Saturday, July 4, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediat...",
-      "bodyEn": "Fuel prices across India remained largely unchanged on Saturday, July 4, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediat..."
-    },
-    {
-      "id": "live-1783419929336-8",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-04",
-      "source": "The Indian Express",
-      "featured": false,
-      "url": "https://indianexpress.com/article/world/pakistan-fuel-prices-cut-west-asia-war-petrol-diesel-10770612/",
-      "isLive": true,
-      "title": "Pakistan slashes fuel prices after West Asia tensions ease, but petrol still far from pre-war levels",
-      "titleEn": "Pakistan slashes fuel prices after West Asia tensions ease, but petrol still far from pre-war levels",
-      "summary": "Pakistan has cut petrol and diesel prices by Rs 1.97 per litre amid West Asia tensions are easing. However, rates remain higher than pre-Iran War levels.",
-      "summaryEn": "Pakistan has cut petrol and diesel prices by Rs 1.97 per litre amid West Asia tensions are easing. However, rates remain higher than pre-Iran War levels.",
-      "body": "Pakistan has slashed its retail fuel the prices, following the easing of tensions in West Asia. Both petrol and diesel prices have been cut by Rs 1.97 per litre for the next week. In a statement released by Pakistan’s Ministry of Petroleum, the Shehb...",
-      "bodyEn": "Pakistan has slashed its retail fuel the prices, following the easing of tensions in West Asia. Both petrol and diesel prices have been cut by Rs 1.97 per litre for the next week. In a statement released by Pakistan’s Ministry of Petroleum, the Shehb..."
-    },
-    {
-      "id": "live-1783419929336-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-03",
-      "source": "The Nation",
-      "featured": false,
-      "url": "https://www.nation.com.pk/04-Jul-2026/petrol-diesel-prices-lowered-rs-1-97-litre",
-      "isLive": true,
-      "title": "Petrol,diesel prices lowered by Rs.1.97/litre",
-      "titleEn": "Petrol,diesel prices lowered by Rs.1.97/litre",
-      "summary": "ISLAMABAD - The federal government on Friday night slightly reduced the prices of petrol and high-speed diesel by Rs 1.97 per litre each.The Government of Pakistan has",
-      "summaryEn": "ISLAMABAD - The federal government on Friday night slightly reduced the prices of petrol and high-speed diesel by Rs 1.97 per litre each.The Government of Pakistan has",
-      "body": "ISLAMABAD - The federal government on Friday night slightly reduced the prices of petrol and high-speed diesel by Rs 1.97 per litre each.\nThe Government of Pakistan has revised the ex-depot prices of the petroleum products for the next week starting ...",
-      "bodyEn": "ISLAMABAD - The federal government on Friday night slightly reduced the prices of petrol and high-speed diesel by Rs 1.97 per litre each.\nThe Government of Pakistan has revised the ex-depot prices of the petroleum products for the next week starting ..."
-    },
-    {
-      "id": "live-1783419929337-10",
+      "id": "live-1783502693783-10",
       "flag": "🇷🇺",
       "category": "Россия",
       "categoryEn": "Russia",
