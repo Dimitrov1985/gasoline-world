@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-10",
   "articles": [
     {
-      "id": "live-1783592969101-0",
+      "id": "live-1783678984098-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-07-09",
+      "source": "Times Now",
+      "featured": true,
+      "url": "https://www.timesnownews.com/auto/car-news/tata-curvv-prices-increased-in-india-by-rs-6000-across-all-variants-article-155017243",
+      "isLive": true,
+      "title": "Tata Curvv Prices Increased In India By Rs 6,000 Across All Variants",
+      "titleEn": "Tata Curvv Prices Increased In India By Rs 6,000 Across All Variants",
+      "summary": "Tata Motors has implemented a price increase of Rs 6,000 across all standard variants of the Curvv SUV coupe, impacting both petrol and diesel models with manual and automatic transmissions., Car News, Times Now",
+      "summaryEn": "Tata Motors has implemented a price increase of Rs 6,000 across all standard variants of the Curvv SUV coupe, impacting both petrol and diesel models with manual and automatic transmissions., Car News, Times Now",
+      "body": "The Curvv ICE sports a unique coupe-SUV sloping roofline.\nTata Motors has recently revised prices across its cars and SUVs in the country. While we had already told you about the price hike for the Nexon, Safari and Punch, now we take a closer look a...",
+      "bodyEn": "The Curvv ICE sports a unique coupe-SUV sloping roofline.\nTata Motors has recently revised prices across its cars and SUVs in the country. While we had already told you about the price hike for the Nexon, Safari and Punch, now we take a closer look a..."
+    },
+    {
+      "id": "live-1783678984098-1",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-09",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-9-check-latest-prices-in-delhi-mumbai-chennai-other-cities-541866-2026-07-09",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, July 9: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "titleEn": "Petrol, diesel prices today, July 9: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "summary": "The fuel prices held steady even as the renewed strikes by the US on Iran pushed the prices of Brent crude futures by over $1 per barrel",
+      "summaryEn": "The fuel prices held steady even as the renewed strikes by the US on Iran pushed the prices of Brent crude futures by over $1 per barrel",
+      "body": "Fuel prices across India remained largely unchanged on July 9, even as the US' renewed strikes on Iran pushed energy prices higher, with Brent crude futures rising more than $1 a barrel in post-settlement trading on Wednesday to $79.28 per barrel, th...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on July 9, even as the US' renewed strikes on Iran pushed energy prices higher, with Brent crude futures rising more than $1 a barrel in post-settlement trading on Wednesday to $79.28 per barrel, th..."
+    },
+    {
+      "id": "live-1783678984098-2",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-09",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-as-brent-sustains-rally-on-9-july-11783557630955.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Brent sustains rally on 9 July",
+      "titleEn": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Brent sustains rally on 9 July",
+      "summary": "Petrol, diesel prices today: Domestic fuel prices remained steady on Thursday, in the wake of escalating fuel prices and a renewed US-Iran conflict affecting crude oil.",
+      "summaryEn": "Petrol, diesel prices today: Domestic fuel prices remained steady on Thursday, in the wake of escalating fuel prices and a renewed US-Iran conflict affecting crude oil.",
+      "body": "Petrol and diesel prices today: Fuel prices in India stood steady on Thursday despite marginal fluctuations across cities. State-run oil companies continue to offer petrol and diesel at same rates since last revision that occurred on 25 May. Due to r...",
+      "bodyEn": "Petrol and diesel prices today: Fuel prices in India stood steady on Thursday despite marginal fluctuations across cities. State-run oil companies continue to offer petrol and diesel at same rates since last revision that occurred on 25 May. Due to r..."
+    },
+    {
+      "id": "live-1783678984099-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-07-08",
       "source": "The Tribune",
-      "featured": true,
+      "featured": false,
       "url": "https://www.tribuneindia.com/news/world/pakistan-faces-growing-backlash-as-karachi-transport-operators-ignore-fuel-price-cuts-commuters-say/",
       "isLive": true,
       "title": "Pakistan faces growing backlash as Karachi transport operators ignore fuel price cuts, commuters say",
@@ -19,7 +70,7 @@
       "bodyEn": "Karachi [Pakistan] July 8 (ANI): Despite a decline of nearly Rs100 per litre in petrol and diesel prices over recent weeks, commuters in Karachi say private transport operators and ride-hailing services have refused to reduce fares, sparking criticis..."
     },
     {
-      "id": "live-1783592969102-1",
+      "id": "live-1783678984099-4",
       "flag": "📰",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -36,7 +87,7 @@
       "bodyEn": "KUALA LUMPUR: The retail prices of unsubsidised RON95 petrol and diesel in Peninsular Malaysia remain unchanged from July 5 to 15.\nThe Finance Ministry said the retail price of RON97 remained at RM4.00 per litre, while unsubsidised RON95 would be RM3..."
     },
     {
-      "id": "live-1783592969102-2",
+      "id": "live-1783678984099-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on July 8, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in p..."
     },
     {
-      "id": "live-1783592969102-3",
+      "id": "live-1783678984099-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Petrol and diesel prices today: Fuel prices in India stood steady on Wednesday even in the face of volatility in Brent price following renewed fighting between US and Iran. Crude oil extended gains after climbing almost 3% on Tuesday. Due to geopolit..."
     },
     {
-      "id": "live-1783592969102-4",
+      "id": "live-1783678984099-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Tata Nexon Price Range Revised in India\nBuying a Tata Nexon now will cost a little more than before. Tata Motors has revised the prices of the compact SUV across its lineup with the new rates already in effect. The revision applies to petrol, diesel ..."
     },
     {
-      "id": "live-1783592969102-5",
+      "id": "live-1783678984099-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +155,7 @@
       "bodyEn": "The Safari can be had with either a 6-seat or 7-seat layouts.\nThe Tata Safari prices in India have been increased between Rs 10,000 and Rs 21,000 across petrol and diesel variants. Depending on the model selected, buyers will now have to pay more for..."
     },
     {
-      "id": "live-1783592969102-6",
+      "id": "live-1783678984099-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on July 7, despite Brent crude oil falling to a four-month low as geopolitical tensions eased. Although global crude prices have declined sharply, consumers are unlikely to see an immediate cut in p..."
     },
     {
-      "id": "live-1783592969102-7",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-06",
-      "source": "Times of India",
-      "featured": false,
-      "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-relief-omcs-may-break-even-on-petrol-diesel-rates-soon-what-it-means-for-retail-prices/articleshow/132215124.cms",
-      "isLive": true,
-      "title": "Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices",
-      "titleEn": "Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices",
-      "summary": "India Business News: Respite for oil marketing companies! State-run oil marketing companies (OMCs) could reach the break-even point on petrol and diesel sales within the n.",
-      "summaryEn": "India Business News: Respite for oil marketing companies! State-run oil marketing companies (OMCs) could reach the break-even point on petrol and diesel sales within the n.",
-      "body": "Public sector refiners have collectively absorbed losses of over Rs 75,000 crore during the first quarter of the current financial year. (AI image)\nRespite for oil marketing companies! State-run oil marketing companies (OMCs) could reach the break-ev...",
-      "bodyEn": "Public sector refiners have collectively absorbed losses of over Rs 75,000 crore during the first quarter of the current financial year. (AI image)\nRespite for oil marketing companies! State-run oil marketing companies (OMCs) could reach the break-ev..."
-    },
-    {
-      "id": "live-1783592969102-8",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-06",
-      "source": "India Today",
-      "featured": false,
-      "url": "https://www.indiatoday.in/business/commodities/story/india-fuel-prices-strait-of-hormuz-crisis-delhi-petrol-diesel-hikes-omc-loss-2941560-2026-07-06",
-      "isLive": true,
-      "title": "How India kept fuel prices in check while the world burned through its wallets",
-      "titleEn": "How India kept fuel prices in check while the world burned through its wallets",
-      "summary": "India limited petrol, diesel and LPG price increases after the Strait of Hormuz disruption. The restraint was enabled by policy buffers, supply shifts and losses absorbed by state-run oil firms.",
-      "summaryEn": "India limited petrol, diesel and LPG price increases after the Strait of Hormuz disruption. The restraint was enabled by policy buffers, supply shifts and losses absorbed by state-run oil firms.",
-      "body": "When strikes on Iran effectively closed the Strait of Hormuz in late February this year, triggering the biggest disruption to global energy supply in half a century, governments around the world scrambled. Crude oil surged from around $70 a barrel to...",
-      "bodyEn": "When strikes on Iran effectively closed the Strait of Hormuz in late February this year, triggering the biggest disruption to global energy supply in half a century, governments around the world scrambled. Crude oil surged from around $70 a barrel to..."
-    },
-    {
-      "id": "live-1783592969102-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-06",
-      "source": "Outlook India",
-      "featured": false,
-      "url": "https://www.outlookindia.com/national/hormuz-service-fee-explained-will-india-pay-more-for-oil-if-iran-starts-charging-ships",
-      "isLive": true,
-      "title": "Hormuz Service Fee Explained: How Iran’s Plan Could Raise India’s Oil and Fuel Prices",
-      "titleEn": "Hormuz Service Fee Explained: How Iran’s Plan Could Raise India’s Oil and Fuel Prices",
-      "summary": "Will Iran’s proposed Hormuz service fee push up India’s oil import bill? Explore how potential charges on ships using the Strait of Hormuz could raise freight and insurance costs, impact crude supplies from Gulf producers, and affect petrol, diesel and LPG prices for Indian consumers.",
-      "summaryEn": "Will Iran’s proposed Hormuz service fee push up India’s oil import bill? Explore how potential charges on ships using the Strait of Hormuz could raise freight and insurance costs, impact crude supplies from Gulf producers, and affect petrol, diesel and LPG prices for Indian consumers.",
-      "body": "Amid renewed tensions around the Strait of Hormuz, reports that Iran could impose a service fee on commercial vessels using the strategic waterway have raised concerns over the cost of oil imports for countries such as India. The narrow sea passage b...",
-      "bodyEn": "Amid renewed tensions around the Strait of Hormuz, reports that Iran could impose a service fee on commercial vessels using the strategic waterway have raised concerns over the cost of oil imports for countries such as India. The narrow sea passage b..."
-    },
-    {
-      "id": "live-1783592969102-10",
+      "id": "live-1783678984099-10",
       "flag": "🇷🇺",
       "category": "Россия",
       "categoryEn": "Russia",
