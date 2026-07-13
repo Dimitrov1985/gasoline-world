@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "articles": [
     {
-      "id": "live-1783846919839-0",
+      "id": "live-1783938312374-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-12",
+      "source": "Birmingham Live",
+      "featured": true,
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-dealt-blow-petrol-diesel-34256762",
+      "isLive": true,
+      "title": "Drivers dealt blow with petrol and diesel prices no longer falling",
+      "titleEn": "Drivers dealt blow with petrol and diesel prices no longer falling",
+      "summary": "On Tuesday, pump prices for petrol and diesel held at 150.7 and 165.2p a litre respectively.",
+      "summaryEn": "On Tuesday, pump prices for petrol and diesel held at 150.7 and 165.2p a litre respectively.",
+      "body": "On Tuesday, pump prices for petrol and diesel held at 150.7 and 165.2p a litre respectively.\nDrivers have been dealt a cruel fuel blow with petrol and diesel prices no longer falling. On Tuesday, pump prices for petrol and diesel held at 150.7 and 16...",
+      "bodyEn": "On Tuesday, pump prices for petrol and diesel held at 150.7 and 165.2p a litre respectively.\nDrivers have been dealt a cruel fuel blow with petrol and diesel prices no longer falling. On Tuesday, pump prices for petrol and diesel held at 150.7 and 16..."
+    },
+    {
+      "id": "live-1783938312379-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-12",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-12-check-latest-prices-in-delhi-mumbai-chennai-other-cities-542407-2026-07-12",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, July 12: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "titleEn": "Petrol, diesel prices today, July 12: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre.",
+      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre.",
+      "body": "Fuel prices across India remained largely unchanged on July 12, even as the oil prices settled lower on Friday after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz. Brent crude futures settle...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on July 12, even as the oil prices settled lower on Friday after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz. Brent crude futures settle..."
+    },
+    {
+      "id": "live-1783938312379-2",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-12",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-12-july-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-as-iran-closes-hormuz-11783817941019.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today - 12 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Iran closes Hormuz",
+      "titleEn": "Petrol and diesel prices today - 12 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Iran closes Hormuz",
+      "summary": "Petrol and diesel prices today: Fuel prices in India remained stable on 12 July despite volatility global crude prices. Check retail petrol and diesel prices today in your city here.",
+      "summaryEn": "Petrol and diesel prices today: Fuel prices in India remained stable on 12 July despite volatility global crude prices. Check retail petrol and diesel prices today in your city here.",
+      "body": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,...",
+      "bodyEn": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,..."
+    },
+    {
+      "id": "live-1783938312380-3",
       "flag": "📰",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-07-11",
       "source": "The Indian Express",
-      "featured": true,
+      "featured": false,
       "url": "https://indianexpress.com/article/world/pakistan-petrol-diesel-price-hike-imf-levy-dawn-10781665/",
       "isLive": true,
       "title": "Pakistan hikes petrol, diesel prices by over PKR 13 per litre amid West Asia crisis",
@@ -19,7 +70,7 @@
       "bodyEn": "Pakistan has increased the prices of petrol and high-speed diesel (HSD) by more than PKR 13 per litre, reversing last week’s cut in fuel prices, according to a notification issued by the Petroleum Division.\nPetrol prices have been raised by PKR 13.18..."
     },
     {
-      "id": "live-1783846919840-1",
+      "id": "live-1783938312380-4",
       "flag": "📰",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -36,7 +87,7 @@
       "bodyEn": "Diesel prices have fallen significantly from their peak of PKR 520.35 per litre recorded on April 3, after rising from PKR 281 per litre following the outbreak of the US-Iran conflict on February 28.\nPetrol prices had also touched a high of PKR 458.4..."
     },
     {
-      "id": "live-1783846919840-2",
+      "id": "live-1783938312380-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Pakistan’s Oil and Gas Regulatory Authority (OGRA) has increased the price of kerosene oil by Rs11.19 per liter as part of its latest fuel price review.\nAccording to the latest notification, the new price of kerosene oil is Rs242.33 per liter. The re..."
     },
     {
-      "id": "live-1783846919840-3",
+      "id": "live-1783938312380-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "ISLAMABAD - The federal government late Friday jacked up the prices of petrol Rs 13.18 per litre and high-speed diesel by Rs 13.80 per litre.\nThe federal government has revised the ex-depot prices of the petroleum products for the next week starting ..."
     },
     {
-      "id": "live-1783846919840-4",
+      "id": "live-1783938312380-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices today, 11 July: Fuel prices in India stood steady on Saturday despite softening of oil prices from earlier weekly peaks. This retreat on Friday was driven by resumption of diplomatic talks between the United States and Iran. ..."
     },
     {
-      "id": "live-1783846919840-5",
+      "id": "live-1783938312380-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on July 11, even as the oil prices settled lower on Friday after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz. Brent crude futures settle..."
     },
     {
-      "id": "live-1783846919840-6",
+      "id": "live-1783938312380-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "Islamabad [Pakistan], July 11 (ANI): The petrol and diesel prices in Pakistan are likely to witness a rise due to recent surge in crude oil rates in global market, ARY News reported.\nThe price of petrol is expected to increase by Rs 13, whereas the r..."
     },
     {
-      "id": "live-1783846919840-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-10",
-      "source": "BOL News",
-      "featured": false,
-      "url": "https://www.bolnews.com/business/federal-govt-raises-petrol-diesel-prices-in-fortnightly-review/",
-      "isLive": true,
-      "title": "Federal govt raises petrol, diesel prices in fortnightly review",
-      "titleEn": "Federal govt raises petrol, diesel prices in fortnightly review",
-      "summary": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel in its latest fortnightly fuel price review",
-      "summaryEn": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel in its latest fortnightly fuel price review",
-      "body": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel in its latest fortnightly fuel price review, raising the cost of both major petroleum products with immediate effect.\nAccording to the official notification, t...",
-      "bodyEn": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel in its latest fortnightly fuel price review, raising the cost of both major petroleum products with immediate effect.\nAccording to the official notification, t..."
-    },
-    {
-      "id": "live-1783846919840-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-10",
-      "source": "DAWN.com",
-      "featured": false,
-      "url": "https://www.dawn.com/news/2014423/govt-raises-petrol-price-by-rs1318-diesel-by-rs1380",
-      "isLive": true,
-      "title": "Govt raises petrol price by Rs13.18, diesel by Rs13.80",
-      "titleEn": "Govt raises petrol price by Rs13.18, diesel by Rs13.80",
-      "summary": "The Petroleum Division said the new prices would take effect from July 11.",
-      "summaryEn": "The Petroleum Division said the new prices would take effect from July 11.",
-      "body": "The government on Friday raised the price of petrol by Rs13.18 per litre and that of high-speed diesel (HSD) by Rs13.80.\nFollowing the increase, the price of petrol stands at Rs310.71 per litre and that of HSD at Rs323.30.\nThe Petroleum Division’s pr...",
-      "bodyEn": "The government on Friday raised the price of petrol by Rs13.18 per litre and that of high-speed diesel (HSD) by Rs13.80.\nFollowing the increase, the price of petrol stands at Rs310.71 per litre and that of HSD at Rs323.30.\nThe Petroleum Division’s pr..."
-    },
-    {
-      "id": "live-1783846919840-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-10",
-      "source": "The Irish Sun",
-      "featured": false,
-      "url": "https://www.thesun.ie/news/17271116/ireland-petrol-diesel-government-prices/",
-      "isLive": true,
-      "title": "Ireland petrol & diesel excise latest as Minister says Govt ‘can’t write cheque every month’ to keep prices down",
-      "titleEn": "Ireland petrol & diesel excise latest as Minister says Govt ‘can’t write cheque every month’ to keep prices down",
-      "summary": "THE Government \"can't continue writing a cheque every single month\" to keep petrol and diesel prices down after the war between the US and Iran...",
-      "summaryEn": "THE Government \"can't continue writing a cheque every single month\" to keep petrol and diesel prices down after the war between the US and Iran...",
-      "body": "THE Government “can’t continue writing a cheque every single month” to keep petrol and diesel prices down after the war between the US and Iran reignited this week, Business Minister Peter Burke has warned.\nIt comes as a new report shows that 78 per ...",
-      "bodyEn": "THE Government “can’t continue writing a cheque every single month” to keep petrol and diesel prices down after the war between the US and Iran reignited this week, Business Minister Peter Burke has warned.\nIt comes as a new report shows that 78 per ..."
-    },
-    {
-      "id": "live-1783846919840-10",
+      "id": "live-1783938312380-10",
       "flag": "🇷🇺",
       "category": "Россия",
       "categoryEn": "Russia",
