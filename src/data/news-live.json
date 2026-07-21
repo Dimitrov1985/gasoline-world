@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "articles": [
     {
-      "id": "live-1784542183985-0",
+      "id": "live-1784625969637-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-20",
+      "source": "The Nation",
+      "featured": true,
+      "url": "https://www.nation.com.pk/20-Jul-2026/government-cuts-petrol-price-slightly-raises-diesel-rate-rs5-71",
+      "isLive": true,
+      "title": "Government cuts petrol price slightly, raises diesel rate by Rs5.71",
+      "titleEn": "Government cuts petrol price slightly, raises diesel rate by Rs5.71",
+      "summary": "The federal government has revised petroleum prices, announcing a minor reduction in the cost of petrol while increasing the price of high-speed diesel.",
+      "summaryEn": "The federal government has revised petroleum prices, announcing a minor reduction in the cost of petrol while increasing the price of high-speed diesel.",
+      "body": "The federal government has revised petroleum prices, announcing a minor reduction in the cost of petrol while increasing the price of .\nUnder a notification issued by the , petrol will now be available at Rs315.80 per litre after a decrease of Rs0.35...",
+      "bodyEn": "The federal government has revised petroleum prices, announcing a minor reduction in the cost of petrol while increasing the price of .\nUnder a notification issued by the , petrol will now be available at Rs315.80 per litre after a decrease of Rs0.35..."
+    },
+    {
+      "id": "live-1784625969637-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-20",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-20-prices-to-go-up-check-latest-rates-in-delhi-mumbai-chennai-543828-2026-07-20",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, July 20: Prices to go up? Check latest rates in Delhi, Mumbai, Chennai",
+      "titleEn": "Petrol, diesel prices today, July 20: Prices to go up? Check latest rates in Delhi, Mumbai, Chennai",
+      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark, with petrol selling at ₹111.21 per litre and diesel at ₹97.83 per litre",
+      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark, with petrol selling at ₹111.21 per litre and diesel at ₹97.83 per litre",
+      "body": "Fuel prices across India remained largely unchanged on July 20, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz. Brent crude futures settled at...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on July 20, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz. Brent crude futures settled at..."
+    },
+    {
+      "id": "live-1784625969637-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-20",
+      "source": "DAWN.com",
+      "featured": false,
+      "url": "https://www.dawn.com/news/2016884/govt-weighs-activating-fuel-saving-plans",
+      "isLive": true,
+      "title": "Govt weighs activating fuel saving plans",
+      "titleEn": "Govt weighs activating fuel saving plans",
+      "summary": "Move aimed at preserving at least three months of import cover; petrol, diesel prices to be revised only on working days.",
+      "summaryEn": "Move aimed at preserving at least three months of import cover; petrol, diesel prices to be revised only on working days.",
+      "body": "• Move aimed at preserving at least three months of import cover\n• Petrol, diesel prices to be revised only on working days\n• Ogra to now publish working details on its website\n• Govt to retain control over levy, climate levy, customs duty, deemed du...",
+      "bodyEn": "• Move aimed at preserving at least three months of import cover\n• Petrol, diesel prices to be revised only on working days\n• Ogra to now publish working details on its website\n• Govt to retain control over levy, climate levy, customs duty, deemed du..."
+    },
+    {
+      "id": "live-1784625969637-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-07-19",
       "source": "BreakingNews.ie",
-      "featured": true,
+      "featured": false,
       "url": "https://www.breakingnews.ie/world/andy-burnham-set-to-be-buoyed-by-june-inflation-slowdown-1929051.html",
       "isLive": true,
       "title": "Andy Burnham set to be buoyed by June inflation slowdown",
@@ -19,7 +70,7 @@
       "bodyEn": "UK inflation is set to have eased last month in a welcome but temporary boost for Andy Burnham’s incoming government ahead of a jump in the household energy price cap.\nOfficial figures on June’s Consumer Prices Index (CPI) inflation will be published..."
     },
     {
-      "id": "live-1784542183986-1",
+      "id": "live-1784625969637-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "UK inflation is set to have eased last month in a welcome but temporary boost for Andy Burnham’s incoming Government ahead of a jump in the household energy price cap.\nOfficial figures on June’s Consumer Prices Index (CPI) inflation will be published..."
     },
     {
-      "id": "live-1784542183986-2",
+      "id": "live-1784625969637-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Some economists think a sharp drop in petrol and diesel prices will have helped pull the overall inflation rate down to 2.4% in June, from 2.6% in May\nUK inflation is set to have eased last month in a welcome but temporary boost for Andy Burnham’s in..."
     },
     {
-      "id": "live-1784542183986-3",
+      "id": "live-1784625969637-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "UK inflation is set to have eased last month in a welcome but temporary boost for Andy Burnham’s incoming Government ahead of a jump in the household energy price cap.\nOfficial figures on June’s Consumer Prices Index (CPI) inflation will be published..."
     },
     {
-      "id": "live-1784542183986-4",
+      "id": "live-1784625969637-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on July 19, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz. Brent crude futures settled at..."
     },
     {
-      "id": "live-1784542183986-5",
+      "id": "live-1784625969637-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +155,7 @@
       "bodyEn": "Petrol and diesel prices today, 19 July: Retail fuel rates in India held steady on Sunday despite marginal changes even as global benchmark Brent headed for its biggest weekly advance since April. Renewed hostilities between US and Iran expanded beyo..."
     },
     {
-      "id": "live-1784542183986-6",
+      "id": "live-1784625969637-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "Petrol and diesel prices are “on the rise again” with fuel costs heading to the highest rate in up to four weeks, according to new analysis from the RAC. The motoring experts have warned petrol has increased to 152.54p per litre since July 9, a 2p pe..."
     },
     {
-      "id": "live-1784542183986-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-18",
-      "source": "Daily Express",
-      "featured": false,
-      "url": "https://www.express.co.uk/life-style/cars/2230434/petrol-diesel-fuel-price-staycation",
-      "isLive": true,
-      "title": "British drivers issued urgent staycation warning - 'prices on the rise'",
-      "titleEn": "British drivers issued urgent staycation warning - 'prices on the rise'",
-      "summary": "UK drivers heading out on staycation trips could be slapped with higher petrol and diesel fuel bills in a major blow.",
-      "summaryEn": "UK drivers heading out on staycation trips could be slapped with higher petrol and diesel fuel bills in a major blow.",
-      "body": "Motorists setting off on staycation trips or days out this weekend could be caught out by rising petrol and diesel fuel prices, according to experts. Pump prices have started to slowly creep up despite weeks of cost-cutting in a blow to road users lo...",
-      "bodyEn": "Motorists setting off on staycation trips or days out this weekend could be caught out by rising petrol and diesel fuel prices, according to experts. Pump prices have started to slowly creep up despite weeks of cost-cutting in a blow to road users lo..."
-    },
-    {
-      "id": "live-1784542183987-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-18",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-18-check-latest-prices-in-delhi-mumbai-kolkata-and-other-cities-539526-2026-07-18",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, July 18: Check latest prices in Delhi, Mumbai, Kolkata and other cities",
-      "titleEn": "Petrol, diesel prices today, July 18: Check latest prices in Delhi, Mumbai, Kolkata and other cities",
-      "summary": "The petrol and diesel rates have remained stable since May 25, when state-owned fuel retailers last hiked petrol prices by ₹2.61 per litre and diesel by ₹2.71 per litre.",
-      "summaryEn": "The petrol and diesel rates have remained stable since May 25, when state-owned fuel retailers last hiked petrol prices by ₹2.61 per litre and diesel by ₹2.71 per litre.",
-      "body": "Fuel prices across Indian cities remained largely steady on July 18, even as global crude markets remain on edge amid tensions in West Asia and disruptions to key shipping routes. Prices continue to remain constant even as oil prices settled lower la...",
-      "bodyEn": "Fuel prices across Indian cities remained largely steady on July 18, even as global crude markets remain on edge amid tensions in West Asia and disruptions to key shipping routes. Prices continue to remain constant even as oil prices settled lower la..."
-    },
-    {
-      "id": "live-1784542183987-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-18",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-18-july-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-as-us-iran-war-intensifies-11784336779628.html",
-      "isLive": true,
-      "title": "Petrol, diesel prices today - 18 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as US-Iran war intensifies",
-      "titleEn": "Petrol, diesel prices today - 18 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as US-Iran war intensifies",
-      "summary": "Petrol prices in Delhi remained at ₹102.12, while diesel was sold at ₹95.2. In Mumbai, petrol was priced at ₹111.21, while in Bengaluru, it was ₹111.37.",
-      "summaryEn": "Petrol prices in Delhi remained at ₹102.12, while diesel was sold at ₹95.2. In Mumbai, petrol was priced at ₹111.21, while in Bengaluru, it was ₹111.37.",
-      "body": "Akriti Anand\nAkriti Anand is a Deputy Chief Content Producer at LiveMint. She is a digital journalist with more than six years in the news industry. In her current role, she covers both national and international politics, and also keeps a close watc...",
-      "bodyEn": "Akriti Anand\nAkriti Anand is a Deputy Chief Content Producer at LiveMint. She is a digital journalist with more than six years in the news industry. In her current role, she covers both national and international politics, and also keeps a close watc..."
-    },
-    {
-      "id": "live-1784542183987-10",
+      "id": "live-1784625969637-10",
       "flag": "🇷🇺",
       "category": "Россия",
       "categoryEn": "Russia",
