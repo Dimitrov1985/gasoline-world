@@ -1,14 +1,82 @@
 {
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-29",
   "articles": [
     {
-      "id": "live-1785231357568-0",
+      "id": "live-1785317808648-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-28",
+      "source": "The Nation",
+      "featured": true,
+      "url": "https://www.nation.com.pk/28-Jul-2026/govt-raises-petrol-price-rs1-63-hsd-rs1-55-per-litre",
+      "isLive": true,
+      "title": "Govt raises petrol price by Rs1.63, HSD by Rs1.55 per litre",
+      "titleEn": "Govt raises petrol price by Rs1.63, HSD by Rs1.55 per litre",
+      "summary": "The federal government has announced an increase in the prices of petrol and high-speed diesel (HSD) under the latest fortnightly revision of petroleum products.",
+      "summaryEn": "The federal government has announced an increase in the prices of petrol and high-speed diesel (HSD) under the latest fortnightly revision of petroleum products.",
+      "body": "The federal government has announced an increase in the prices of petrol and (HSD) under the latest fortnightly revision of petroleum products.\nAccording to a notification issued by the (Petroleum Division), the revised will take effect from July 29,...",
+      "bodyEn": "The federal government has announced an increase in the prices of petrol and (HSD) under the latest fortnightly revision of petroleum products.\nAccording to a notification issued by the (Petroleum Division), the revised will take effect from July 29,..."
+    },
+    {
+      "id": "live-1785317808649-1",
+      "flag": "📰",
+      "category": "Европа",
+      "categoryEn": "Europe",
+      "date": "2026-07-28",
+      "source": "Euro Weekly News",
+      "featured": false,
+      "url": "https://euroweeklynews.com/2026/07/28/fill-your-tank-by-thursday-or-pay-e5-e10-extra-from-this-weekend/",
+      "isLive": true,
+      "title": "Fill your tank by Thursday or pay €5-€10 extra from this weekend",
+      "titleEn": "Fill your tank by Thursday or pay €5-€10 extra from this weekend",
+      "summary": "Petrol and diesel prices are about to rise sharply across Spain this week, so topping up your tank before Thursday could stop you paying an extra five to ten euros by the weekend",
+      "summaryEn": "Petrol and diesel prices are about to rise sharply across Spain this week, so topping up your tank before Thursday could stop you paying an extra five to ten euros by the weekend",
+      "body": "Petrol and diesel prices look like they are about to rise sharply across Spain this week, so topping up your tank before Thursday could stop you shelling out an extra five to ten euros by the weekend.\nDrivers planning summer getaways already face hig...",
+      "bodyEn": "Petrol and diesel prices look like they are about to rise sharply across Spain this week, so topping up your tank before Thursday could stop you shelling out an extra five to ten euros by the weekend.\nDrivers planning summer getaways already face hig..."
+    },
+    {
+      "id": "live-1785317808649-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-28",
+      "source": "Daily Record",
+      "featured": false,
+      "url": "https://www.dailyrecord.co.uk/lifestyle/motoring/drivers-urged-fill-up-before-37485942",
+      "isLive": true,
+      "title": "Drivers urged to fill up before Friday as RAC warns of 'pretty grim outlook'",
+      "titleEn": "Drivers urged to fill up before Friday as RAC warns of 'pretty grim outlook'",
+      "summary": "Experts have warned drivers to expect even higher petrol and diesel prices this week",
+      "summaryEn": "Experts have warned drivers to expect even higher petrol and diesel prices this week",
+      "body": "Experts have warned drivers to expect even higher petrol and diesel prices this week\nDrivers are being warned that the cost of filling up their vehicles is expected to climb even higher this week. Petrol and diesel are on track to reach their highest...",
+      "bodyEn": "Experts have warned drivers to expect even higher petrol and diesel prices this week\nDrivers are being warned that the cost of filling up their vehicles is expected to climb even higher this week. Petrol and diesel are on track to reach their highest..."
+    },
+    {
+      "id": "live-1785317808650-3",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-28",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-28-check-latest-rates-in-delhi-mumbai-chennai-more-545560-2026-07-28",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, July 28: Check latest rates in Delhi, Mumbai, Chennai & more",
+      "titleEn": "Petrol, diesel prices today, July 28: Check latest rates in Delhi, Mumbai, Chennai & more",
+      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
+      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
+      "body": "Fuel prices across India remained largely unchanged on July 28, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on July 28, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ..."
+    },
+    {
+      "id": "live-1785317808650-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-07-27",
       "source": "The Nation",
-      "featured": true,
+      "featured": false,
       "url": "https://www.nation.com.pk/27-Jul-2026/petrol-price-cut-rs1-diesel-rises-rs3-77-per-litre",
       "isLive": true,
       "title": "Petrol price cut by Rs1 as diesel rises Rs3.77 per litre",
@@ -19,7 +87,7 @@
       "bodyEn": "The federal government has revised petroleum prices, reducing the price of petrol by Rs1 per litre while increasing the rate of high-speed diesel (HSD) by Rs3.77 per litre amid fluctuations in global oil markets following renewed tensions in the Pers..."
     },
     {
-      "id": "live-1785231357569-1",
+      "id": "live-1785317808650-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +104,7 @@
       "bodyEn": "The federal government has announced new petroleum prices, reducing the price of petrol while increasing the price of high-speed diesel.\nAccording to a notification issued by the Ministry of Petroleum, the price of petrol has been reduced by Re1 per ..."
     },
     {
-      "id": "live-1785231357569-2",
+      "id": "live-1785317808650-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +121,7 @@
       "bodyEn": "DRIVERS are being warned to brace for another hike at the pumps, with fuel prices set to hit levels not seen since the height of the US-Iran conflict.\nUnleaded rose by 0.6p over the weekend to an average of 157.81p a litre, while diesel climbed by a ..."
     },
     {
-      "id": "live-1785231357569-3",
+      "id": "live-1785317808650-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +138,7 @@
       "bodyEn": "(Bloomberg) -- Massive metal towers rising more than 100 feet are pumping out gasoline, diesel and jet fuel at break-neck rates around the world. Those refineries now have little margin for error.\nThe fuels that drive the global economy are increasin..."
     },
     {
-      "id": "live-1785231357569-4",
+      "id": "live-1785317808650-8",
       "flag": "📰",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -87,7 +155,7 @@
       "bodyEn": "In response to skyrocketing fuel prices exacerbated by the Middle East conflict, Italy's cabinet is set to implement new measures. Government officials, alongside a senior lawmaker, indicated these steps aim to mitigate the impact on both consumers a..."
     },
     {
-      "id": "live-1785231357569-5",
+      "id": "live-1785317808650-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -100,11 +168,11 @@
       "titleEn": "Fuels for Ireland warn of further fuel spikes",
       "summary": "The CEO of Fuels for Ireland is warning that current government policies could lead to a 35 cent per litre increase in petrol and diesel prices between now and January.",
       "summaryEn": "The CEO of Fuels for Ireland is warning that current government policies could lead to a 35 cent per litre increase in petrol and diesel prices between now and January.",
-      "body": "The CEO of Fuels for Ireland is warning that current government policies could lead to a 35 cent per litre increase in petrol and diesel prices between now and January.\nSpeaking on Morning Ireland Kevin McPartlan the increase could happen if the gove...",
-      "bodyEn": "The CEO of Fuels for Ireland is warning that current government policies could lead to a 35 cent per litre increase in petrol and diesel prices between now and January.\nSpeaking on Morning Ireland Kevin McPartlan the increase could happen if the gove..."
+      "body": "The CEO of Fuels for Ireland is warning that current government policies could lead to a 35 cent per litre increase in petrol and diesel prices between now and January.\nSpeaking on Morning Ireland, Kevin McPartlan said the increase could happen if th...",
+      "bodyEn": "The CEO of Fuels for Ireland is warning that current government policies could lead to a 35 cent per litre increase in petrol and diesel prices between now and January.\nSpeaking on Morning Ireland, Kevin McPartlan said the increase could happen if th..."
     },
     {
-      "id": "live-1785231357569-6",
+      "id": "live-1785317808650-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -119,74 +187,6 @@
       "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark, with petrol selling at ₹111.21 per litre and diesel at ₹97.83 per litre",
       "body": "Fuel prices across India remained largely unchanged on July 27, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nThe price of Brent crude oil e...",
       "bodyEn": "Fuel prices across India remained largely unchanged on July 27, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nThe price of Brent crude oil e..."
-    },
-    {
-      "id": "live-1785231357569-7",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-27",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-retreats-after-us-halts-strikes-on-iran-11785112916380.html",
-      "isLive": true,
-      "title": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Brent retreats after US halts strikes on Iran",
-      "titleEn": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Brent retreats after US halts strikes on Iran",
-      "summary": "Petrol, diesel prices today — 26 July: Fuel rates remain stable despite marginal fluctuation. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities as Brent retreats after US halts its strikes on Iran.",
-      "summaryEn": "Petrol, diesel prices today — 26 July: Fuel rates remain stable despite marginal fluctuation. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities as Brent retreats after US halts its strikes on Iran.",
-      "body": "Petrol and diesel prices today, 27 July: Retail fuel prices in India changed marginally across cities on Monday, 27 July but continue to align with the last major price adjustment that came about on 25 May. Hence, domestic fuel rates stood steady on ...",
-      "bodyEn": "Petrol and diesel prices today, 27 July: Retail fuel prices in India changed marginally across cities on Monday, 27 July but continue to align with the last major price adjustment that came about on 25 May. Hence, domestic fuel rates stood steady on ..."
-    },
-    {
-      "id": "live-1785231357569-8",
-      "flag": "📰",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-07-26",
-      "source": "Times of India",
-      "featured": false,
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/retail-fuel-price-revision-after-w-asia-stabilises-niti-vice-chief/articleshow/132641940.cms",
-      "isLive": true,
-      "title": "Retail fuel price revision after W Asia stabilises: NITI vice-chief",
-      "titleEn": "Retail fuel price revision after W Asia stabilises: NITI vice-chief",
-      "summary": "NITI Aayog vice-chair Ashok Lahiri says Centre may revise retail petrol, diesel prices after West Asia stabilises; crude fell from $100+ to $70.",
-      "summaryEn": "NITI Aayog vice-chair Ashok Lahiri says Centre may revise retail petrol, diesel prices after West Asia stabilises; crude fell from $100+ to $70.",
-      "body": "NITI Aayog vice-chairperson Ashok Lahiri (file picture)\nKolkata: Centre would consider revising retail petrol and diesel prices once the West Asia situation stabilises, NITI Aayog vice-chairperson Ashok Lahiri told TOI on the sidelines of an event he...",
-      "bodyEn": "NITI Aayog vice-chairperson Ashok Lahiri (file picture)\nKolkata: Centre would consider revising retail petrol and diesel prices once the West Asia situation stabilises, NITI Aayog vice-chairperson Ashok Lahiri told TOI on the sidelines of an event he..."
-    },
-    {
-      "id": "live-1785231357569-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-26",
-      "source": "BOL News",
-      "featured": false,
-      "url": "https://www.bolnews.com/latest-news/pakistan-keeps-petrol-diesel-prices-unchanged-until-july-27/",
-      "isLive": true,
-      "title": "Pakistan keeps Petrol, Diesel prices unchanged until July 27",
-      "titleEn": "Pakistan keeps Petrol, Diesel prices unchanged until July 27",
-      "summary": "Pakistan will keep petrol, diesel and kerosene prices unchanged until July 27 as the government reviews its fuel pricing policy.",
-      "summaryEn": "Pakistan will keep petrol, diesel and kerosene prices unchanged until July 27 as the government reviews its fuel pricing policy.",
-      "body": "ISLAMABAD: The Pakistani government has decided to keep the prices of petrol, high-speed diesel and kerosene oil unchanged until July 27, according to Petroleum Division reports, the decision means consumers will continue paying the current fuel pric...",
-      "bodyEn": "ISLAMABAD: The Pakistani government has decided to keep the prices of petrol, high-speed diesel and kerosene oil unchanged until July 27, according to Petroleum Division reports, the decision means consumers will continue paying the current fuel pric..."
-    },
-    {
-      "id": "live-1785231357569-10",
-      "flag": "📰",
-      "category": "Ближний Восток",
-      "categoryEn": "Middle East",
-      "date": "2026-07-26",
-      "source": "GB News",
-      "featured": false,
-      "url": "https://www.gbnews.com/lifestyle/cars/uk-drivers-petrol-station-nightmare-fuel-prices",
-      "isLive": true,
-      "title": "UK drivers face petrol station nightmare with soaring prices - cheapest and most expensive areas for fuel",
-      "titleEn": "UK drivers face petrol station nightmare with soaring prices - cheapest and most expensive areas for fuel",
-      "summary": "UK drivers face petrol station nightmare with soaring prices - cheapest and most expensive areas for fuel . Drivers up and down the country are facing soaring petrol and diesel prices as tensions in the Middle East force up the cost of oil",
-      "summaryEn": "UK drivers face petrol station nightmare with soaring prices - cheapest and most expensive areas for fuel . Drivers up and down the country are facing soaring petrol and diesel prices as tensions in the Middle East force up the cost of oil",
-      "body": "Drivers around the UK are currently paying an average of 156.19p per litre for petrol and 173.15p for diesel.\nPrices have spiked since the end of February after the United States and Israel launched strikes against Iran, prompting the outbreak of war...",
-      "bodyEn": "Drivers around the UK are currently paying an average of 156.19p per litre for petrol and 173.15p for diesel.\nPrices have spiked since the end of February after the United States and Israel launched strikes against Iran, prompting the outbreak of war..."
     }
   ]
 }
