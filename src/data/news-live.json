@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-07-31",
   "articles": [
     {
-      "id": "live-1785403734381-0",
+      "id": "live-1785491046349-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-30",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-30-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-546128-2026-07-30",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, July 30: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, July 30: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
+      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
+      "body": "Fuel prices across India remained largely unchanged on July 30, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on July 30, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ..."
+    },
+    {
+      "id": "live-1785491046349-1",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-07-30",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-check-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-falls-amid-us-iran-tensions-11785374707052.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru as Brent falls amid US-Iran tensions",
+      "titleEn": "Petrol, diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru as Brent falls amid US-Iran tensions",
+      "summary": "Petrol, diesel prices today — 30 July: Fuel rates remain stable in most cities. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities as Brent retreats after US military launches fresh strikes on Iran.",
+      "summaryEn": "Petrol, diesel prices today — 30 July: Fuel rates remain stable in most cities. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities as Brent retreats after US military launches fresh strikes on Iran.",
+      "body": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern...",
+      "bodyEn": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern..."
+    },
+    {
+      "id": "live-1785491046350-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-07-29",
       "source": "The Nation",
-      "featured": true,
+      "featured": false,
       "url": "https://www.nation.com.pk/29-Jul-2026/petrol-price-cut-rs0-75-diesel-rs2-24-latest-fuel-price-revision",
       "isLive": true,
       "title": "Petrol price cut by Rs0.75, diesel up by Rs2.24 in latest fuel price revision",
@@ -19,7 +53,7 @@
       "bodyEn": "The federal government has announced a new adjustment to petroleum prices, lowering the price of petrol while increasing the rate of (HSD), with the revised prices coming into effect from July 30, 2026.\nAccording to a notification issued by the Minis..."
     },
     {
-      "id": "live-1785403734382-1",
+      "id": "live-1785491046350-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Australian motorists will pay more for fuel following confirmation by treasurer Jim Chalmers that the federal government's current fuel excise discount will end at midnight this Sunday (August 2, 2026).\nIn response to record petrol and diesel prices ..."
     },
     {
-      "id": "live-1785403734382-2",
+      "id": "live-1785491046350-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Australian motorists will pay more for fuel following confirmation by treasurer Jim Chalmers that the federal government's current fuel excise discount will end at midnight this Sunday (August 2, 2026).\nIn response to record petrol and diesel prices ..."
     },
     {
-      "id": "live-1785403734382-3",
+      "id": "live-1785491046350-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "This Sunday the federal government's Fuel Excise discount will end and petrol and diesel prices will jump. So by how much will they increase and will we see a return to panic buying and the prospect of fuel rationing we witnessed earlier this year?\nS..."
     },
     {
-      "id": "live-1785403734382-4",
+      "id": "live-1785491046350-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on July 29, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ..."
     },
     {
-      "id": "live-1785403734382-5",
+      "id": "live-1785491046350-7",
       "flag": "📰",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "Around 63% of EV sales in June came from the two-wheeler segment, while only around 10% came from four-wheelers, according to Federation of Automobile Dealers Associations data.\nAlongside lower fuel costs, EVs also offer higher savings on maintenance..."
     },
     {
-      "id": "live-1785403734382-6",
+      "id": "live-1785491046350-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "The federal government has announced an increase in the prices of petrol and (HSD) under the latest fortnightly revision of petroleum products.\nAccording to a notification issued by the (Petroleum Division), the revised will take effect from July 29,..."
     },
     {
-      "id": "live-1785403734382-7",
+      "id": "live-1785491046350-9",
       "flag": "📰",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -138,41 +172,7 @@
       "bodyEn": "Petrol and diesel prices look like they are about to rise sharply across Spain this week, so topping up your tank before Thursday could stop you shelling out an extra five to ten euros by the weekend.\nDrivers planning summer getaways already face hig..."
     },
     {
-      "id": "live-1785403734382-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-28",
-      "source": "Daily Record",
-      "featured": false,
-      "url": "https://www.dailyrecord.co.uk/lifestyle/motoring/drivers-urged-fill-up-before-37485942",
-      "isLive": true,
-      "title": "Drivers urged to fill up before Friday as RAC warns of 'pretty grim outlook'",
-      "titleEn": "Drivers urged to fill up before Friday as RAC warns of 'pretty grim outlook'",
-      "summary": "Experts have warned drivers to expect even higher petrol and diesel prices this week",
-      "summaryEn": "Experts have warned drivers to expect even higher petrol and diesel prices this week",
-      "body": "Experts have warned drivers to expect even higher petrol and diesel prices this week\nDrivers are being warned that the cost of filling up their vehicles is expected to climb even higher this week. Petrol and diesel are on track to reach their highest...",
-      "bodyEn": "Experts have warned drivers to expect even higher petrol and diesel prices this week\nDrivers are being warned that the cost of filling up their vehicles is expected to climb even higher this week. Petrol and diesel are on track to reach their highest..."
-    },
-    {
-      "id": "live-1785403734382-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-07-28",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-28-check-latest-rates-in-delhi-mumbai-chennai-more-545560-2026-07-28",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, July 28: Check latest rates in Delhi, Mumbai, Chennai & more",
-      "titleEn": "Petrol, diesel prices today, July 28: Check latest rates in Delhi, Mumbai, Chennai & more",
-      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
-      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
-      "body": "Fuel prices across India remained largely unchanged on July 28, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ...",
-      "bodyEn": "Fuel prices across India remained largely unchanged on July 28, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have ..."
-    },
-    {
-      "id": "live-1785403734382-10",
+      "id": "live-1785491046350-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
