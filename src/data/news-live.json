@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-09",
   "articles": [
     {
-      "id": "live-1786175309462-0",
+      "id": "live-1786261990375-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-08",
+      "source": "The Nation",
+      "featured": true,
+      "url": "https://www.nation.com.pk/08-Aug-2026/prices-petrol-high-speed-diesel-slashed-rs2-20-per-litre-rs1-50-per-litre-respectively",
+      "isLive": true,
+      "title": "Prices of Petrol and High Speed Diesel slashed by Rs2.20 per litre and Rs1.50 per litre respectively",
+      "titleEn": "Prices of Petrol and High Speed Diesel slashed by Rs2.20 per litre and Rs1.50 per litre respectively",
+      "summary": "ISLAMABAD  -   The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively,",
+      "summaryEn": "ISLAMABAD  -   The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively,",
+      "body": "ISLAMABAD - The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively, effective for the next three days (August 08 to 10). Based on revised petroleum pricing mechanism, issu...",
+      "bodyEn": "ISLAMABAD - The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively, effective for the next three days (August 08 to 10). Based on revised petroleum pricing mechanism, issu..."
+    },
+    {
+      "id": "live-1786261990376-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-08",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-8-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548097-2026-08-08",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 8: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 8: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre.",
+      "summaryEn": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre.",
+      "body": "Fuel prices across India remained largely unchanged in August 8, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 8, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have..."
+    },
+    {
+      "id": "live-1786261990376-2",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-08",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-check-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-as-crude-oil-weighs-iran-oman-deal-11786149850783.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Crude oil weighs Iran-Oman deal",
+      "titleEn": "Petrol, diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Crude oil weighs Iran-Oman deal",
+      "summary": "Petrol, diesel prices today — 8 Aug: Retail fuel rates held steady on 8 August, despite an increase in Brent crude price. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities.",
+      "summaryEn": "Petrol, diesel prices today — 8 Aug: Retail fuel rates held steady on 8 August, despite an increase in Brent crude price. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities.",
+      "body": "Petrol and diesel prices today, 8 August: Retail petrol and diesel prices across major Indian cities held steady today even as Brent notched a third straight weekly loss to settle above $83 a barrel. Fuel rates set by state-run Oil Marketing Companie...",
+      "bodyEn": "Petrol and diesel prices today, 8 August: Retail petrol and diesel prices across major Indian cities held steady today even as Brent notched a third straight weekly loss to settle above $83 a barrel. Fuel rates set by state-run Oil Marketing Companie..."
+    },
+    {
+      "id": "live-1786261990376-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-07",
       "source": "Euronews",
-      "featured": true,
+      "featured": false,
       "url": "https://www.euronews.com/business/2026/08/07/portugal-next-week-starts-with-sharp-drop-in-fuel-prices",
       "isLive": true,
       "title": "Portugal: next week starts with sharp drop in fuel prices",
@@ -19,7 +70,7 @@
       "bodyEn": "New week, new prices: from 10 August, industry forecasts point to a sharp drop in fuel prices, of around 12 cents on diesel and 12.5 cents on petrol, according to the Automobile Club of Portugal (ACP) (source in Portuguese).\nIf the forecasts for next..."
     },
     {
-      "id": "live-1786175309463-1",
+      "id": "live-1786261990376-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "ISLAMABAD - The federal government on Thursday slashed the prices of petrol and High Speed Diesel by Rs 3.19 per litre and Rs 1.50 per litre respectively, effective for one day. “Based on revised petroleum pricing mechanism, issued by Federal Governm..."
     },
     {
-      "id": "live-1786175309463-2",
+      "id": "live-1786261990376-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 7, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have..."
     },
     {
-      "id": "live-1786175309463-3",
+      "id": "live-1786261990376-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Petrol and diesel prices today, 7 August: Retail fuel rates across major Indian cities remained largely unchanged on Friday despite marginal fluctuation. Petrol and diesel prices continue to align with the last major price revision that came about ov..."
     },
     {
-      "id": "live-1786175309463-4",
+      "id": "live-1786261990376-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "The federal government has reduced the prices of petrol and (HSD), according to a notification issued by the .\nUnder the revised rates, petrol has become cheaper by Rs3.19 per litre, bringing the new price down to Rs329.82 per litre. The price of has..."
     },
     {
-      "id": "live-1786175309463-5",
+      "id": "live-1786261990377-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "KARACHI: Pakistan reduced petrol and diesel prices in the first adjustment under a new daily pricing mechanism, with petrol dropping Rs 3.19 per liter and high-speed diesel falling Rs 1.50 per liter, effective Aug. 7, 2026.\nPetrol now costs Rs 329.82..."
     },
     {
-      "id": "live-1786175309463-6",
+      "id": "live-1786261990377-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 6, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have..."
     },
     {
-      "id": "live-1786175309463-7",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-06",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-6-aug-fuel-rates-in-delhi-bengaluru-jaipur-as-crude-oil-dips-on-us-iran-deal-optimism-11785976757472.html",
-      "isLive": true,
-      "title": "Petrol, diesel prices today - 6 Aug: Fuel rates in Delhi, Bengaluru, Jaipur as Crude oil dips on US-Iran deal optimism",
-      "titleEn": "Petrol, diesel prices today - 6 Aug: Fuel rates in Delhi, Bengaluru, Jaipur as Crude oil dips on US-Iran deal optimism",
-      "summary": "Petrol, diesel prices today — 6 Aug: Retail fuel rates held steady despite a decline in Brent crude price caused by optimism on US-Iran deal. Check fuel rates in Delhi, Bengaluru, Jaipur and other cities.",
-      "summaryEn": "Petrol, diesel prices today — 6 Aug: Retail fuel rates held steady despite a decline in Brent crude price caused by optimism on US-Iran deal. Check fuel rates in Delhi, Bengaluru, Jaipur and other cities.",
-      "body": "Petrol and diesel prices today, 6 August: Retail fuel rates stood steady on Thursday across Indian cities and continue to align with the last major price revision that came about over two months ago, on 25 May. Hence, domestic fuel rates have remaine...",
-      "bodyEn": "Petrol and diesel prices today, 6 August: Retail fuel rates stood steady on Thursday across Indian cities and continue to align with the last major price revision that came about over two months ago, on 25 May. Hence, domestic fuel rates have remaine..."
-    },
-    {
-      "id": "live-1786175309463-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-06",
-      "source": "Malay Mail",
-      "featured": false,
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/06/ron97-unsubsidised-ron95-and-diesel-prices-down-five-sen-this-week/230352",
-      "isLive": true,
-      "title": "RON97, unsubsidised RON95 and diesel prices down five sen this week",
-      "titleEn": "RON97, unsubsidised RON95 and diesel prices down five sen this week",
-      "summary": "KUALA LUMPUR, Aug 6 — The retail prices of RON97 petrol, unsubsidised RON95 and unsubsidised diesel have each decreased by five sen per litre from Aug 6 to Aug 12, 2026. In a...",
-      "summaryEn": "KUALA LUMPUR, Aug 6 — The retail prices of RON97 petrol, unsubsidised RON95 and unsubsidised diesel have each decreased by five sen per litre from Aug 6 to Aug 12, 2026. In a...",
-      "body": "KUALA LUMPUR, Aug 6 — The retail prices of RON97 petrol, unsubsidised RON95 and unsubsidised diesel have each decreased by five sen per litre from Aug 6 to Aug 12, 2026.\nIn a statement last night, the Ministry of Finance (MOF) said RON97 is now price...",
-      "bodyEn": "KUALA LUMPUR, Aug 6 — The retail prices of RON97 petrol, unsubsidised RON95 and unsubsidised diesel have each decreased by five sen per litre from Aug 6 to Aug 12, 2026.\nIn a statement last night, the Ministry of Finance (MOF) said RON97 is now price..."
-    },
-    {
-      "id": "live-1786175309463-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-05",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/auto/story/mahindra-updates-scorpio-n-at-rs-13-69-25-49-lakh-with-panoramic-sunroof-547512-2026-08-05",
-      "isLive": true,
-      "title": "Mahindra updates Scorpio N at Rs 13.69 25.49 lakh with panoramic sunroof",
-      "titleEn": "Mahindra updates Scorpio N at Rs 13.69 25.49 lakh with panoramic sunroof",
-      "summary": "Ex-showroom prices start at Rs 13.69 lakh for the petrol Z2 manual and go up to Rs 25.49 lakh for the diesel Z8L (ADAS) 7-seater with four-wheel drive and automatic transmission.",
-      "summaryEn": "Ex-showroom prices start at Rs 13.69 lakh for the petrol Z2 manual and go up to Rs 25.49 lakh for the diesel Z8L (ADAS) 7-seater with four-wheel drive and automatic transmission.",
-      "body": "Mahindra & Mahindra has upgraded the Scorpio-N with a panoramic sunroof, a 540-degree surround-view camera, a larger touchscreen infotainment system and several other technology features.\nM&M has retained the existing variant lineup comprising Z2, Z4...",
-      "bodyEn": "Mahindra & Mahindra has upgraded the Scorpio-N with a panoramic sunroof, a 540-degree surround-view camera, a larger touchscreen infotainment system and several other technology features.\nM&M has retained the existing variant lineup comprising Z2, Z4..."
-    },
-    {
-      "id": "live-1786175309463-10",
+      "id": "live-1786261990377-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
