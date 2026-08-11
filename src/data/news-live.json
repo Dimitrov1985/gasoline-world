@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-08-10",
+  "lastUpdated": "2026-08-11",
   "articles": [
     {
-      "id": "live-1786350347641-0",
+      "id": "live-1786435695632-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-08-10",
+      "source": "Hindustan Times",
+      "featured": true,
+      "url": "https://www.hindustantimes.com/india-news/petrol-diesel-prices-to-fall-heres-what-the-government-said-in-parliament-govt-response-101786370500631.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices to fall? Here's what government said",
+      "titleEn": "Petrol, diesel prices to fall? Here's what government said",
+      "summary": "The government cut excise duty by ₹10 per litre in March but has announced no fresh fuel price cut. | India News",
+      "summaryEn": "The government cut excise duty by ₹10 per litre in March but has announced no fresh fuel price cut. | India News",
+      "body": "The government has no direct role in deciding prices of petrol and diesel, as rates are market-driven, and public sector oil companies decide the costs, the petroleum ministry said on Monday.\nMinister of state for petroleum and natural gas Suresh Gop...",
+      "bodyEn": "The government has no direct role in deciding prices of petrol and diesel, as rates are market-driven, and public sector oil companies decide the costs, the petroleum ministry said on Monday.\nMinister of state for petroleum and natural gas Suresh Gop..."
+    },
+    {
+      "id": "live-1786435695633-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-10",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-10-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548210-2026-08-10",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 10 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 10 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "In other major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above ₹110 per litre.",
+      "summaryEn": "In other major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above ₹110 per litre.",
+      "body": "Fuel prices across India remained largely unchanged in August 10, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 10, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1786435695633-2",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-10",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-how-costly-is-fuel-in-delhi-mumbai-bengaluru-as-crude-oil-rises-on-elusive-iran-oman-deal-11786271017838.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today: How costly is fuel in Delhi, Mumbai, Bengaluru as crude oil rises on elusive Iran-Oman deal",
+      "titleEn": "Petrol, diesel prices today: How costly is fuel in Delhi, Mumbai, Bengaluru as crude oil rises on elusive Iran-Oman deal",
+      "summary": "Petrol, diesel prices today — 10 Aug: Retail fuel rates held steady on Monday, despite an increase in Brent crude price. Check fuel rates in Delhi, Mumbai, Bengaluru, Gurugram and other cities.",
+      "summaryEn": "Petrol, diesel prices today — 10 Aug: Retail fuel rates held steady on Monday, despite an increase in Brent crude price. Check fuel rates in Delhi, Mumbai, Bengaluru, Gurugram and other cities.",
+      "body": "Petrol and diesel prices today, 10 August: Retail petrol and diesel prices across major Indian cities held steady today even as crude oil price rose on elusive Iran-Oman deal on Strait of Hormuz. State-owned fuel retailers kept rates largely unchange...",
+      "bodyEn": "Petrol and diesel prices today, 10 August: Retail petrol and diesel prices across major Indian cities held steady today even as crude oil price rose on elusive Iran-Oman deal on Strait of Hormuz. State-owned fuel retailers kept rates largely unchange..."
+    },
+    {
+      "id": "live-1786435695633-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-09",
       "source": "Business Today",
-      "featured": true,
+      "featured": false,
       "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-9-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548160-2026-08-09",
       "isLive": true,
       "title": "Petrol, diesel prices today, August 9: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
@@ -19,7 +70,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 9, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have..."
     },
     {
-      "id": "live-1786350347642-1",
+      "id": "live-1786435695633-4",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "Petrol and diesel prices today, 9 August: Retail fuel rates across major Indian cities remained largely unchanged today even as Brent notched a third straight weekly loss to settle above $83 a barrel. Fuel rates set by state-run Oil Marketing Compani..."
     },
     {
-      "id": "live-1786350347642-2",
+      "id": "live-1786435695633-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "ISLAMABAD - The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively, effective for the next three days (August 08 to 10). Based on revised petroleum pricing mechanism, issu..."
     },
     {
-      "id": "live-1786350347642-3",
+      "id": "live-1786435695633-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 8, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have..."
     },
     {
-      "id": "live-1786350347642-4",
+      "id": "live-1786435695633-7",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices today, 8 August: Retail petrol and diesel prices across major Indian cities held steady today even as Brent notched a third straight weekly loss to settle above $83 a barrel. Fuel rates set by state-run Oil Marketing Companie..."
     },
     {
-      "id": "live-1786350347642-5",
+      "id": "live-1786435695633-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "New week, new prices: from 10 August, industry forecasts point to a sharp drop in fuel prices, of around 12 cents on diesel and 12.5 cents on petrol, according to the Automobile Club of Portugal (ACP) (source in Portuguese).\nIf the forecasts for next..."
     },
     {
-      "id": "live-1786350347642-6",
+      "id": "live-1786435695633-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "ISLAMABAD - The federal government on Thursday slashed the prices of petrol and High Speed Diesel by Rs 3.19 per litre and Rs 1.50 per litre respectively, effective for one day. “Based on revised petroleum pricing mechanism, issued by Federal Governm..."
     },
     {
-      "id": "live-1786350347642-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-07",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-7-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-547809-2026-08-07",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 7: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 7: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "In major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above ₹110 per litre. Diesel prices are below ₹100 in these cities, except in Hyderabad, where diesel is priced at ₹103.58",
-      "summaryEn": "In major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above ₹110 per litre. Diesel prices are below ₹100 in these cities, except in Hyderabad, where diesel is priced at ₹103.58",
-      "body": "Fuel prices across India remained largely unchanged in August 7, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have...",
-      "bodyEn": "Fuel prices across India remained largely unchanged in August 7, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices have..."
-    },
-    {
-      "id": "live-1786350347642-8",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-07",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-7-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-climbs-on-iran-strikes-in-hormuz-11786063281357.html",
-      "isLive": true,
-      "title": "Petrol, diesel prices today - 7 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent climbs on Iran strikes in Hormuz",
-      "titleEn": "Petrol, diesel prices today - 7 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent climbs on Iran strikes in Hormuz",
-      "summary": "Petrol, diesel prices today — 7 Aug: Retail fuel rates held steady on 7 August, despite a rise in Brent crude caused by news of Iran strikes in Hormuz. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities.",
-      "summaryEn": "Petrol, diesel prices today — 7 Aug: Retail fuel rates held steady on 7 August, despite a rise in Brent crude caused by news of Iran strikes in Hormuz. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities.",
-      "body": "Petrol and diesel prices today, 7 August: Retail fuel rates across major Indian cities remained largely unchanged on Friday despite marginal fluctuation. Petrol and diesel prices continue to align with the last major price revision that came about ov...",
-      "bodyEn": "Petrol and diesel prices today, 7 August: Retail fuel rates across major Indian cities remained largely unchanged on Friday despite marginal fluctuation. Petrol and diesel prices continue to align with the last major price revision that came about ov..."
-    },
-    {
-      "id": "live-1786350347642-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-06",
-      "source": "The Nation",
-      "featured": false,
-      "url": "https://www.nation.com.pk/06-Aug-2026/govt-cuts-petrol-rs3-19-diesel-rs1-50-per-litre",
-      "isLive": true,
-      "title": "Govt cuts petrol by Rs3.19, diesel by Rs1.50 per litre",
-      "titleEn": "Govt cuts petrol by Rs3.19, diesel by Rs1.50 per litre",
-      "summary": "The federal government has reduced the prices of petrol and high-speed diesel (HSD), according to a notification issued by the Petroleum Division.",
-      "summaryEn": "The federal government has reduced the prices of petrol and high-speed diesel (HSD), according to a notification issued by the Petroleum Division.",
-      "body": "The federal government has reduced the prices of petrol and (HSD), according to a notification issued by the .\nUnder the revised rates, petrol has become cheaper by Rs3.19 per litre, bringing the new price down to Rs329.82 per litre. The price of has...",
-      "bodyEn": "The federal government has reduced the prices of petrol and (HSD), according to a notification issued by the .\nUnder the revised rates, petrol has become cheaper by Rs3.19 per litre, bringing the new price down to Rs329.82 per litre. The price of has..."
-    },
-    {
-      "id": "live-1786350347643-10",
+      "id": "live-1786435695634-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
