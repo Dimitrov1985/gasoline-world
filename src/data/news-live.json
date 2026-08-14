@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "articles": [
     {
-      "id": "live-1786609178178-0",
+      "id": "live-1786695264050-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-13",
+      "source": "The Nation",
+      "featured": true,
+      "url": "https://www.nation.com.pk/14-Aug-2026/petrol-price-rises-rs0-45-diesel-rs1-16-per-litre-august-14",
+      "isLive": true,
+      "title": "Petrol price rises by Rs0.45, diesel by Rs1.16 per litre from August 14",
+      "titleEn": "Petrol price rises by Rs0.45, diesel by Rs1.16 per litre from August 14",
+      "summary": "The federal government has increased the prices of both petrol and high-speed diesel (HSD), with the new rates taking effect from Friday, August 14.",
+      "summaryEn": "The federal government has increased the prices of both petrol and high-speed diesel (HSD), with the new rates taking effect from Friday, August 14.",
+      "body": "The federal government has increased the prices of both petrol and high-speed diesel (HSD), with the new rates taking effect from Friday, August 14.\nUnder a notification issued by the , the price of petrol has been raised by Rs0.45 per litre, taking ...",
+      "bodyEn": "The federal government has increased the prices of both petrol and high-speed diesel (HSD), with the new rates taking effect from Friday, August 14.\nUnder a notification issued by the , the price of petrol has been raised by Rs0.45 per litre, taking ..."
+    },
+    {
+      "id": "live-1786695264051-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-13",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-13-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548891-2026-08-13",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 13 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 13 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre",
+      "summaryEn": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre",
+      "body": "Fuel prices across India remained largely unchanged in August 13, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 13, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1786695264051-2",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-13",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-13-aug-fuel-rates-in-delhi-mumbai-as-crude-oil-falls-despite-deadlock-in-us-iran-talks-11786581453778.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today - 13 Aug: Fuel rates in Delhi, Mumbai as crude oil falls despite deadlock in US-Iran talks",
+      "titleEn": "Petrol, diesel prices today - 13 Aug: Fuel rates in Delhi, Mumbai as crude oil falls despite deadlock in US-Iran talks",
+      "summary": "Petrol, diesel prices today — 13 August: Retail fuel rates held steady on Thursday, despite drop in Brent crude price. Check fuel rates in Delhi, Mumbai, Gurugram and other cities.",
+      "summaryEn": "Petrol, diesel prices today — 13 August: Retail fuel rates held steady on Thursday, despite drop in Brent crude price. Check fuel rates in Delhi, Mumbai, Gurugram and other cities.",
+      "body": "Petrol and diesel prices today, 13 August: Fuel rates in India held steady on Thursday despite fluctuations in Brent crude oil price, the international benchmark. Petrol and diesel prices which are determined by state-run Oil Marketing Companies (OMC...",
+      "bodyEn": "Petrol and diesel prices today, 13 August: Fuel rates in India held steady on Thursday despite fluctuations in Brent crude oil price, the international benchmark. Petrol and diesel prices which are determined by state-run Oil Marketing Companies (OMC..."
+    },
+    {
+      "id": "live-1786695264051-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-12",
       "source": "ThePrint",
-      "featured": true,
+      "featured": false,
       "url": "https://theprint.in/india/himachal-bjp-slams-slams-sukhu-govt-over-orphan-and-widow-cess-on-petrol-and-diesel/3012571/",
       "isLive": true,
       "title": "Himachal: BJP slams slams Sukhu govt over orphan and widow cess on petrol and diesel",
@@ -19,7 +70,7 @@
       "bodyEn": "Shimla, August 12 (PTI) The Himachal BJP on Wednesday slammed the Sukhvinder Sukhu-led Congress government for levying an ‘orphan and widow cess’ on petrol and diesel, saying the move would have far-reaching consequences for the people and would push..."
     },
     {
-      "id": "live-1786609178179-1",
+      "id": "live-1786695264052-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "The Himachal BJP on Wednesday slammed the Sukhvinder Sukhu-led Congress government for levying an 'orphan and widow cess' on petrol and diesel, saying the move would have far-reaching consequences for the people and would push up the prices of essent..."
     },
     {
-      "id": "live-1786609178179-2",
+      "id": "live-1786695264052-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Fuel prices across the state of Himachal Pradesh rose on Wednesday after the state government decided to impose a new Widow and Orphan cess of 60 paise per litre of petrol and diesel.\nFollowing the implementation of this move, petrol and diesel price..."
     },
     {
-      "id": "live-1786609178179-3",
+      "id": "live-1786695264052-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Shimla:\nThe fuel prices in Himachal Pradesh got increased as Sukhvinder Singh-led Congress government imposed a widow and orphan cess of 60 paise per litre on petrol and diesel. Similarly, an additional cess of 60 paise per liter has been imposed on ..."
     },
     {
-      "id": "live-1786609178179-4",
+      "id": "live-1786695264052-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "The government of Himachal Pradesh has introduced a Widow and Orphan Cess of 60 paise per litre on both petrol and diesel, leading to price hikes in Dharamshala. Petrol prices have surged by up to 71 paise per litre, and diesel has increased by 69 pa..."
     },
     {
-      "id": "live-1786609178179-5",
+      "id": "live-1786695264052-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "Dharamshala (Himachal Pradesh) [India], August 12 (ANI): The Himachal Pradesh government has imposed a Widow and Orphan Cess of 60 paise per litre on petrol and diesel. Following the imposition of the cess, petrol prices in Dharamshala have increased..."
     },
     {
-      "id": "live-1786609178179-6",
+      "id": "live-1786695264052-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "0\nThe government of Himachal Pradesh has announced a new Widow and Orphan Cess of 60 paise per litre of petrol and high-speed diesel. These new cess rates will take effect starting midnight, August 11. The collected amount via this cess will go towar..."
     },
     {
-      "id": "live-1786609178179-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-12",
-      "source": "NewsX",
-      "featured": false,
-      "url": "https://www.newsx.com/india/petrol-diesel-prices-august-12-did-fuel-costs-rise-in-delhi-mumbai-chennai-and-bengaluru-rates-cross-rs-100-in-major-cities-259461/",
-      "isLive": true,
-      "title": "Petrol, Diesel Prices August 12: Did Fuel Costs Rise In Delhi, Mumbai, Chennai And Bengaluru? Rates Cross Rs 100 In Major Cities",
-      "titleEn": "Petrol, Diesel Prices August 12: Did Fuel Costs Rise In Delhi, Mumbai, Chennai And Bengaluru? Rates Cross Rs 100 In Major Cities",
-      "summary": "Himachal Pradesh will raise petrol prices by 60 paise after imposing a new cess. Here are the latest petrol and diesel rates across Delhi, Mumbai, Kolkata, Chennai and other major cities.",
-      "summaryEn": "Himachal Pradesh will raise petrol prices by 60 paise after imposing a new cess. Here are the latest petrol and diesel rates across Delhi, Mumbai, Kolkata, Chennai and other major cities.",
-      "body": "35\nThere has been a hike in petrol rates in Himachal Pradesh following the introduction of a widows’ and orphans’ cess by the government led by Sukhwinder Singh Sukhu. This cess came into effect from midnight and has hiked petrol rates by 60 paise pe...",
-      "bodyEn": "35\nThere has been a hike in petrol rates in Himachal Pradesh following the introduction of a widows’ and orphans’ cess by the government led by Sukhwinder Singh Sukhu. This cess came into effect from midnight and has hiked petrol rates by 60 paise pe..."
-    },
-    {
-      "id": "live-1786609178179-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-12",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-12-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548635-2026-08-12",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 12 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 12 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "Mumbai has continued to see petrol prices above the ₹110 mark, with petrol selling at ₹111.21 per litre and diesel at ₹99.82 per litre, a slight hike from the previous prices.",
-      "summaryEn": "Mumbai has continued to see petrol prices above the ₹110 mark, with petrol selling at ₹111.21 per litre and diesel at ₹99.82 per litre, a slight hike from the previous prices.",
-      "body": "Fuel prices across India remained largely unchanged in August 12, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
-      "bodyEn": "Fuel prices across India remained largely unchanged in August 12, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1786609178179-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-11",
-      "source": "The Irish Times",
-      "featured": false,
-      "url": "https://www.irishtimes.com/ireland/2026/08/11/fuel-prices-see-significant-month-on-month-increase-in-august/",
-      "isLive": true,
-      "title": "Fuel prices see ‘significant month-on-month increase’ in August",
-      "titleEn": "Fuel prices see ‘significant month-on-month increase’ in August",
-      "summary": "Diesel up 19 cents and petrol up 9 cents from July, analysis shows, with further rises expected",
-      "summaryEn": "Diesel up 19 cents and petrol up 9 cents from July, analysis shows, with further rises expected",
-      "body": "Fuel prices have risen substantially in August with further increases expected in the coming months.\nThe price of diesel in Ireland has risen by 11 per cent in August to an average of €1.92 per litre, up 19 cents from July, according to AA Ireland’s ...",
-      "bodyEn": "Fuel prices have risen substantially in August with further increases expected in the coming months.\nThe price of diesel in Ireland has risen by 11 per cent in August to an average of €1.92 per litre, up 19 cents from July, according to AA Ireland’s ..."
-    },
-    {
-      "id": "live-1786609178179-10",
+      "id": "live-1786695264052-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
