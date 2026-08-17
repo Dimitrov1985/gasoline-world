@@ -1,25 +1,59 @@
 {
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17",
   "articles": [
     {
-      "id": "live-1786865396681-0",
+      "id": "live-1786953131666-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-16",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-16-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-549445-2026-08-16",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 16 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 16 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "When the rupee weakens against the dollar, the cost of procuring crude rises, which can feed directly into higher retail fuel prices.",
+      "summaryEn": "When the rupee weakens against the dollar, the cost of procuring crude rises, which can feed directly into higher retail fuel prices.",
+      "body": "Fuel prices across India remained largely unchanged in August 16, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 16, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1786953131667-1",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-16",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-aug-16-latest-fuel-rates-in-delhi-mumbai-bengaluru-amid-us-iran-deadlock-on-hormuz-11786843963540.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today - Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz",
+      "titleEn": "Petrol and diesel prices today - Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz",
+      "summary": "Petrol and diesel prices today, 16 August: Fuel rates remained stable across major Indian cities on Sunday. Check rates in Delhi, Kolkata, Mumbai, Chennai, Bengaluru and other cities.",
+      "summaryEn": "Petrol and diesel prices today, 16 August: Fuel rates remained stable across major Indian cities on Sunday. Check rates in Delhi, Kolkata, Mumbai, Chennai, Bengaluru and other cities.",
+      "body": "Petrol and diesel prices today, 16 August: Fuel rates held steady across major Indian cities on Sunday, 16 August, even as crude oil price rose more than $1 a barrel on Friday. While oil and gas prices are poised for sizeable weekly gains, the global...",
+      "bodyEn": "Petrol and diesel prices today, 16 August: Fuel rates held steady across major Indian cities on Sunday, 16 August, even as crude oil price rose more than $1 a barrel on Friday. While oil and gas prices are poised for sizeable weekly gains, the global..."
+    },
+    {
+      "id": "live-1786953131667-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-15",
       "source": "Daily Express",
-      "featured": true,
+      "featured": false,
       "url": "https://www.express.co.uk/life-style/cars/2239422/chancellor-update-fuel-duty-plans",
       "isLive": true,
-      "title": "Chancellor John Healey gives drivers update on frozen fuel duty plans",
-      "titleEn": "Chancellor John Healey gives drivers update on frozen fuel duty plans",
+      "title": "Chancellor John Healey gives drivers update on frozen fuel duty",
+      "titleEn": "Chancellor John Healey gives drivers update on frozen fuel duty",
       "summary": "The new statement comes amid persistently high petrol and diesel prices.",
       "summaryEn": "The new statement comes amid persistently high petrol and diesel prices.",
       "body": "Chancellor John Healey has shared a new update on frozen fuel duty rules. The Chancellor is under pressure to abandon a potential fuel duty hike set to take effect in January, as petrol and diesel prices remain volatile amid conflict in the Middle Ea...",
       "bodyEn": "Chancellor John Healey has shared a new update on frozen fuel duty rules. The Chancellor is under pressure to abandon a potential fuel duty hike set to take effect in January, as petrol and diesel prices remain volatile amid conflict in the Middle Ea..."
     },
     {
-      "id": "live-1786865396682-1",
+      "id": "live-1786953131667-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "The federal government has decided to maintain the existing prices of petrol and high-speed diesel for the next three days, keeping the rates unchanged until Monday.\nPetrol will continue to be sold at Rs325.43 per litre, while high-speed diesel (HSD)..."
     },
     {
-      "id": "live-1786865396682-2",
+      "id": "live-1786953131667-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "The average cost of a litre of diesel has jumped to €1.92 while petrol now sits at €1.84 - with diesel set to exceed €2 per litre from September as excise duty relief is phased out\nWith global fuel markets continuing to experience significant volatil..."
     },
     {
-      "id": "live-1786865396682-3",
+      "id": "live-1786953131667-5",
       "flag": "📰",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -70,7 +104,7 @@
       "bodyEn": "The central government has today slashed windfall gains tax on petrol, diesel and air turbine fuel (ATF) exports for the fortnight, weeks after hiking the rate amid escalating tensions due to the war in West Asia.\nThe special additional excise duty (..."
     },
     {
-      "id": "live-1786865396682-4",
+      "id": "live-1786953131667-6",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -87,7 +121,7 @@
       "bodyEn": "The government has cut the windfall tax on diesel and aviation turbine fuel (ATF) exports and removed the export duty on petrol, with the revised rates taking effect from August 15.\nThe total levy on diesel exports has been reduced to ₹24 per litre f..."
     },
     {
-      "id": "live-1786865396682-5",
+      "id": "live-1786953131667-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "The revised duties are applicable to petroleum products exported from India, rather than fuel sold in the domestic market. The notification does not change the excise duty on petrol or diesel for domestic consumers, so the latest revision by itself s..."
     },
     {
-      "id": "live-1786865396682-6",
+      "id": "live-1786953131667-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "India has lowered windfall taxes on exports of ​petrol, diesel and aviation turbine ​fuel with effect from Saturday, according ‌to a government order.\nThe duty on diesel exports has been cut to ₹24 ($0.2515) per litre from ₹25.5, while petrol duty ha..."
     },
     {
-      "id": "live-1786865396682-7",
+      "id": "live-1786953131667-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -138,41 +172,7 @@
       "bodyEn": "India has reduced export duties on petrol, diesel and aviation turbine fuel (ATF), with the revised rates coming into effect from August 15, according to a government order. The move reverses part of the sharp increase in levies announced earlier thi..."
     },
     {
-      "id": "live-1786865396682-8",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-08-14",
-      "source": "The Economic Times",
-      "featured": false,
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-cuts-windfall-tax-on-exports-of-petrol-diesel-aviation-fuel/articleshow/133250468.cms",
-      "isLive": true,
-      "title": "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
-      "titleEn": "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
-      "summary": "India has reduced windfall taxes on petrol, diesel, and aviation fuel exports. The duty on diesel exports is now 24 rupees per litre, while petrol duty is zero. Aviation turbine fuel exports will now face a 19.5 rupee per litre tax. These levies were first imposed in July 2022 and reintroduced in March 2026. India revises these export taxes every fortnight based on global oil prices.",
-      "summaryEn": "India has reduced windfall taxes on petrol, diesel, and aviation fuel exports. The duty on diesel exports is now 24 rupees per litre, while petrol duty is zero. Aviation turbine fuel exports will now face a 19.5 rupee per litre tax. These levies were first imposed in July 2022 and reintroduced in March 2026. India revises these export taxes every fortnight based on global oil prices.",
-      "body": "Synopsis\nIndia has reduced windfall taxes on petrol, diesel, and aviation fuel exports. The duty on diesel exports is now 24 rupees per litre, while petrol duty is zero. Aviation turbine fuel exports will now face a 19.5 rupee per litre tax. These le...",
-      "bodyEn": "Synopsis\nIndia has reduced windfall taxes on petrol, diesel, and aviation fuel exports. The duty on diesel exports is now 24 rupees per litre, while petrol duty is zero. Aviation turbine fuel exports will now face a 19.5 rupee per litre tax. These le..."
-    },
-    {
-      "id": "live-1786865396682-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-14",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-14-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-549107-2026-08-14",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 14 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 14 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
-      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
-      "body": "Fuel prices across India remained largely unchanged in August 14, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
-      "bodyEn": "Fuel prices across India remained largely unchanged in August 14, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1786865396682-10",
+      "id": "live-1786953131667-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
