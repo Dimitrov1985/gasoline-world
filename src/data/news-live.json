@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-20",
   "articles": [
     {
-      "id": "live-1787125019151-0",
+      "id": "live-1787211580421-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-19",
+      "source": "Malay Mail",
+      "featured": true,
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/19/mof-unsubsidised-petrol-and-diesel-to-rise-10-20-sen-per-litre-from-aug-20-26/231961",
+      "isLive": true,
+      "title": "MOF: Unsubsidised petrol and diesel to rise 10-20 sen per litre from Aug 20-26",
+      "titleEn": "MOF: Unsubsidised petrol and diesel to rise 10-20 sen per litre from Aug 20-26",
+      "summary": "KUALA LUMPUR, Aug 19 — Retail prices of unsubsidised petroleum products nationwide will increase by between 10 sen and 20 sen per litre for the August 20-26 period, driven by...",
+      "summaryEn": "KUALA LUMPUR, Aug 19 — Retail prices of unsubsidised petroleum products nationwide will increase by between 10 sen and 20 sen per litre for the August 20-26 period, driven by...",
+      "body": "KUALA LUMPUR, Aug 19 — Retail prices of unsubsidised petroleum products nationwide will increase by between 10 sen and 20 sen per litre for the August 20-26 period, driven by global geopolitical instability affecting crude oil prices and supplies.\nIn...",
+      "bodyEn": "KUALA LUMPUR, Aug 19 — Retail prices of unsubsidised petroleum products nationwide will increase by between 10 sen and 20 sen per litre for the August 20-26 period, driven by global geopolitical instability affecting crude oil prices and supplies.\nIn..."
+    },
+    {
+      "id": "live-1787211580422-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-19",
+      "source": "The Nation",
+      "featured": false,
+      "url": "https://www.nation.com.pk/19-Aug-2026/govt-increase-petrol-price-rs3-34-diesel-rs5-27-per-litre",
+      "isLive": true,
+      "title": "Govt increase petrol price by Rs3.34, diesel by Rs5.27 per litre",
+      "titleEn": "Govt increase petrol price by Rs3.34, diesel by Rs5.27 per litre",
+      "summary": "ISLAMABAD -  The federal government once again jacked up the prices of Petrol and high-speed diesel by Rs 3.34 per litre and Rs 5.27 per litre, respectively",
+      "summaryEn": "ISLAMABAD -  The federal government once again jacked up the prices of Petrol and high-speed diesel by Rs 3.34 per litre and Rs 5.27 per litre, respectively",
+      "body": "ISLAMABAD - The federal government once again jacked up the prices of Petrol and high-speed diesel by Rs 3.34 per litre and Rs 5.27 per litre, respectively effective for one day. “Based on revised petroleum pricing mechanism, issued by Federal Govern...",
+      "bodyEn": "ISLAMABAD - The federal government once again jacked up the prices of Petrol and high-speed diesel by Rs 3.34 per litre and Rs 5.27 per litre, respectively effective for one day. “Based on revised petroleum pricing mechanism, issued by Federal Govern..."
+    },
+    {
+      "id": "live-1787211580422-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-19",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-19-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-549937-2026-08-19",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 19 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 19 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "In major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above ₹110 per litre. Diesel prices are below ₹100 in these cities, except in Hyderabad, where diesel is priced at ₹103.82.",
+      "summaryEn": "In major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above ₹110 per litre. Diesel prices are below ₹100 in these cities, except in Hyderabad, where diesel is priced at ₹103.82.",
+      "body": "Fuel prices across India remained largely unchanged in August 19, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 19, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1787211580422-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-18",
       "source": "BOL News",
-      "featured": true,
+      "featured": false,
       "url": "https://www.bolnews.com/business/federal-govt-raises-petrol-and-diesel-prices/",
       "isLive": true,
       "title": "Federal govt raises petrol and diesel prices",
@@ -19,7 +70,7 @@
       "bodyEn": "ISLAMABAD: The federal government has increased the prices of petrol and diesel, with the new rates taking effect from August 19, according to a notification issued by the Petroleum Division.\nPetrol prices have been increased by Rs3.34 per liter, whi..."
     },
     {
-      "id": "live-1787125019151-1",
+      "id": "live-1787211580422-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -36,7 +87,7 @@
       "bodyEn": "Mark Matthews, Managing Director at Julius Baer, recently told NDTV that crude oil prices could fall to around $60 a barrel. His outlook comes as a positive signal, with Brent crude trading near $91.16 per barrel and WTI around $84.92, driven mainly ..."
     },
     {
-      "id": "live-1787125019151-2",
+      "id": "live-1787211580422-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "The watchdog has raised concerns about 'passive pricing strategies' used by some petrol stations\nHundreds of petrol stations across the UK have been issued warning letters by the competition watchdog after failing to pass on falling wholesale fuel co..."
     },
     {
-      "id": "live-1787125019151-3",
+      "id": "live-1787211580422-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 18, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787125019152-4",
+      "id": "live-1787211580422-7",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices today, 18 August: Fuel prices across India remained largely stable on 18 August, with only marginal changes reported in some states, while rates remained unchanged in several others. This comes as global oil prices climbed am..."
     },
     {
-      "id": "live-1787125019152-5",
+      "id": "live-1787211580422-8",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "Petrol and diesel prices today, 17 August: Brent crude, the global benchmark, stood steady at $88.50 a barrel on Monday after gaining 6% last week as investors keep a wary eye on oil prices. Crude oil notched sizeable gains last week but fuel rates r..."
     },
     {
-      "id": "live-1787125019152-6",
+      "id": "live-1787211580422-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,58 +172,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 17, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787125019152-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-16",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-16-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-549445-2026-08-16",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 16 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 16 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "When the rupee weakens against the dollar, the cost of procuring crude rises, which can feed directly into higher retail fuel prices.",
-      "summaryEn": "When the rupee weakens against the dollar, the cost of procuring crude rises, which can feed directly into higher retail fuel prices.",
-      "body": "Fuel prices across India remained largely unchanged in August 16, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
-      "bodyEn": "Fuel prices across India remained largely unchanged in August 16, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1787125019152-8",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-16",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-aug-16-latest-fuel-rates-in-delhi-mumbai-bengaluru-amid-us-iran-deadlock-on-hormuz-11786843963540.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today - Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz",
-      "titleEn": "Petrol and diesel prices today - Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz",
-      "summary": "Petrol and diesel prices today, 16 August: Fuel rates remained stable across major Indian cities on Sunday. Check rates in Delhi, Kolkata, Mumbai, Chennai, Bengaluru and other cities.",
-      "summaryEn": "Petrol and diesel prices today, 16 August: Fuel rates remained stable across major Indian cities on Sunday. Check rates in Delhi, Kolkata, Mumbai, Chennai, Bengaluru and other cities.",
-      "body": "Petrol and diesel prices today, 16 August: Fuel rates held steady across major Indian cities on Sunday, 16 August, even as crude oil price rose more than $1 a barrel on Friday. While oil and gas prices are poised for sizeable weekly gains, the global...",
-      "bodyEn": "Petrol and diesel prices today, 16 August: Fuel rates held steady across major Indian cities on Sunday, 16 August, even as crude oil price rose more than $1 a barrel on Friday. While oil and gas prices are poised for sizeable weekly gains, the global..."
-    },
-    {
-      "id": "live-1787125019152-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-15",
-      "source": "Daily Express",
-      "featured": false,
-      "url": "https://www.express.co.uk/life-style/cars/2239422/chancellor-update-fuel-duty-plans",
-      "isLive": true,
-      "title": "Chancellor John Healey gives drivers update on frozen fuel duty",
-      "titleEn": "Chancellor John Healey gives drivers update on frozen fuel duty",
-      "summary": "The new statement comes amid persistently high petrol and diesel prices.",
-      "summaryEn": "The new statement comes amid persistently high petrol and diesel prices.",
-      "body": "Chancellor John Healey has shared a new update on frozen fuel duty rules. The Chancellor is under pressure to abandon a potential fuel duty hike set to take effect in January, as petrol and diesel prices remain volatile amid conflict in the Middle Ea...",
-      "bodyEn": "Chancellor John Healey has shared a new update on frozen fuel duty rules. The Chancellor is under pressure to abandon a potential fuel duty hike set to take effect in January, as petrol and diesel prices remain volatile amid conflict in the Middle Ea..."
-    },
-    {
-      "id": "live-1787125019152-10",
+      "id": "live-1787211580422-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
