@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-08-24",
+  "lastUpdated": "2026-08-25",
   "articles": [
     {
-      "id": "live-1787558226317-0",
+      "id": "live-1787643717896-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-24",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-24-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-550821-2026-08-24",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 24 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 24 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
+      "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
+      "body": "Fuel prices across India remained largely unchanged in August 24, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 24, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1787643717896-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-24",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-24-aug-check-fuel-rates-in-delhi-mumbai-bengaluru-other-cities-as-crude-oil-falls-11787531959096.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today - 24 Aug: Check fuel rates in Delhi, Mumbai, Bengaluru, other cities as crude oil falls",
+      "titleEn": "Petrol and diesel prices today - 24 Aug: Check fuel rates in Delhi, Mumbai, Bengaluru, other cities as crude oil falls",
+      "summary": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru and other cities stood steady even though oil prices eased on Monday. Check exact fuel rates in Delhi, Mumbai, Bengaluru and other cities here.",
+      "summaryEn": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru and other cities stood steady even though oil prices eased on Monday. Check exact fuel rates in Delhi, Mumbai, Bengaluru and other cities here.",
+      "body": "Petrol and diesel prices today, 24 August: Fuel rates remained unchanged across major Indian cities on Monday as oil prices eased. Amid global energy crisis due to West Asia conflict, state-owned fuel retailers continue to shield consumers from oil p...",
+      "bodyEn": "Petrol and diesel prices today, 24 August: Fuel rates remained unchanged across major Indian cities on Monday as oil prices eased. Amid global energy crisis due to West Asia conflict, state-owned fuel retailers continue to shield consumers from oil p..."
+    },
+    {
+      "id": "live-1787643717897-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-23",
       "source": "Business Today",
-      "featured": true,
+      "featured": false,
       "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-23-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-550789-2026-08-23",
       "isLive": true,
       "title": "Petrol, diesel prices today, August 23 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
@@ -19,7 +53,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 23, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787558226317-1",
+      "id": "live-1787643717897-3",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,..."
     },
     {
-      "id": "live-1787558226317-2",
+      "id": "live-1787643717897-4",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Petrol and diesel prices today, 22 August: Fuel rates remained largely unchanged across major Indian cities on Saturday even as crude oil capped a weekly gain. Fuel rates are revised at 6:00 AM daily as India follows dynamic fuel price method. State-..."
     },
     {
-      "id": "live-1787558226317-3",
+      "id": "live-1787643717897-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Synopsis\nTata Motors Passenger Vehicles will raise vehicle prices by up to ₹25,000 from September 1 across its portfolio, including petrol, diesel and electric models, to partly offset higher input costs and inflation.\nMumbai: Tata Motors Passenger V..."
     },
     {
-      "id": "live-1787558226318-4",
+      "id": "live-1787643717897-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "The federal government has increased the prices of petrol and high-speed diesel (HSD), with the revised rates coming into effect from August 22 and remaining applicable through August 24.\nPetrol has become Rs3.81 more expensive per litre, taking its ..."
     },
     {
-      "id": "live-1787558226318-5",
+      "id": "live-1787643717897-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel by more than Rs3 per liter, according to a notification issued by the Petroleum Division.\nThe price of petrol has been increased by Rs3.81 per liter, taking th..."
     },
     {
-      "id": "live-1787558226318-6",
+      "id": "live-1787643717897-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Consumer prices declined in July, underscoring how different Switzerland’s inflation story is from much of the world. Over the month the consumer-price index fell by 0.1% from June, leaving prices just 0.4% higher than a year earlier, according to th..."
     },
     {
-      "id": "live-1787558226318-7",
+      "id": "live-1787643717897-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,41 +172,7 @@
       "bodyEn": "The federal government has approved an increase in the margins earned by petrol and diesel dealers, with the revised rates set to affect retail .\nUnder a notification issued by the government, the dealers’ margin has been raised by Rs1.34 per litre. ..."
     },
     {
-      "id": "live-1787558226318-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-21",
-      "source": "India TV News",
-      "featured": false,
-      "url": "https://www.indiatvnews.com/auto/tata-motors-to-hike-car-and-suv-prices-by-up-to-rs-25-000-from-september-1-here-is-the-real-reason-2026-08-21-1052043",
-      "isLive": true,
-      "title": "Tata Motors to hike car and SUV prices by up to Rs 25,000 from September 1: Here is the real reason",
-      "titleEn": "Tata Motors to hike car and SUV prices by up to Rs 25,000 from September 1: Here is the real reason",
-      "summary": "Tata Motors Passenger Vehicles Ltd. will increase the prices of its entire passenger vehicle range by up to Rs 25,000 from September 1, 2026. The latest revision will apply to both petrol and diesel models as well as EVs, with the company citing rising input costs and inflationary pressures.",
-      "summaryEn": "Tata Motors Passenger Vehicles Ltd. will increase the prices of its entire passenger vehicle range by up to Rs 25,000 from September 1, 2026. The latest revision will apply to both petrol and diesel models as well as EVs, with the company citing rising input costs and inflationary pressures.",
-      "body": "New Delhi:\nTata Motors plans to raise prices on its entire passenger vehicle lineup in India starting September 1, 2026. Expect an increase of up to Rs 25,000, though the actual hike depends on the specific model and variant you choose.\nBoth regular ...",
-      "bodyEn": "New Delhi:\nTata Motors plans to raise prices on its entire passenger vehicle lineup in India starting September 1, 2026. Expect an increase of up to Rs 25,000, though the actual hike depends on the specific model and variant you choose.\nBoth regular ..."
-    },
-    {
-      "id": "live-1787558226318-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-21",
-      "source": "The Indian Express",
-      "featured": false,
-      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-auto-taxi-kaali-peeli-rides-costlier-rising-petrol-diesel-prices-10842943/",
-      "isLive": true,
-      "title": "Auto, taxi rides in Mumbai to get costlier amid higher petrol, diesel prices",
-      "titleEn": "Auto, taxi rides in Mumbai to get costlier amid higher petrol, diesel prices",
-      "summary": "After the fare hike, likely to be imposed in the coming weeks, the base fare for auto-rickshaws will rise by Re 1.",
-      "summaryEn": "After the fare hike, likely to be imposed in the coming weeks, the base fare for auto-rickshaws will rise by Re 1.",
-      "body": "“An increase in the overall cost of fuel, including CNG and petrol, which in turn raised operating costs for auto rickshaws and taxis, warranted the hike,” a senior transport official said.\nWhen will the new fares come into effect?\nThe revised fares ...",
-      "bodyEn": "“An increase in the overall cost of fuel, including CNG and petrol, which in turn raised operating costs for auto rickshaws and taxis, warranted the hike,” a senior transport official said.\nWhen will the new fares come into effect?\nThe revised fares ..."
-    },
-    {
-      "id": "live-1787558226318-10",
+      "id": "live-1787643717897-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
