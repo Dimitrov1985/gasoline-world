@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "articles": [
     {
-      "id": "live-1787643717896-0",
+      "id": "live-1787730268538-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-25",
+      "source": "BOL News",
+      "featured": true,
+      "url": "https://www.bolnews.com/business/government-increases-petrol-and-diesel-prices/",
+      "isLive": true,
+      "title": "Government increases petrol and diesel prices",
+      "titleEn": "Government increases petrol and diesel prices",
+      "summary": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
+      "summaryEn": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
+      "body": "The government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on Aug. 26 and 27.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (OGRA), the price of petrol has be...",
+      "bodyEn": "The government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on Aug. 26 and 27.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (OGRA), the price of petrol has be..."
+    },
+    {
+      "id": "live-1787730268538-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-25",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-25-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-551091-2026-08-25",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 25 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 25 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre",
+      "summaryEn": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre",
+      "body": "Fuel prices across India remained largely unchanged in August 25, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged in August 25, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1787730268538-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-24",
       "source": "Business Today",
-      "featured": true,
+      "featured": false,
       "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-24-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-550821-2026-08-24",
       "isLive": true,
       "title": "Petrol, diesel prices today, August 24 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
@@ -19,7 +53,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 24, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787643717896-1",
+      "id": "live-1787730268539-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Petrol and diesel prices today, 24 August: Fuel rates remained unchanged across major Indian cities on Monday as oil prices eased. Amid global energy crisis due to West Asia conflict, state-owned fuel retailers continue to shield consumers from oil p..."
     },
     {
-      "id": "live-1787643717897-2",
+      "id": "live-1787730268539-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 23, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787643717897-3",
+      "id": "live-1787730268539-5",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,..."
     },
     {
-      "id": "live-1787643717897-4",
+      "id": "live-1787730268539-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Petrol and diesel prices today, 22 August: Fuel rates remained largely unchanged across major Indian cities on Saturday even as crude oil capped a weekly gain. Fuel rates are revised at 6:00 AM daily as India follows dynamic fuel price method. State-..."
     },
     {
-      "id": "live-1787643717897-5",
+      "id": "live-1787730268539-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Synopsis\nTata Motors Passenger Vehicles will raise vehicle prices by up to ₹25,000 from September 1 across its portfolio, including petrol, diesel and electric models, to partly offset higher input costs and inflation.\nMumbai: Tata Motors Passenger V..."
     },
     {
-      "id": "live-1787643717897-6",
+      "id": "live-1787730268539-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "The federal government has increased the prices of petrol and high-speed diesel (HSD), with the revised rates coming into effect from August 22 and remaining applicable through August 24.\nPetrol has become Rs3.81 more expensive per litre, taking its ..."
     },
     {
-      "id": "live-1787643717897-7",
+      "id": "live-1787730268539-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,41 +172,7 @@
       "bodyEn": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel by more than Rs3 per liter, according to a notification issued by the Petroleum Division.\nThe price of petrol has been increased by Rs3.81 per liter, taking th..."
     },
     {
-      "id": "live-1787643717897-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-21",
-      "source": "Le News",
-      "featured": false,
-      "url": "https://lenews.ch/2026/08/21/switzerlands-inflation-problem-is-that-it-barely-has-one/",
-      "isLive": true,
-      "title": "Switzerland’s inflation problem is that it barely has one",
-      "titleEn": "Switzerland’s inflation problem is that it barely has one",
-      "summary": "Consumer prices declined in July, underscoring how different Switzerland’s inflation story is from much of the world. Over the month the consumer-price index fell by 0.1% from June, leaving prices just 0.4% higher than a year earlier, according to the Federal Statistical Office (FSO). Core inflation, which strips out fresh and seasonal products, energy and fuel, was even weaker, at 0.3% year on year.\nPhoto by Ian Gabaraev on Pexels.com\nThe monthly decline owed much to cheaper travel, fuel and clothes. International air fares fell by 4.3% from June, diesel by 5.8% and petrol by 2.4%. Seasonal sales pushed clothing and footwear prices down by 8.5%, making the category the largest decliner among the main spending groups.\nHealthcare costs were unchanged in July and 0.5% lower than a year earlier. It is worth noting, however, that the healthcare component of the CPI excludes compulsory health-insurance premiums. Instead, it tracks the prices of healthcare goods and services themselves, such as medicines, doctors’ visits and hospital treatment. Insurance premiums can rise not only because healthcare becomes more expensive, but also because people consume more of it. Official healthcare inflation can therefore remain subdued even as households face steep increases in their annual insurance bills.\nNot everything became cheaper. Housing and energy prices rose by 0.2% over the month, while prices in restaurants and hotels climbed by 1.1%. Heating oil jumped by 9.5%, car rental and car-sharing by 26.7%, and non-hotel accommodation by 19.7%. Yet these increases were not enough to offset declines elsewhere.\nPrices for domestic products rose by 0.1% in July and were 0.5% higher than a year earlier. Imported goods, by contrast, fell by 1.1% on the month and were unchanged from July 2025. Goods prices overall were 0.5% lower than a year ago, whereas services were 0.9% more expensive.\nThat divergence points to two different forces at work. Tradable goods are delivering deflation, helped in July by fuel and seasonal retail discounts. Services, which tend to be more closely tied to domestic wages and costs, are still becoming dearer. Even so, the pressure is muted. Private-service prices were up 1.1% from a year earlier, while public services rose by just 0.2%.\nJuly’s decline was partly seasonal and partly driven by volatile components such as fuel and air travel. But with headline inflation at 0.4% and core inflation at 0.3% for the year, it will be harder for Swiss unions to justify demands for higher wages.\nMore on this:FSO article (in French) – Take a 5 minute French test now\nFor more stories like this on Switzerland follow us on Facebook and X.",
-      "summaryEn": "Consumer prices declined in July, underscoring how different Switzerland’s inflation story is from much of the world. Over the month the consumer-price index fell by 0.1% from June, leaving prices just 0.4% higher than a year earlier, according to the Federal Statistical Office (FSO). Core inflation, which strips out fresh and seasonal products, energy and fuel, was even weaker, at 0.3% year on year.\nPhoto by Ian Gabaraev on Pexels.com\nThe monthly decline owed much to cheaper travel, fuel and clothes. International air fares fell by 4.3% from June, diesel by 5.8% and petrol by 2.4%. Seasonal sales pushed clothing and footwear prices down by 8.5%, making the category the largest decliner among the main spending groups.\nHealthcare costs were unchanged in July and 0.5% lower than a year earlier. It is worth noting, however, that the healthcare component of the CPI excludes compulsory health-insurance premiums. Instead, it tracks the prices of healthcare goods and services themselves, such as medicines, doctors’ visits and hospital treatment. Insurance premiums can rise not only because healthcare becomes more expensive, but also because people consume more of it. Official healthcare inflation can therefore remain subdued even as households face steep increases in their annual insurance bills.\nNot everything became cheaper. Housing and energy prices rose by 0.2% over the month, while prices in restaurants and hotels climbed by 1.1%. Heating oil jumped by 9.5%, car rental and car-sharing by 26.7%, and non-hotel accommodation by 19.7%. Yet these increases were not enough to offset declines elsewhere.\nPrices for domestic products rose by 0.1% in July and were 0.5% higher than a year earlier. Imported goods, by contrast, fell by 1.1% on the month and were unchanged from July 2025. Goods prices overall were 0.5% lower than a year ago, whereas services were 0.9% more expensive.\nThat divergence points to two different forces at work. Tradable goods are delivering deflation, helped in July by fuel and seasonal retail discounts. Services, which tend to be more closely tied to domestic wages and costs, are still becoming dearer. Even so, the pressure is muted. Private-service prices were up 1.1% from a year earlier, while public services rose by just 0.2%.\nJuly’s decline was partly seasonal and partly driven by volatile components such as fuel and air travel. But with headline inflation at 0.4% and core inflation at 0.3% for the year, it will be harder for Swiss unions to justify demands for higher wages.\nMore on this:FSO article (in French) – Take a 5 minute French test now\nFor more stories like this on Switzerland follow us on Facebook and X.",
-      "body": "Consumer prices declined in July, underscoring how different Switzerland’s inflation story is from much of the world. Over the month the consumer-price index fell by 0.1% from June, leaving prices just 0.4% higher than a year earlier, according to th...",
-      "bodyEn": "Consumer prices declined in July, underscoring how different Switzerland’s inflation story is from much of the world. Over the month the consumer-price index fell by 0.1% from June, leaving prices just 0.4% higher than a year earlier, according to th..."
-    },
-    {
-      "id": "live-1787643717897-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-21",
-      "source": "The Nation",
-      "featured": false,
-      "url": "https://www.nation.com.pk/21-Aug-2026/government-raises-fuel-dealers-margins-petrol-diesel-prices-edge-higher",
-      "isLive": true,
-      "title": "Government raises fuel dealers’ margins as petrol and diesel prices edge higher",
-      "titleEn": "Government raises fuel dealers’ margins as petrol and diesel prices edge higher",
-      "summary": "The federal government has approved an increase in the margins earned by petrol and diesel dealers, with the revised rates set to affect retail fuel prices.",
-      "summaryEn": "The federal government has approved an increase in the margins earned by petrol and diesel dealers, with the revised rates set to affect retail fuel prices.",
-      "body": "The federal government has approved an increase in the margins earned by petrol and diesel dealers, with the revised rates set to affect retail .\nUnder a notification issued by the government, the dealers’ margin has been raised by Rs1.34 per litre. ...",
-      "bodyEn": "The federal government has approved an increase in the margins earned by petrol and diesel dealers, with the revised rates set to affect retail .\nUnder a notification issued by the government, the dealers’ margin has been raised by Rs1.34 per litre. ..."
-    },
-    {
-      "id": "live-1787643717897-10",
+      "id": "live-1787730268539-10",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
