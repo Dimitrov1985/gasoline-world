@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-08-28",
+  "lastUpdated": "2026-08-29",
   "articles": [
     {
-      "id": "live-1787944550709-0",
+      "id": "live-1788008285653-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-28",
+      "source": "BOL News",
+      "featured": true,
+      "url": "https://www.bolnews.com/business/govt-announces-slight-reduction-in-petrol-diesel-prices/",
+      "isLive": true,
+      "title": "Govt announces slight reduction in petrol, diesel prices",
+      "titleEn": "Govt announces slight reduction in petrol, diesel prices",
+      "summary": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by th",
+      "summaryEn": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by th",
+      "body": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by the Petroleum Division.\nThe notification said the new prices will remain in effect from August 29 through August ...",
+      "bodyEn": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by the Petroleum Division.\nThe notification said the new prices will remain in effect from August 29 through August ..."
+    },
+    {
+      "id": "live-1788008285653-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-28",
+      "source": "The Guardian",
+      "featured": false,
+      "url": "https://www.theguardian.com/money/2026/aug/28/uk-petrol-prices-highest-level-almost-four-years-bank-holiday-getaway",
+      "isLive": true,
+      "title": "UK petrol prices hit highest level in almost four years as bank holiday getaway looms",
+      "titleEn": "UK petrol prices hit highest level in almost four years as bank holiday getaway looms",
+      "summary": "Average cost of petrol reaches 161.6p a litre, while diesel costs average of 183.4p, according to the AA",
+      "summaryEn": "Average cost of petrol reaches 161.6p a litre, while diesel costs average of 183.4p, according to the AA",
+      "body": "UK petrol prices have hit their highest level since 2022, piling more financial pressure on motorists before the bank holiday weekend.\nThe average cost of petrol has reached 161.6p a litre, while diesel costs an average of 183.4p a litre, according t...",
+      "bodyEn": "UK petrol prices have hit their highest level since 2022, piling more financial pressure on motorists before the bank holiday weekend.\nThe average cost of petrol has reached 161.6p a litre, while diesel costs an average of 183.4p a litre, according t..."
+    },
+    {
+      "id": "live-1788008285653-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-08-28",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-28-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-heads-for-weekly-loss-11787879824481.html",
       "isLive": true,
       "title": "Petrol and diesel prices today - 28 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as crude oil heads for weekly loss",
@@ -19,7 +53,7 @@
       "bodyEn": "Petrol and diesel prices today, 28 August: Petrol and diesel prices held steady across major Indian cities on Friday, 28 August. There has been largely no change in fuel rates in India as state-owned fuel retailers continue to shield domestic consume..."
     },
     {
-      "id": "live-1787944550709-1",
+      "id": "live-1788008285653-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on August 28, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787944550710-2",
+      "id": "live-1788008285653-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "The Government has left open the possibility of increases in petrol and diesel being deferred beyond November subject to developments in the Middle East conflict.\nThe Cabinet held an incorporeal meeting on Thursday to approve a two-month deferral on ..."
     },
     {
-      "id": "live-1787944550710-3",
+      "id": "live-1788008285653-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 26, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787944550710-4",
+      "id": "live-1788008285653-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Petrol and diesel prices today, 27 August: Petrol and diesel prices were revised by fuel retailers on Thursday across major Indian cities while Brent extend losses on expectations of reopening of Strait of Hormuz trade route. Amid global energy crisi..."
     },
     {
-      "id": "live-1787944550710-5",
+      "id": "live-1788008285653-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "The federal government has increased the prices of petrol and high-speed diesel by Rs1.12 and Rs1.11 per litre, respectively, for the next two days.\nUnder the latest notification, petrol will now cost Rs343.10 per litre, while the price of high-speed..."
     },
     {
-      "id": "live-1787944550710-6",
+      "id": "live-1788008285653-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 26, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1787944550710-7",
+      "id": "live-1788008285654-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
       "body": "The government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on Aug. 26 and 27.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (OGRA), the price of petrol has be...",
       "bodyEn": "The government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on Aug. 26 and 27.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (OGRA), the price of petrol has be..."
-    },
-    {
-      "id": "live-1787944550710-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-25",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-25-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-551091-2026-08-25",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 25 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 25 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre",
-      "summaryEn": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre",
-      "body": "Fuel prices across India remained largely unchanged in August 25, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
-      "bodyEn": "Fuel prices across India remained largely unchanged in August 25, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1787944550710-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-24",
-      "source": "DAWN.com",
-      "featured": false,
-      "url": "https://www.dawn.com/news/2025039/govt-increases-petrol-price-by-rs039-high-speed-diesel-by-rs240",
-      "isLive": true,
-      "title": "Govt increases petrol price by Rs0.39, high-speed diesel by Rs2.40",
-      "titleEn": "Govt increases petrol price by Rs0.39, high-speed diesel by Rs2.40",
-      "summary": "According to the Petroleum Division’s notification, the new prices will be applicable on August 25.",
-      "summaryEn": "According to the Petroleum Division’s notification, the new prices will be applicable on August 25.",
-      "body": "The government on Monday raised the price of petrol by Rs0.39 per litre and that of high-speed diesel (HSD) by Rs2.40 per litre.\nFollowing the revision, petrol will retail at Rs341.98 per litre while HSD will cost Rs370.69 per litre. The government c...",
-      "bodyEn": "The government on Monday raised the price of petrol by Rs0.39 per litre and that of high-speed diesel (HSD) by Rs2.40 per litre.\nFollowing the revision, petrol will retail at Rs341.98 per litre while HSD will cost Rs370.69 per litre. The government c..."
     }
   ]
 }
