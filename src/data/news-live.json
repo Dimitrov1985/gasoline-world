@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-08-30",
   "articles": [
     {
-      "id": "live-1788008285653-0",
+      "id": "live-1788093408869-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-08-29",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/latest/economy/story/petrol-diesel-prices-today-august-29-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-552018-2026-08-29",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, August 29: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, August 29: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre.",
+      "summaryEn": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre.",
+      "body": "Fuel prices across India remained largely unchanged on August 29, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
+      "bodyEn": "Fuel prices across India remained largely unchanged on August 29, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
+    },
+    {
+      "id": "live-1788093408869-1",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-28",
       "source": "BOL News",
-      "featured": true,
+      "featured": false,
       "url": "https://www.bolnews.com/business/govt-announces-slight-reduction-in-petrol-diesel-prices/",
       "isLive": true,
       "title": "Govt announces slight reduction in petrol, diesel prices",
@@ -19,7 +36,7 @@
       "bodyEn": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by the Petroleum Division.\nThe notification said the new prices will remain in effect from August 29 through August ..."
     },
     {
-      "id": "live-1788008285653-1",
+      "id": "live-1788093408869-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +53,7 @@
       "bodyEn": "UK petrol prices have hit their highest level since 2022, piling more financial pressure on motorists before the bank holiday weekend.\nThe average cost of petrol has reached 161.6p a litre, while diesel costs an average of 183.4p a litre, according t..."
     },
     {
-      "id": "live-1788008285653-2",
+      "id": "live-1788093408869-3",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +70,7 @@
       "bodyEn": "Petrol and diesel prices today, 28 August: Petrol and diesel prices held steady across major Indian cities on Friday, 28 August. There has been largely no change in fuel rates in India as state-owned fuel retailers continue to shield domestic consume..."
     },
     {
-      "id": "live-1788008285653-3",
+      "id": "live-1788093408869-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on August 28, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1788008285653-4",
+      "id": "live-1788093408869-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +104,7 @@
       "bodyEn": "The Government has left open the possibility of increases in petrol and diesel being deferred beyond November subject to developments in the Middle East conflict.\nThe Cabinet held an incorporeal meeting on Thursday to approve a two-month deferral on ..."
     },
     {
-      "id": "live-1788008285653-5",
+      "id": "live-1788093408869-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +121,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged in August 26, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     },
     {
-      "id": "live-1788008285653-6",
+      "id": "live-1788093408869-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices today, 27 August: Petrol and diesel prices were revised by fuel retailers on Thursday across major Indian cities while Brent extend losses on expectations of reopening of Strait of Hormuz trade route. Amid global energy crisi..."
     },
     {
-      "id": "live-1788008285653-7",
+      "id": "live-1788093408869-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,7 +155,7 @@
       "bodyEn": "The federal government has increased the prices of petrol and high-speed diesel by Rs1.12 and Rs1.11 per litre, respectively, for the next two days.\nUnder the latest notification, petrol will now cost Rs343.10 per litre, while the price of high-speed..."
     },
     {
-      "id": "live-1788008285653-8",
+      "id": "live-1788093408869-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -153,23 +170,6 @@
       "summaryEn": "In Delhi, petrol continues to be priced above ₹100 per litre at ₹102.12, while diesel is retailing at ₹95.20 per litre. Mumbai has also continued to see petrol prices above the ₹110 mark",
       "body": "Fuel prices across India remained largely unchanged in August 26, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
       "bodyEn": "Fuel prices across India remained largely unchanged in August 26, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1788008285654-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-25",
-      "source": "BOL News",
-      "featured": false,
-      "url": "https://www.bolnews.com/business/government-increases-petrol-and-diesel-prices/",
-      "isLive": true,
-      "title": "Government increases petrol and diesel prices",
-      "titleEn": "Government increases petrol and diesel prices",
-      "summary": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
-      "summaryEn": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
-      "body": "The government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on Aug. 26 and 27.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (OGRA), the price of petrol has be...",
-      "bodyEn": "The government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on Aug. 26 and 27.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (OGRA), the price of petrol has be..."
     }
   ]
 }
