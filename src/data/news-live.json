@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-02",
   "articles": [
     {
-      "id": "live-1788265335698-0",
+      "id": "live-1788350268635-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-01",
+      "source": "The Leader Newspaper",
+      "featured": true,
+      "url": "https://theleader.info/2026/09/01/diesel-joy-this-september-but-petrol-drivers-paying-more/",
+      "isLive": true,
+      "title": "Diesel Joy this September but Petrol Drivers paying more.",
+      "titleEn": "Diesel Joy this September but Petrol Drivers paying more.",
+      "summary": "Diesel Joy this September but Petrol Drivers paying more. - September has brought mixed news for motorists, with petrol prices rising while diesel becomes cheaper following changes to the Spanish Government’s - The Leader - The No. 1 Spanish Newspaper",
+      "summaryEn": "Diesel Joy this September but Petrol Drivers paying more. - September has brought mixed news for motorists, with petrol prices rising while diesel becomes cheaper following changes to the Spanish Government’s - The Leader - The No. 1 Spanish Newspaper",
+      "body": "September has brought mixed news for motorists, with petrol prices rising while diesel becomes cheaper following changes to the Spanish Government’s fuel-tax discounts.\nFrom September 1, the hydrocarbon-tax discount on petrol has been reduced from 10...",
+      "bodyEn": "September has brought mixed news for motorists, with petrol prices rising while diesel becomes cheaper following changes to the Spanish Government’s fuel-tax discounts.\nFrom September 1, the hydrocarbon-tax discount on petrol has been reduced from 10..."
+    },
+    {
+      "id": "live-1788350268635-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-01",
+      "source": "Free Press Journal",
+      "featured": false,
+      "url": "https://www.freepressjournal.in/business/atf-prices-hiked-546-to-12128litre-will-flight-travel-get-costlier-as-jet-fuel-makes-up-40-of-airlines-costs",
+      "isLive": true,
+      "title": "ATF Prices Hiked 5.46% To ₹121.28/Litre: Will Flight Travel Get Costlier As Jet Fuel Makes Up 40% Of Airlines’ Costs?",
+      "titleEn": "ATF Prices Hiked 5.46% To ₹121.28/Litre: Will Flight Travel Get Costlier As Jet Fuel Makes Up 40% Of Airlines’ Costs?",
+      "summary": "ATF prices rose 5.46% to Rs 121.28 per litre, while commercial LPG increased by Rs 9.50 to Rs 2,747.50 per 19-kg cylinder. Domestic LPG, petrol and diesel prices remained unchanged, adding to airlines’ costs as fuel accounts for up to 40% of operating expenses.",
+      "summaryEn": "ATF prices rose 5.46% to Rs 121.28 per litre, while commercial LPG increased by Rs 9.50 to Rs 2,747.50 per 19-kg cylinder. Domestic LPG, petrol and diesel prices remained unchanged, adding to airlines’ costs as fuel accounts for up to 40% of operating expenses.",
+      "body": "New Delhi: Aviation turbine fuel (ATF) prices on Tuesday were hiked by 5.46 per cent, while the price of commercial LPG, used by establishments such as hotels and restaurants, was raised by Rs 9.50 per 19-kg cylinder, in line with a rise in their int...",
+      "bodyEn": "New Delhi: Aviation turbine fuel (ATF) prices on Tuesday were hiked by 5.46 per cent, while the price of commercial LPG, used by establishments such as hotels and restaurants, was raised by Rs 9.50 per 19-kg cylinder, in line with a rise in their int..."
+    },
+    {
+      "id": "live-1788350268635-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-01",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-1-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-552431-2026-09-01",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 1: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, September 1: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "The national average petrol price stands at ₹111.21 per litre, while diesel is priced at ₹97.83 per litre.",
+      "summaryEn": "The national average petrol price stands at ₹111.21 per litre, while diesel is priced at ₹97.83 per litre.",
+      "body": "Metro City Rates\nIn Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litr...",
+      "bodyEn": "Metro City Rates\nIn Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litr..."
+    },
+    {
+      "id": "live-1788350268635-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-08-31",
       "source": "Malayala Manorama",
-      "featured": true,
+      "featured": false,
       "url": "https://www.onmanorama.com/news/kerala/2026/08/31/uae-fuel-prices-september-increase.html",
       "isLive": true,
       "title": "UAE fuel prices to rise from September 1",
@@ -19,7 +70,7 @@
       "bodyEn": "Retail fuel prices in the UAE will rise from September 1, with petrol rates increasing by 20 fils per litre and diesel prices jumping by 50 fils.\nThe UAE Fuel Price Committee announced the revised rates for September, with increases across all petrol..."
     },
     {
-      "id": "live-1788265335698-1",
+      "id": "live-1788350268636-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "Around 3.4 million people are estimated to be travelling today as Britons make the most of the final days of the summer and school holidays.\nHowever, as motorists travel across the country, they could find themselves at the mercy of huge petrol and d..."
     },
     {
-      "id": "live-1788265335699-2",
+      "id": "live-1788350268636-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "UAE announces September fuel prices.\nThe UAE Fuel Price Committee has announced retail prices for petrol and diesel for September 2026, with prices of all fuel categories increasing compared with August. The revised rates will come into effect from S..."
     },
     {
-      "id": "live-1788265335699-3",
+      "id": "live-1788350268636-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Austria is prolonging a tax holiday on diesel and petrol to keep prices at the pump in check, while suspending efforts to regulate profit margins earned by fossil fuel refineries, according to a government statement on Monday.\nA fossil fuel tax break..."
     },
     {
-      "id": "live-1788265335699-4",
+      "id": "live-1788350268636-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol prices in the UAE will rise for a second straight month in September, as global oil markets remain volatile with a peace deal between the US and Iran still out of reach.\nSuper 98 will increase by 5.5 per cent, Special 95 by 5.7 per cent, E-Plu..."
     },
     {
-      "id": "live-1788265335699-5",
+      "id": "live-1788350268636-8",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,..."
     },
     {
-      "id": "live-1788265335699-6",
+      "id": "live-1788350268636-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -119,57 +170,6 @@
       "summaryEn": "A combination of global, economic, and domestic factors shapes fuel prices at the pump.",
       "body": "Fuel prices across India remained largely unchanged on August 30, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
       "bodyEn": "Fuel prices across India remained largely unchanged on August 30, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1788265335699-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-30",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-sees-first-weekly-decline-in-three-weeks-11788053868944.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Crude sees first weekly decline in three weeks",
-      "titleEn": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Crude sees first weekly decline in three weeks",
-      "summary": "Petrol and diesel prices remained stable on 30 August. Although prices increased earlier in May, they have not fluctuated significantly in the last three months.",
-      "summaryEn": "Petrol and diesel prices remained stable on 30 August. Although prices increased earlier in May, they have not fluctuated significantly in the last three months.",
-      "body": "Petrol and diesel prices today, 27 August: Petrol and diesel prices remained largely unchanged on Sunday, 30 August, even though state-run Oil Marketing Companies (OMCs) revise fuel rates daily at 6:00 AM. Slight changes in petrol and diesel prices w...",
-      "bodyEn": "Petrol and diesel prices today, 27 August: Petrol and diesel prices remained largely unchanged on Sunday, 30 August, even though state-run Oil Marketing Companies (OMCs) revise fuel rates daily at 6:00 AM. Slight changes in petrol and diesel prices w..."
-    },
-    {
-      "id": "live-1788265335699-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-29",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/latest/economy/story/petrol-diesel-prices-today-august-29-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-552018-2026-08-29",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 29: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 29: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre.",
-      "summaryEn": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by ₹2.61 per litre and diesel prices by ₹2.71 per litre.",
-      "body": "Fuel prices across India remained largely unchanged on August 29, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
-      "bodyEn": "Fuel prices across India remained largely unchanged on August 29, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
-    },
-    {
-      "id": "live-1788265335699-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-28",
-      "source": "BOL News",
-      "featured": false,
-      "url": "https://www.bolnews.com/business/govt-announces-slight-reduction-in-petrol-diesel-prices/",
-      "isLive": true,
-      "title": "Govt announces slight reduction in petrol, diesel prices",
-      "titleEn": "Govt announces slight reduction in petrol, diesel prices",
-      "summary": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by th",
-      "summaryEn": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by th",
-      "body": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by the Petroleum Division.\nThe notification said the new prices will remain in effect from August 29 through August ...",
-      "bodyEn": "ISLAMABAD: The federal government has slightly reduced the prices of petrol and high-speed diesel, according to a notification issued by the Petroleum Division.\nThe notification said the new prices will remain in effect from August 29 through August ..."
     }
   ]
 }
