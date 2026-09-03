@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "articles": [
     {
-      "id": "live-1788350268635-0",
+      "id": "live-1788436586845-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-02",
+      "source": "Moneycontrol",
+      "featured": true,
+      "url": "https://www.moneycontrol.com/news/business/economy/omcs-can-absorb-85-90-crude-sustained-100-may-trigger-petrol-diesel-price-hike-14020725.html",
+      "isLive": true,
+      "title": "OMCs can absorb $85-90 crude, sustained $100 may trigger petrol, diesel price hike",
+      "titleEn": "OMCs can absorb $85-90 crude, sustained $100 may trigger petrol, diesel price hike",
+      "summary": "While no price increase is being considered right now, a sustained rise in prices above $95-100 could potentially force a rethink on retail fuel prices, say sources",
+      "summaryEn": "While no price increase is being considered right now, a sustained rise in prices above $95-100 could potentially force a rethink on retail fuel prices, say sources",
+      "body": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nState-run oil marketing companies (OMCs) are currently able to absorb crude prices in the $85-90 per barrel range, with the companies broadly at break-even...",
+      "bodyEn": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nState-run oil marketing companies (OMCs) are currently able to absorb crude prices in the $85-90 per barrel range, with the companies broadly at break-even..."
+    },
+    {
+      "id": "live-1788436586845-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-02",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-2-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-552714-2026-09-02",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 2: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, September 2: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "With Brent crude trading around $91.13 per barrel, fuel prices have remained relatively stable over the past week.",
+      "summaryEn": "With Brent crude trading around $91.13 per barrel, fuel prices have remained relatively stable over the past week.",
+      "body": "Metro City Rates\nIn Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litr...",
+      "bodyEn": "Metro City Rates\nIn Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litr..."
+    },
+    {
+      "id": "live-1788436586845-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-02",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-2-september-check-fuel-rates-in-delhi-mumbai-bengaluru-11788311884429.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today - 2 September: Check fuel rates in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today - 2 September: Check fuel rates in Delhi, Mumbai, Bengaluru",
+      "summary": "Over the past 10 days, Mumbai petrol prices have ranged from ₹111.21 to ₹117.61 per litre",
+      "summaryEn": "Over the past 10 days, Mumbai petrol prices have ranged from ₹111.21 to ₹117.61 per litre",
+      "body": "Domestic petrol and diesel prices remained steady across key metropolitan cities on Wednesday, September 2, even as global crude benchmarks extended their rally following fresh geopolitical escalations in the Middle East.\nIn Mumbai, retail petrol con...",
+      "bodyEn": "Domestic petrol and diesel prices remained steady across key metropolitan cities on Wednesday, September 2, even as global crude benchmarks extended their rally following fresh geopolitical escalations in the Middle East.\nIn Mumbai, retail petrol con..."
+    },
+    {
+      "id": "live-1788436586845-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-09-01",
       "source": "The Leader Newspaper",
-      "featured": true,
+      "featured": false,
       "url": "https://theleader.info/2026/09/01/diesel-joy-this-september-but-petrol-drivers-paying-more/",
       "isLive": true,
       "title": "Diesel Joy this September but Petrol Drivers paying more.",
@@ -19,7 +70,7 @@
       "bodyEn": "September has brought mixed news for motorists, with petrol prices rising while diesel becomes cheaper following changes to the Spanish Government’s fuel-tax discounts.\nFrom September 1, the hydrocarbon-tax discount on petrol has been reduced from 10..."
     },
     {
-      "id": "live-1788350268635-1",
+      "id": "live-1788436586845-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "New Delhi: Aviation turbine fuel (ATF) prices on Tuesday were hiked by 5.46 per cent, while the price of commercial LPG, used by establishments such as hotels and restaurants, was raised by Rs 9.50 per 19-kg cylinder, in line with a rise in their int..."
     },
     {
-      "id": "live-1788350268635-2",
+      "id": "live-1788436586845-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Metro City Rates\nIn Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litr..."
     },
     {
-      "id": "live-1788350268635-3",
+      "id": "live-1788436586845-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Retail fuel prices in the UAE will rise from September 1, with petrol rates increasing by 20 fils per litre and diesel prices jumping by 50 fils.\nThe UAE Fuel Price Committee announced the revised rates for September, with increases across all petrol..."
     },
     {
-      "id": "live-1788350268636-4",
+      "id": "live-1788436586845-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Around 3.4 million people are estimated to be travelling today as Britons make the most of the final days of the summer and school holidays.\nHowever, as motorists travel across the country, they could find themselves at the mercy of huge petrol and d..."
     },
     {
-      "id": "live-1788350268636-5",
+      "id": "live-1788436586845-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "UAE announces September fuel prices.\nThe UAE Fuel Price Committee has announced retail prices for petrol and diesel for September 2026, with prices of all fuel categories increasing compared with August. The revised rates will come into effect from S..."
     },
     {
-      "id": "live-1788350268636-6",
+      "id": "live-1788436586845-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -119,57 +170,6 @@
       "summaryEn": "Austria is prolonging a tax holiday on diesel and petrol to keep prices at the pump in check, while suspending efforts to regulate profit margins earned by fossil fuel refineries, according to a government statement on Monday.",
       "body": "Austria is prolonging a tax holiday on diesel and petrol to keep prices at the pump in check, while suspending efforts to regulate profit margins earned by fossil fuel refineries, according to a government statement on Monday.\nA fossil fuel tax break...",
       "bodyEn": "Austria is prolonging a tax holiday on diesel and petrol to keep prices at the pump in check, while suspending efforts to regulate profit margins earned by fossil fuel refineries, according to a government statement on Monday.\nA fossil fuel tax break..."
-    },
-    {
-      "id": "live-1788350268636-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-31",
-      "source": "The National",
-      "featured": false,
-      "url": "https://www.thenationalnews.com/business/energy/2026/08/31/uae-petrol-prices-to-rise-in-september/",
-      "isLive": true,
-      "title": "UAE petrol prices to rise in September with diesel up 13%",
-      "titleEn": "UAE petrol prices to rise in September with diesel up 13%",
-      "summary": "Prices at the pump in the Emirates are higher for the second month in a row",
-      "summaryEn": "Prices at the pump in the Emirates are higher for the second month in a row",
-      "body": "Petrol prices in the UAE will rise for a second straight month in September, as global oil markets remain volatile with a peace deal between the US and Iran still out of reach.\nSuper 98 will increase by 5.5 per cent, Special 95 by 5.7 per cent, E-Plu...",
-      "bodyEn": "Petrol prices in the UAE will rise for a second straight month in September, as global oil markets remain volatile with a peace deal between the US and Iran still out of reach.\nSuper 98 will increase by 5.5 per cent, Special 95 by 5.7 per cent, E-Plu..."
-    },
-    {
-      "id": "live-1788350268636-8",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-31",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-31-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-climbs-after-us-strikes-on-iran-11788136625357.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today - 31 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent climbs after US strikes Iran",
-      "titleEn": "Petrol and diesel prices today - 31 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent climbs after US strikes Iran",
-      "summary": "Petrol and diesel prices remained stable on 31 August. Although crude prices increased after US strikes on Iran, fuel prices have not fluctuated significantly across Indian cities.",
-      "summaryEn": "Petrol and diesel prices remained stable on 31 August. Although crude prices increased after US strikes on Iran, fuel prices have not fluctuated significantly across Indian cities.",
-      "body": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,...",
-      "bodyEn": "Fareha Naaz\nFareha Naaz is a Delhi-based journalist and Content Producer at LiveMint, where she has built nearly three years of experience in digital journalism. She covers a diverse range of topics, including national news, education, entertainment,..."
-    },
-    {
-      "id": "live-1788350268636-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-08-30",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-30-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-552076-2026-08-30",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, August 30: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, August 30: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "A combination of global, economic, and domestic factors shapes fuel prices at the pump.",
-      "summaryEn": "A combination of global, economic, and domestic factors shapes fuel prices at the pump.",
-      "body": "Fuel prices across India remained largely unchanged on August 30, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav...",
-      "bodyEn": "Fuel prices across India remained largely unchanged on August 30, even as oil prices settled lower last week after the latest round of US-Iran war amid hopes that shipping would eventually resume via the Strait of Hormuz.\nPetrol and diesel prices hav..."
     }
   ]
 }
