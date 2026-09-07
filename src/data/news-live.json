@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-09-07",
   "articles": [
     {
-      "id": "live-1788694289125-0",
+      "id": "live-1788787063582-0",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-06",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-check-fuel-rates-in-delhi-mumbai-bengaluru-amid-renewed-us-iran-crossfire-in-hormuz-11788659238922.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru amid renewed US-Iran crossfire in Hormuz",
+      "titleEn": "Petrol and diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru amid renewed US-Iran crossfire in Hormuz",
+      "summary": "Petrol and diesel prices today, 6 Sep: The Aerospace Force of Iran's IRGC on Saturday claimed that it fired several ballistic missiles at two US warships. Check fuel rates in Delhi, Mumbai, Bengaluru amid renewed US-Iran crossfire in Hormuz.",
+      "summaryEn": "Petrol and diesel prices today, 6 Sep: The Aerospace Force of Iran's IRGC on Saturday claimed that it fired several ballistic missiles at two US warships. Check fuel rates in Delhi, Mumbai, Bengaluru amid renewed US-Iran crossfire in Hormuz.",
+      "body": "Petrol and diesel prices today, 6 September: Fuel rates in India remained unchanged on Sunday, 6 September even as Brent crude futures closed at their highest level since 24 July. Despite resumption in military exchanges between the United States and...",
+      "bodyEn": "Petrol and diesel prices today, 6 September: Fuel rates in India remained unchanged on Sunday, 6 September even as Brent crude futures closed at their highest level since 24 July. Despite resumption in military exchanges between the United States and..."
+    },
+    {
+      "id": "live-1788787063582-1",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-09-06",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-6-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-553475-2026-09-06",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 6: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, September 6: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "A combination of global, economic, and domestic factors shapes fuel prices at the pump. The rupee-dollar exchange rate is another key variable, given that India relies heavily on imported crude.",
+      "summaryEn": "A combination of global, economic, and domestic factors shapes fuel prices at the pump. The rupee-dollar exchange rate is another key variable, given that India relies heavily on imported crude.",
+      "body": "Fuel prices across India remain unchanged on September 6, even as oil prices are headed for their biggest weekly gain since July amid renewed US-Iran hostilities and concerns over prolonged disruption of the Strait of Hormuz.\nPetrol and diesel prices...",
+      "bodyEn": "Fuel prices across India remain unchanged on September 6, even as oil prices are headed for their biggest weekly gain since July amid renewed US-Iran hostilities and concerns over prolonged disruption of the Strait of Hormuz.\nPetrol and diesel prices..."
+    },
+    {
+      "id": "live-1788787063582-2",
       "flag": "🇪🇺",
       "category": "Европа",
       "categoryEn": "Europe",
       "date": "2026-09-05",
       "source": "Euronews",
-      "featured": true,
+      "featured": false,
       "url": "https://www.euronews.com/business/2026/09/05/why-are-petrol-and-diesel-so-expensive-despite-crude-oil-not-reaching-record-highs",
       "isLive": true,
       "title": "Why are petrol and diesel so expensive despite crude oil not reaching record highs?",
@@ -19,7 +53,7 @@
       "bodyEn": "The prospect of peace between Iran and the US has sent oil prices sharply higher and lower in recent months. Brent crude, the international benchmark, has traded between about $73 and $126 a barrel since the end of February and was around $95 on Frid..."
     },
     {
-      "id": "live-1788694289126-1",
+      "id": "live-1788787063583-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Fuel prices across India remains unchanged on September 5, even as oil prices are headed for their biggest weekly gain since July amid renewed US-Iran hostilities and concerns over prolonged disruption of the Strait of Hormuz.\nPetrol and diesel price..."
     },
     {
-      "id": "live-1788694289126-2",
+      "id": "live-1788787063583-4",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Petrol and diesel prices today, 5 September: Fuel rates in India held steady on Saturday, 5 September, even as oil recorded one of its biggest weekly gains since July. State-run Oil Marketing Companies (OMCs) that revise petrol and diesel prices dail..."
     },
     {
-      "id": "live-1788694289126-3",
+      "id": "live-1788787063583-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Fuel prices across India remained largely unchanged on September 4, even as oil prices are headed for their biggest weekly gain since July amid renewed US-Iran hostilities and concerns over prolonged disruption of the Strait of Hormuz.\nPetrol and die..."
     },
     {
-      "id": "live-1788694289126-4",
+      "id": "live-1788787063583-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Petrol and diesel prices today, 4 September: Fuel rates in India remained largely unchanged on Friday, 4 September, even as oil headed for its biggest weekly gain since July. State-run Oil Marketing Companies (OMCs) that revise petrol and diesel pric..."
     },
     {
-      "id": "live-1788694289126-5",
+      "id": "live-1788787063583-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Staff Reporter :\nPRICES of daily-use items are continuously increasing, ranging from gas to petrol, diesel, and now even sugar. Regarding this, ‘The Hitavada’ team conducted a ground report and spoke with various dairy operators and cattle owners in ..."
     },
     {
-      "id": "live-1788694289126-6",
+      "id": "live-1788787063583-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Staff Reporter :\nPRICES of daily-use items are continuously increasing, ranging from gas to petrol, diesel, and now even sugar. Regarding this, ‘The Hitavada’ team conducted a ground report and spoke with various dairy operators and cattle owners in ..."
     },
     {
-      "id": "live-1788694289126-7",
+      "id": "live-1788787063583-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "Fuel prices are up and so are electric vehicle sales, with Australian drivers now buying more battery-powered cars than either petrol or diesel models.",
       "body": "Australian motorists have bought more electric vehicles than petrol-powered models in a month for the first time, setting a new record for battery-powered cars in the process.\nAlmost one in four new vehicles sold during August was fully electric, acc...",
       "bodyEn": "Australian motorists have bought more electric vehicles than petrol-powered models in a month for the first time, setting a new record for battery-powered cars in the process.\nAlmost one in four new vehicles sold during August was fully electric, acc..."
-    },
-    {
-      "id": "live-1788694289126-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-03",
-      "source": "The Nation",
-      "featured": false,
-      "url": "https://www.nation.com.pk/03-Sep-2026/petrol-price-hits-rs346-per-litre",
-      "isLive": true,
-      "title": "Petrol price hits Rs346 per litre",
-      "titleEn": "Petrol price hits Rs346 per litre",
-      "summary": "ISLAMABAD  -  The government on Wednesday increased petrol and high-speed diesel (HSD) prices by Rs2.29 and Rs1.11 per litre, respectively, effective Sept 3.",
-      "summaryEn": "ISLAMABAD  -  The government on Wednesday increased petrol and high-speed diesel (HSD) prices by Rs2.29 and Rs1.11 per litre, respectively, effective Sept 3.",
-      "body": "ISLAMABAD - The government on Wednesday increased petrol and high-speed diesel (HSD) prices by Rs2.29 and Rs1.11 per litre, respectively, effective Sept 3.\nThe Oil and Gas Regulatory Authority (OGRA) revised the ex-depot prices under the federal gove...",
-      "bodyEn": "ISLAMABAD - The government on Wednesday increased petrol and high-speed diesel (HSD) prices by Rs2.29 and Rs1.11 per litre, respectively, effective Sept 3.\nThe Oil and Gas Regulatory Authority (OGRA) revised the ex-depot prices under the federal gove..."
-    },
-    {
-      "id": "live-1788694289126-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-03",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-3-sep-how-costly-is-fuel-in-delhi-mumbai-bengaluru-as-crude-price-eases-11788395987356.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today, 3 Sep: How costly is fuel in Delhi, Mumbai, Bengaluru as Crude price eases",
-      "titleEn": "Petrol and diesel prices today, 3 Sep: How costly is fuel in Delhi, Mumbai, Bengaluru as Crude price eases",
-      "summary": "Petrol and diesel prices today: Brent crude prices fell to $95.10, while West Texas Intermediate dropped to $90.66 amid geopolitical tensions. Check petrol and diesel prices today in Delhi, Mumbai, Bengaluru and other cities.",
-      "summaryEn": "Petrol and diesel prices today: Brent crude prices fell to $95.10, while West Texas Intermediate dropped to $90.66 amid geopolitical tensions. Check petrol and diesel prices today in Delhi, Mumbai, Bengaluru and other cities.",
-      "body": "Petrol and diesel prices today, 3 September: Fuel rates in India held steady on Thursday, 3 September, even though oil prices eased after US President Donald Trump played down the prospect of a prolonged conflict with Iran. State-run Oil Marketing Co...",
-      "bodyEn": "Petrol and diesel prices today, 3 September: Fuel rates in India held steady on Thursday, 3 September, even though oil prices eased after US President Donald Trump played down the prospect of a prolonged conflict with Iran. State-run Oil Marketing Co..."
     }
   ]
 }
