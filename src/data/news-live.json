@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-09-13",
+  "lastUpdated": "2026-09-14",
   "articles": [
     {
-      "id": "live-1789302778721-0",
+      "id": "live-1789393174742-0",
+      "flag": "📰",
+      "category": "Европа",
+      "categoryEn": "Europe",
+      "date": "2026-09-13",
+      "source": "Natural News",
+      "featured": true,
+      "url": "https://www.naturalnews.com/2026-09-13-diesel-record-high-poland-further-increases-warned.html",
+      "isLive": true,
+      "title": "Diesel Prices Reach Record High in Poland, Opposition Warns of Further Increases",
+      "titleEn": "Diesel Prices Reach Record High in Poland, Opposition Warns of Further Increases",
+      "summary": "Record Diesel Prices in Poland Diesel prices in Poland have reached record highs, with average prices at 8.75 Polish zloty ($2.35) per liter, according to the e-petrol.pl price report [1]. The increase marks a continuation of a months-long upward trend that has seen fuel costs climb steadily across the country. Commercial drivers and logistics companies […]",
+      "summaryEn": "Record Diesel Prices in Poland Diesel prices in Poland have reached record highs, with average prices at 8.75 Polish zloty ($2.35) per liter, according to the e-petrol.pl price report [1]. The increase marks a continuation of a months-long upward trend that has seen fuel costs climb steadily across the country. Commercial drivers and logistics companies […]",
+      "body": "Record Diesel Prices in Poland\nDiesel prices in Poland have reached record highs, with average prices at 8.75 Polish zloty ($2.35) per liter, according to the e-petrol.pl price report [1].\nThe increase marks a continuation of a months-long upward tre...",
+      "bodyEn": "Record Diesel Prices in Poland\nDiesel prices in Poland have reached record highs, with average prices at 8.75 Polish zloty ($2.35) per liter, according to the e-petrol.pl price report [1].\nThe increase marks a continuation of a months-long upward tre..."
+    },
+    {
+      "id": "live-1789393174743-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-13",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-13-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-555213-2026-09-13",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 13: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, September 13: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "taxes levied by both the central and state governments make up a substantial portion of the final price, which is why petrol and diesel rates differ across states.",
+      "summaryEn": "taxes levied by both the central and state governments make up a substantial portion of the final price, which is why petrol and diesel rates differ across states.",
+      "body": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹...",
+      "bodyEn": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹..."
+    },
+    {
+      "id": "live-1789393174743-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-09-12",
       "source": "Daily Post",
-      "featured": true,
+      "featured": false,
       "url": "https://www.dailypost.co.uk/news/motoring/motoring-news/uk-drivers-face-fresh-275-34595385",
       "isLive": true,
       "title": "UK drivers face fresh £2.75 pump shock as petrol and diesel prices surge",
@@ -19,7 +53,7 @@
       "bodyEn": "Motorists are being stung by a sudden jump in petrol and diesel prices, with the RAC warning the latest surge is piling fresh pressure on family budgets already under strain. The motoring group says petrol is now at its highest level in four years.\nI..."
     },
     {
-      "id": "live-1789302778721-1",
+      "id": "live-1789393174743-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Motorists are being stung by a sudden jump in petrol and diesel prices, with the RAC warning the latest surge is piling fresh pressure on family budgets already under strain. The motoring group says petrol is now at its highest level in four years.\nI..."
     },
     {
-      "id": "live-1789302778721-2",
+      "id": "live-1789393174743-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Motorists are being stung by a sudden jump in petrol and diesel prices, with the RAC warning the latest surge is piling fresh pressure on family budgets already under strain. The motoring group says petrol is now at its highest level in four years.\nI..."
     },
     {
-      "id": "live-1789302778721-3",
+      "id": "live-1789393174743-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Motorists are being stung by a sudden jump in petrol and diesel prices, with the RAC warning the latest surge is piling fresh pressure on family budgets already under strain. The motoring group says petrol is now at its highest level in four years.\nI..."
     },
     {
-      "id": "live-1789302778721-4",
+      "id": "live-1789393174743-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Motorists are being stung by a sudden jump in petrol and diesel prices, with the RAC warning the latest surge is piling fresh pressure on family budgets already under strain. The motoring group says petrol is now at its highest level in four years.\nI..."
     },
     {
-      "id": "live-1789302778721-5",
+      "id": "live-1789393174743-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Metro City Rates\nIn Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litr..."
     },
     {
-      "id": "live-1789302778721-6",
+      "id": "live-1789393174743-8",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1789302778721-7",
+      "id": "live-1789393174743-9",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "The RAC has reacted to new data showing pump prices are rising as a result of the ongoing US and Iran conflict.",
       "body": "The RAC has reacted to new data showing pump prices are rising as a result of the ongoing US and Iran conflict.\nDrivers face paying \"noticeably\" more for their fuel as the Iran war continues. The RAC has reacted to new data showing pump prices are ri...",
       "bodyEn": "The RAC has reacted to new data showing pump prices are rising as a result of the ongoing US and Iran conflict.\nDrivers face paying \"noticeably\" more for their fuel as the Iran war continues. The RAC has reacted to new data showing pump prices are ri..."
-    },
-    {
-      "id": "live-1789302778721-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-11",
-      "source": "The Irish Times",
-      "featured": false,
-      "url": "https://www.irishtimes.com/ireland/2026/09/11/qa-price-of-diesel-creeping-north-of-2-but-home-heating-oil-costs-a-more-serious-problem/",
-      "isLive": true,
-      "title": "Q&A: Price of diesel creeping north of €2 but home heating oil costs a more serious problem",
-      "titleEn": "Q&A: Price of diesel creeping north of €2 but home heating oil costs a more serious problem",
-      "summary": "The current prices do not take into account the temporary tax cuts that apply to both petrol and diesel",
-      "summaryEn": "The current prices do not take into account the temporary tax cuts that apply to both petrol and diesel",
-      "body": "Fuel prices are going in the wrong direction again, are they?\nThey absolutely are. The price of crude oil and gas spiked in the immediate aftermath of the US-led war on Iran in the early spring but steadied as we headed into summer with both sides ap...",
-      "bodyEn": "Fuel prices are going in the wrong direction again, are they?\nThey absolutely are. The price of crude oil and gas spiked in the immediate aftermath of the US-led war on Iran in the early spring but steadied as we headed into summer with both sides ap..."
-    },
-    {
-      "id": "live-1789302778721-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-11",
-      "source": "The Tribune",
-      "featured": false,
-      "url": "https://www.tribuneindia.com/news/world/pakistan-business-community-calls-for-review-of-pdl-daily-petroleum-pricing/",
-      "isLive": true,
-      "title": "Pakistan: Business community calls for review of PDL, daily petroleum pricing",
-      "titleEn": "Pakistan: Business community calls for review of PDL, daily petroleum pricing",
-      "summary": "Korangi Association of Trade and Industry (KATI) President Muhammad Ikram Rajput said repeated fuel price increases were creating serious difficulties for businesses and adding to economic uncertainty. He said petrol and diesel prices had risen by around Rs22 and Rs14 respectively over three days, placing an additional burden on consumers already facing inflationary pressures, as reported by Dawn.",
-      "summaryEn": "Korangi Association of Trade and Industry (KATI) President Muhammad Ikram Rajput said repeated fuel price increases were creating serious difficulties for businesses and adding to economic uncertainty. He said petrol and diesel prices had risen by around Rs22 and Rs14 respectively over three days, placing an additional burden on consumers already facing inflationary pressures, as reported by Dawn.",
-      "body": "Karachi [Pakistan] September 11 (ANI): Pakistan’s business community has urged the government to review the existing taxes and levies on petroleum products and reconsider its policy of revising fuel prices on a daily basis, saying frequent changes ar...",
-      "bodyEn": "Karachi [Pakistan] September 11 (ANI): Pakistan’s business community has urged the government to review the existing taxes and levies on petroleum products and reconsider its policy of revising fuel prices on a daily basis, saying frequent changes ar..."
     }
   ]
 }
