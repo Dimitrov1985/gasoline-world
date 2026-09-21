@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-09-20",
+  "lastUpdated": "2026-09-21",
   "articles": [
     {
-      "id": "live-1789905704143-0",
+      "id": "live-1789997943986-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-20",
+      "source": "Daily Express",
+      "featured": true,
+      "url": "https://www.express.co.uk/life-style/cars/2250168/petrol-diesel-fuel-prices-cheap-monday",
+      "isLive": true,
+      "title": "Petrol and diesel drivers urged to fill up before 10am on Monday",
+      "titleEn": "Petrol and diesel drivers urged to fill up before 10am on Monday",
+      "summary": "Petrol and diesel owners have been warned fuel prices could continue to rise next week in a major blow.",
+      "summaryEn": "Petrol and diesel owners have been warned fuel prices could continue to rise next week in a major blow.",
+      "body": "Petrol and diesel owners have been urged to top-up their cars before Monday morning to secure cheaper rates as fuel prices look set to surge. RAC head of policy Simon Williams has warned that the price of diesel could hit new highs from next week as ...",
+      "bodyEn": "Petrol and diesel owners have been urged to top-up their cars before Monday morning to secure cheaper rates as fuel prices look set to surge. RAC head of policy Simon Williams has warned that the price of diesel could hit new highs from next week as ..."
+    },
+    {
+      "id": "live-1789997943986-1",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-20",
+      "source": "Manchester Evening News",
+      "featured": false,
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/uk-petrol-diesel-drivers-urged-34644009",
+      "isLive": true,
+      "title": "UK petrol and diesel drivers urged to fill up before 10am on Friday",
+      "titleEn": "UK petrol and diesel drivers urged to fill up before 10am on Friday",
+      "summary": "Fuel prices are tipped to hit a record high this week as a result of the ongoing conflict in Iran",
+      "summaryEn": "Fuel prices are tipped to hit a record high this week as a result of the ongoing conflict in Iran",
+      "body": "Fuel prices are tipped to hit a record high this week as a result of the ongoing conflict in Iran\nPetrol and diesel drivers in the UK have been advised to fill up their fuel tanks before 10am on a Friday in order to save money, as the price of fuel i...",
+      "bodyEn": "Fuel prices are tipped to hit a record high this week as a result of the ongoing conflict in Iran\nPetrol and diesel drivers in the UK have been advised to fill up their fuel tanks before 10am on a Friday in order to save money, as the price of fuel i..."
+    },
+    {
+      "id": "live-1789997943986-2",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-09-20",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-20-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-556659-2026-09-20",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 20: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, September 20: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "With Brent crude dropping below $104 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "summaryEn": "With Brent crude dropping below $104 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "body": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹...",
+      "bodyEn": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹..."
+    },
+    {
+      "id": "live-1789997943986-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-09-19",
       "source": "Moneycontrol",
-      "featured": true,
+      "featured": false,
       "url": "https://www.moneycontrol.com/world/petrol-prices-near-rs-400-mark-in-pakistan-pti-lawmakers-ride-donkey-carts-to-sindh-assembly-article-14033532.html",
       "isLive": true,
       "title": "Petrol prices near Rs 400-mark in Pakistan: PTI Lawmakers ride donkey carts to Sindh Assembly",
@@ -19,7 +70,7 @@
       "bodyEn": "As Pakistan sees fuel prices shoot up, Pakistan Tehreek-e-Insaf (PTI) lawmakers rode donkey carts to the Sindh Assembly on Friday as they protested against the sharp increase in petroleum prices.\nThe lawmakers, led by PTI’s Sajjad Ali Soomro, travell..."
     },
     {
-      "id": "live-1789905704143-1",
+      "id": "live-1789997943986-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "As petrol prices continue to rise, at least two outlets have topped the milestone charge\nMore than 300 fuel stations around the country are now charging over £2 a litre for diesel as prices continue to spike upwards - including outlets in and around ..."
     },
     {
-      "id": "live-1789905704143-2",
+      "id": "live-1789997943986-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +104,7 @@
       "bodyEn": "Pakistan Tehreek-e-Insaf (PTI) lawmakers in Sindh arrived at the provincial assembly on donkey carts on Friday, September 18, in protest against rising petroleum prices. Petrol is now priced at Rs 390.79 per litre and high-speed diesel (HSD) at Rs 42..."
     },
     {
-      "id": "live-1789905704143-3",
+      "id": "live-1789997943987-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "As petrol prices continue to rise, at least two outlets have topped the milestone charge\nMore than 300 fuel stations around the country are now charging over £2 a litre for diesel as prices continue to spike upwards - including at least two in Cornwa..."
     },
     {
-      "id": "live-1789905704143-4",
+      "id": "live-1789997943987-7",
       "flag": "🇪🇺",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -87,7 +138,7 @@
       "bodyEn": "Filling up a car has never cost more on average across the European Union, according to European Commission data going back more than two decades. At the latest average prices, it costs about €103 to fill a 50-litre tank with petrol and €108 with die..."
     },
     {
-      "id": "live-1789905704143-5",
+      "id": "live-1789997943987-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹..."
     },
     {
-      "id": "live-1789905704143-6",
+      "id": "live-1789997943987-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -119,57 +170,6 @@
       "summaryEn": "In Mumbai, petrol price stands at ₹111.21 per litre today. No change has been recorded in petrol prices compared to yesterday.",
       "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
-    },
-    {
-      "id": "live-1789905704143-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-18",
-      "source": "Manchester Evening News",
-      "featured": false,
-      "url": "https://www.manchestereveningnews.co.uk/news/local-news/find-cheapest-petrol-station-near-34640781",
-      "isLive": true,
-      "title": "Find the cheapest petrol station near you as 100 more garages charge more than £2 a litre",
-      "titleEn": "Find the cheapest petrol station near you as 100 more garages charge more than £2 a litre",
-      "summary": "Prices have increased once again for diesel motorists",
-      "summaryEn": "Prices have increased once again for diesel motorists",
-      "body": "Prices have increased once again for diesel motorists\nFind the cheapest petrol station near you have 100 more garages are charging over £2 a litre for fuel.\nToday (September 18), an extra 100 fuel stations across the United Kingdom have started to ch...",
-      "bodyEn": "Prices have increased once again for diesel motorists\nFind the cheapest petrol station near you have 100 more garages are charging over £2 a litre for fuel.\nToday (September 18), an extra 100 fuel stations across the United Kingdom have started to ch..."
-    },
-    {
-      "id": "live-1789905704143-8",
-      "flag": "📰",
-      "category": "Ближний Восток",
-      "categoryEn": "Middle East",
-      "date": "2026-09-18",
-      "source": "Daily Express",
-      "featured": false,
-      "url": "https://www.express.co.uk/news/uk/2249871/mapped-100-uk-garages-over-2-fuel",
-      "isLive": true,
-      "title": "Mapped: 100 more UK garages charging over £2 a litre for fuel",
-      "titleEn": "Mapped: 100 more UK garages charging over £2 a litre for fuel",
-      "summary": "Petrol and diesel prices have both hit the highest levels since 2022 as the war in the Middle East rages on",
-      "summaryEn": "Petrol and diesel prices have both hit the highest levels since 2022 as the war in the Middle East rages on",
-      "body": "Fuel prices are rising again in the UK due to the ongoing conflict in the Middle East. The latest data from forecourts across the UK show that an additional 100 fuel stations started charging over £2 a litre for diesel on Friday (September 18).\nThat ...",
-      "bodyEn": "Fuel prices are rising again in the UK due to the ongoing conflict in the Middle East. The latest data from forecourts across the UK show that an additional 100 fuel stations started charging over £2 a litre for diesel on Friday (September 18).\nThat ..."
-    },
-    {
-      "id": "live-1789905704144-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-18",
-      "source": "Money Week",
-      "featured": false,
-      "url": "https://moneyweek.com/investments/oil-price/oil-price-rises-drive-higher-uk-inflation",
-      "isLive": true,
-      "title": "Oil price rises drive higher UK inflation",
-      "titleEn": "Oil price rises drive higher UK inflation",
-      "summary": "Rises in petrol, diesel and Brent crude prices pushed UK inflation to a five-month high. But the Iran war doesn't seem to be over anytime soon.",
-      "summaryEn": "Rises in petrol, diesel and Brent crude prices pushed UK inflation to a five-month high. But the Iran war doesn't seem to be over anytime soon.",
-      "body": "Soaring oil prices have pushed UK inflation to a five-month high. Consumer prices rose 3.1% in the year to August. Motor fuel prices rose nearly a quarter, with petrol rising to 161.3p per litre and diesel hitting 181.8p. Brent crude is back above $1...",
-      "bodyEn": "Soaring oil prices have pushed UK inflation to a five-month high. Consumer prices rose 3.1% in the year to August. Motor fuel prices rose nearly a quarter, with petrol rising to 161.3p per litre and diesel hitting 181.8p. Brent crude is back above $1..."
     }
   ]
 }
