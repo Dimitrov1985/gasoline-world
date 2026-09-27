@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-09-27",
   "articles": [
     {
-      "id": "live-1790424215270-0",
+      "id": "live-1790513233419-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-09-26",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-26-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-558001-2026-09-26",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 26: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today, September 26: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "Despite Brent crude rising over $100 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude",
+      "summaryEn": "Despite Brent crude rising over $100 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude",
+      "body": "Fresh tensions in West Asia and attacks by Houthis on key oil facilities in Saudi Arabia has impacted the global energy supply. Amid the threat of hike in prices, petrol and diesel prices across major cities in India is largely stable on September 26...",
+      "bodyEn": "Fresh tensions in West Asia and attacks by Houthis on key oil facilities in Saudi Arabia has impacted the global energy supply. Amid the threat of hike in prices, petrol and diesel prices across major cities in India is largely stable on September 26..."
+    },
+    {
+      "id": "live-1790513233419-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-26",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-september-26-heres-how-much-fuel-costs-in-delhi-mumbai-bengaluru-11790385138692.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today, September 26: Here's how much fuel costs in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol, diesel prices today, September 26: Here's how much fuel costs in Delhi, Mumbai, Bengaluru",
+      "summary": "Across major metros, fuel rates held their ground. In Mumbai, the retail price of petrol stood at ₹111.21 per litre, remaining unchanged from the previous day.",
+      "summaryEn": "Across major metros, fuel rates held their ground. In Mumbai, the retail price of petrol stood at ₹111.21 per litre, remaining unchanged from the previous day.",
+      "body": "Petrol and diesel prices today, September 26: Consumers saw no change in retail fuel prices on Saturday, September 26, as state-run oil marketing companies (OMCs) kept rates steady following their 6:00 AM daily revision.\nThe domestic pause offers a b...",
+      "bodyEn": "Petrol and diesel prices today, September 26: Consumers saw no change in retail fuel prices on Saturday, September 26, as state-run oil marketing companies (OMCs) kept rates steady following their 6:00 AM daily revision.\nThe domestic pause offers a b..."
+    },
+    {
+      "id": "live-1790513233420-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-09-26",
+      "source": "The Nation",
+      "featured": false,
+      "url": "https://www.nation.com.pk/26-Sep-2026/petrol-price-rises-rs2-02-per-litre-diesel-falls-rs3-59",
+      "isLive": true,
+      "title": "Petrol price rises by Rs2.02 per litre, diesel falls by Rs3.59",
+      "titleEn": "Petrol price rises by Rs2.02 per litre, diesel falls by Rs3.59",
+      "summary": "ISLAMABAD   - The Oil and Gas Regulatory Authority (OGRA) on Friday revised the ex-depot prices of petroleum products for the period from September 26 to 28,",
+      "summaryEn": "ISLAMABAD   - The Oil and Gas Regulatory Authority (OGRA) on Friday revised the ex-depot prices of petroleum products for the period from September 26 to 28,",
+      "body": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday revised the ex-depot prices of petroleum products for the period from September 26 to 28, 2026. According to the Ministry of Energy (Petroleum Division), the price of Motor Spirit (pet...",
+      "bodyEn": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday revised the ex-depot prices of petroleum products for the period from September 26 to 28, 2026. According to the Ministry of Energy (Petroleum Division), the price of Motor Spirit (pet..."
+    },
+    {
+      "id": "live-1790513233420-3",
       "flag": "🇪🇺",
       "category": "Европа",
       "categoryEn": "Europe",
       "date": "2026-09-25",
       "source": "OilPrice",
-      "featured": true,
+      "featured": false,
       "url": "https://oilprice.com/Company-News/Eni-Caps-Italian-Fuel-Prices-as-Refining-Crunch-Drives-Costs-Higher.html",
       "isLive": true,
       "title": "Eni Caps Italian Fuel Prices as Refining Crunch Drives Costs Higher",
@@ -19,7 +70,7 @@
       "bodyEn": "Italian energy major Eni will cap fuel prices at its Enilive service stations beginning September 28 as tighter refined-product supplies and reduced European refining capacity continue to put upward pressure on pump prices.\nThe company said diesel so..."
     },
     {
-      "id": "live-1790424215270-1",
+      "id": "live-1790513233420-4",
       "flag": "🇩🇪",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -36,7 +87,7 @@
       "bodyEn": "Germany’s lower house of parliament on Friday approved a second temporary fuel tax cut this year, as the government seeks to shield households and businesses from soaring petrol and diesel prices.\nThe measure, which is expected to clear the upper hou..."
     },
     {
-      "id": "live-1790424215271-2",
+      "id": "live-1790513233420-5",
       "flag": "🇩🇪",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -53,7 +104,7 @@
       "bodyEn": "The Swiss National Bank (SNB) has left its policy rate unchanged at zero, the lowest policy rate in the world.\nInflation remains subdued. Consumer prices rose by 0.8% in August, the highest rate in two years but still comfortably within the SNB’s def..."
     },
     {
-      "id": "live-1790424215271-3",
+      "id": "live-1790513233420-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "WITH petrol prices now at a four-year high, we have created an interactive tool to help you find the cheapest petrol stations in your area.\nThe average price of unleaded is now 173.60 a litre, the highest price since the fuel crisis in 2022, accordin..."
     },
     {
-      "id": "live-1790424215271-4",
+      "id": "live-1790513233420-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel drivers could again be hit with a price hike\nMotorists could be in for another huge hike in fuel prices if proposals overseas come into effect. That's the warning of analysts if Donald Trump brings in a diesel export ban which would..."
     },
     {
-      "id": "live-1790424215271-5",
+      "id": "live-1790513233420-8",
       "flag": "🇩🇪",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -104,7 +155,7 @@
       "bodyEn": "Wars in the Middle East and Ukraine are prompting governments across Europe to introduce subsidies, change taxes and revise policies to shield their economies, companies and households from record petrol and diesel prices.\nCountries around the world ..."
     },
     {
-      "id": "live-1790424215271-6",
+      "id": "live-1790513233420-9",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +172,7 @@
       "bodyEn": "LAUNCESTON, Australia, Sept 25 (Reuters) - The Iran conflict has put a spotlight on the somewhat murky world of refined fuel trading as the world battles constrained supply and record-high prices. But it is AI that may bring the trading of diesel, ga..."
     },
     {
-      "id": "live-1790424215271-7",
+      "id": "live-1790513233420-10",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -136,57 +187,6 @@
       "summaryEn": "Petrol and diesel prices remained unchanged across major Indian cities on September 25. Check the latest fuel rates in Delhi, Mumbai, Bengaluru, Hyderabad and other cities, along with the latest movement in crude oil prices.",
       "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
-    },
-    {
-      "id": "live-1790424215271-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-25",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-25-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-557703-2026-09-25",
-      "isLive": true,
-      "title": "Petrol, diesel prices today, September 25: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today, September 25: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "With Brent crude rising to over $106 per barrel, fuel prices have remained relatively stable over the past week.",
-      "summaryEn": "With Brent crude rising to over $106 per barrel, fuel prices have remained relatively stable over the past week.",
-      "body": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹...",
-      "bodyEn": "In Mumbai, petrol is available at ₹111.21 per litre, marking the same rate as the previous day’s rate. Diesel in the financial capital is priced at ₹97.83 per litre, the same as yesterday’s rate. Delhi sees petrol at ₹102.12 per litre and diesel at ₹..."
-    },
-    {
-      "id": "live-1790424215271-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-24",
-      "source": "Manchester Evening News",
-      "featured": false,
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/diesel-prices-hit-over-2-34668893",
-      "isLive": true,
-      "title": "Diesel prices hit over £2 a litre in Greater Manchester petrol stations amid fears over Donald Trump ban",
-      "titleEn": "Diesel prices hit over £2 a litre in Greater Manchester petrol stations amid fears over Donald Trump ban",
-      "summary": "At one service station in our region, it is now almost £2.20p per litre",
-      "summaryEn": "At one service station in our region, it is now almost £2.20p per litre",
-      "body": "At one service station in our region, it is now almost £2.20p per litre\nDiesel prices have risen above £2 per litre at a number of Greater Manchester petrol stations as nationwide prices reach a near record high. It comes amid fears Donald Trump will...",
-      "bodyEn": "At one service station in our region, it is now almost £2.20p per litre\nDiesel prices have risen above £2 per litre at a number of Greater Manchester petrol stations as nationwide prices reach a near record high. It comes amid fears Donald Trump will..."
-    },
-    {
-      "id": "live-1790424215271-10",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-09-24",
-      "source": "Birmingham Live",
-      "featured": false,
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-urged-fill-up-petrol-34624553",
-      "isLive": true,
-      "title": "Drivers urged to fill up with petrol and diesel before Saturday arrives",
-      "titleEn": "Drivers urged to fill up with petrol and diesel before Saturday arrives",
-      "summary": "Fuel retailers adjust prices based on demand, experts have warned.",
-      "summaryEn": "Fuel retailers adjust prices based on demand, experts have warned.",
-      "body": "Fuel retailers adjust prices based on demand, experts have warned.\nDrivers have been urged to fill their tanks before Saturday morning as the UK petrol and diesel prices continue to skyrocket. Fuel retailers adjust prices based on demand, experts hav...",
-      "bodyEn": "Fuel retailers adjust prices based on demand, experts have warned.\nDrivers have been urged to fill their tanks before Saturday morning as the UK petrol and diesel prices continue to skyrocket. Fuel retailers adjust prices based on demand, experts hav..."
     }
   ]
 }
