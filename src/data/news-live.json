@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-06",
   "articles": [
     {
-      "id": "live-1791214465614-0",
-      "flag": "📰",
+      "id": "live-1791294961078-0",
+      "flag": "🇸🇦",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-05",
       "source": "News18",
       "featured": true,
+      "url": "https://www.news18.com/explainers/saudi-offers-oil-discount-for-asia-will-indias-petrol-diesel-prices-dip-decoding-the-slippery-web-ws-klrt-10367652.html",
+      "isLive": true,
+      "title": "Saudi Oil Discount For Asia: Will India’s Petrol, Diesel Prices Dip? Explained",
+      "titleEn": "Saudi Oil Discount For Asia: Will India’s Petrol, Diesel Prices Dip? Explained",
+      "summary": "Indian state-owned Oil Marketing Companies will only consider passing on relief to retail consumers if overall global crude oil rates remain low and stable over an extended period",
+      "summaryEn": "Indian state-owned Oil Marketing Companies will only consider passing on relief to retail consumers if overall global crude oil rates remain low and stable over an extended period",
+      "body": "Published By :\n,\nLast Updated:October 05, 2026, 15:38 IST\nIndian state-owned Oil Marketing Companies will only consider passing on relief to retail consumers if overall global crude oil rates remain low and stable over an extended period\nRapid Read\nS...",
+      "bodyEn": "Published By :\n,\nLast Updated:October 05, 2026, 15:38 IST\nIndian state-owned Oil Marketing Companies will only consider passing on relief to retail consumers if overall global crude oil rates remain low and stable over an extended period\nRapid Read\nS..."
+    },
+    {
+      "id": "live-1791294961079-1",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-05",
+      "source": "NDTV Profit",
+      "featured": false,
+      "url": "https://www.ndtvprofit.com/markets/petrol-diesel-prices-on-october-5-check-new-fuel-rates-in-mumbai-bengaluru-chennai-kolkata-and-more-12139292",
+      "isLive": true,
+      "title": "Petrol, Diesel Prices On October 5: Check New Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More",
+      "titleEn": "Petrol, Diesel Prices On October 5: Check New Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More",
+      "summary": "Crude prices eased on Monday, Oct. 5, as crude oil exports from the Middle East rise amid the ongoing US-Iran attacks; domestic fuel prices remained steady",
+      "summaryEn": "Crude prices eased on Monday, Oct. 5, as crude oil exports from the Middle East rise amid the ongoing US-Iran attacks; domestic fuel prices remained steady",
+      "body": "Crude prices eased on Monday, Oct. 5, as crude oil exports from the Middle East rose amid the ongoing US-Iran attacks. Furthermore, G7 countries agreed to release 100 million barrels of diesel and crude from the emergency reserve, which also dragged ...",
+      "bodyEn": "Crude prices eased on Monday, Oct. 5, as crude oil exports from the Middle East rose amid the ongoing US-Iran attacks. Furthermore, G7 countries agreed to release 100 million barrels of diesel and crude from the emergency reserve, which also dragged ..."
+    },
+    {
+      "id": "live-1791294961079-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-05",
+      "source": "News18",
+      "featured": false,
       "url": "https://www.news18.com/business/economy/petrol-diesel-prices-today-october-5-check-fuel-rates-in-delhi-mumbai-kolkata-chennai-ws-l-10367289.html",
       "isLive": true,
       "title": "Petrol, Diesel Prices Today, October 5: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
@@ -19,7 +53,7 @@
       "bodyEn": "Petrol, Diesel Price Today, October 5: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.21 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, October 5: Petrol and diesel prices remaine..."
     },
     {
-      "id": "live-1791214465615-1",
+      "id": "live-1791294961079-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Petrol and diesel prices across major Indian cities remained unchanged on October 5, even as global crude oil prices stayed above $100 per barrel amid tensions in West Asia. State-run oil marketing companies have kept retail fuel rates steady despite..."
     },
     {
-      "id": "live-1791214465615-2",
+      "id": "live-1791294961079-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +87,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1791214465615-3",
+      "id": "live-1791294961079-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Petrol and diesel prices across major cities in India are largely stable on October 4, as global oil prices stood above $102 per barrel at a time when Saudi Arabia is planning an offensive against Iran-backed Houthis in Yemen. Riyadh is considering s..."
     },
     {
-      "id": "live-1791214465615-4",
+      "id": "live-1791294961079-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Following the hike, petrol at Nayara outlets in New Delhi is priced at Rs 107.12 a litre, Rs 5 higher than Rs 102.12 at state-run pumps, while diesel costs Rs 98.20 a litre compared with Rs 95.20, a gap of Rs 3, according to a fuel pump owner who did..."
     },
     {
-      "id": "live-1791214465615-5",
+      "id": "live-1791294961079-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "458\nNayara Energy raised the price of petrol and diesel at all its fuel stations in India. Petrol prices have risen by Rs 5 per litre, while the price of diesel has been raised by Rs 3 per litre. The new prices will take effect from the early hours o..."
     },
     {
-      "id": "live-1791214465615-6",
+      "id": "live-1791294961079-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "The federal government has announced another increase in petrol and high-speed diesel prices, with the revised rates coming into effect from October 3, 2026.\nUnder the latest adjustment, petrol has become Rs2.10 per litre more expensive, taking its n..."
     },
     {
-      "id": "live-1791214465615-7",
+      "id": "live-1791294961079-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,41 +172,7 @@
       "bodyEn": "The prices of petrol and diesel are creeping towards the April highs that led to national fuel protests, with diesel now over €2 and petrol approaching that level.\nAccording to monitoring site fuelwatch.ie, the average price of petrol is €1.99 per li..."
     },
     {
-      "id": "live-1791214465615-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-03",
-      "source": "Free Press Journal",
-      "featured": false,
-      "url": "https://www.freepressjournal.in/bhopal/nayara-energy-hikes-petrol-by-5-diesel-by-3-per-litre-in-madhya-pradesh-as-crude-oil-prices-rise",
-      "isLive": true,
-      "title": "Nayara Energy Hikes Petrol By ₹5, Diesel By ₹3 Per Litre In Madhya Pradesh As Crude Oil Prices Rise",
-      "titleEn": "Nayara Energy Hikes Petrol By ₹5, Diesel By ₹3 Per Litre In Madhya Pradesh As Crude Oil Prices Rise",
-      "summary": "Nayara Energy has increased petrol prices by ₹5 per litre and diesel by ₹3 per litre in Madhya Pradesh, taking rates at its Bhopal outlets to ₹119.81 and ₹102.59, respectively. The company attributed the hike to rising international crude oil prices. State-owned oil marketing companies have not revised their petrol and diesel prices on Saturday.",
-      "summaryEn": "Nayara Energy has increased petrol prices by ₹5 per litre and diesel by ₹3 per litre in Madhya Pradesh, taking rates at its Bhopal outlets to ₹119.81 and ₹102.59, respectively. The company attributed the hike to rising international crude oil prices. State-owned oil marketing companies have not revised their petrol and diesel prices on Saturday.",
-      "body": "Bhopal (Madhya Pradesh): Nayara Energy increased petrol and diesel prices across the country on Saturday, with the hike also affecting fuel prices in Madhya Pradesh. The company raised petrol prices by ₹5 per litre and diesel prices by ₹3 per litre i...",
-      "bodyEn": "Bhopal (Madhya Pradesh): Nayara Energy increased petrol and diesel prices across the country on Saturday, with the hike also affecting fuel prices in Madhya Pradesh. The company raised petrol prices by ₹5 per litre and diesel prices by ₹3 per litre i..."
-    },
-    {
-      "id": "live-1791214465615-9",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-10-03",
-      "source": "The Financial Express",
-      "featured": false,
-      "url": "https://www.financialexpress.com/policy/economy/nayara-energy-hikes-petrol-by-rs-5-diesel-by-rs-3-report/4352928/",
-      "isLive": true,
-      "title": "Nayara Energy hikes petrol by Rs 5, diesel by Rs 3: Report",
-      "titleEn": "Nayara Energy hikes petrol by Rs 5, diesel by Rs 3: Report",
-      "summary": "Nayara Energy, India's largest private fuel retailer, has hiked petrol by Rs 5/litre and diesel by Rs 3/litre amid rising global crude prices and ongoing geopolitical tensions impacting retail fuel margins.",
-      "summaryEn": "Nayara Energy, India's largest private fuel retailer, has hiked petrol by Rs 5/litre and diesel by Rs 3/litre amid rising global crude prices and ongoing geopolitical tensions impacting retail fuel margins.",
-      "body": "Nayara Energy, which operates more than 7,000 fuel stations across India, is the country’s largest private fuel retailer. The latest increase comes amid renewed pressure on fuel retailers as global energy prices rise following geopolitical disruption...",
-      "bodyEn": "Nayara Energy, which operates more than 7,000 fuel stations across India, is the country’s largest private fuel retailer. The latest increase comes amid renewed pressure on fuel retailers as global energy prices rise following geopolitical disruption..."
-    },
-    {
-      "id": "live-1791214465615-10",
+      "id": "live-1791294961079-10",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
