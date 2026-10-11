@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-10-10",
+  "lastUpdated": "2026-10-11",
   "articles": [
     {
-      "id": "live-1791638265366-0",
+      "id": "live-1791726404954-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-10",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-10-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-560780-2026-10-10",
+      "isLive": true,
+      "title": "Petrol, diesel prices today (October 10): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today (October 10): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "State-run oil marketing companies have kept retail fuel rates steady, providing some relief to consumers amid volatility in international oil markets.",
+      "summaryEn": "State-run oil marketing companies have kept retail fuel rates steady, providing some relief to consumers amid volatility in international oil markets.",
+      "body": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 10, even as global crude oil prices continue to trade at elevated levels. State-run oil marketing companies have kept retail fuel rates ...",
+      "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 10, even as global crude oil prices continue to trade at elevated levels. State-run oil marketing companies have kept retail fuel rates ..."
+    },
+    {
+      "id": "live-1791726404955-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-10",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-10-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11791594403477.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, October 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+      "summary": "In Mumbai, the retail price of petrol stood at ₹111.31 per litre, reflecting a slight increase from yesterday's ₹111.21.",
+      "summaryEn": "In Mumbai, the retail price of petrol stood at ₹111.31 per litre, reflecting a slight increase from yesterday's ₹111.21.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1791726404955-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-09",
       "source": "Proto Thema",
-      "featured": true,
+      "featured": false,
       "url": "https://en.protothema.gr/2026/10/09/elstat-inflation-jumped-to-5-in-september-fuel-prices-rallied-rents-rose-by-14-7/",
       "isLive": true,
       "title": "ELSTAT: Inflation jumped to 5% in September, fuel prices rallied, rents rose by 14.7%",
@@ -19,7 +53,7 @@
       "bodyEn": "Annual inflation in Greece accelerated significantly to 5% in September, compared with 3.8% in August, according to data from ELSTAT, the Hellenic Statistical Authority.\nIt is recalled that Eurostat had put inflation in Greece at 5.1%, according to i..."
     },
     {
-      "id": "live-1791638265367-1",
+      "id": "live-1791726404955-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "John Healey has announced a change for motorists at the forecourt, with drivers set to pocket £40 in savings from Thursday. The Labour government Chancellor has revealed that near real-time petrol and diesel prices will now appear on Google Maps for ..."
     },
     {
-      "id": "live-1791638265367-2",
+      "id": "live-1791726404955-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Drivers are set to save at the pump as near-real-time UK petrol prices and diesel prices are shown on Google Maps for the first time\nJohn Healey has announced a change for motorists at the forecourt, with drivers set to pocket £40 in savings from Thu..."
     },
     {
-      "id": "live-1791638265367-3",
+      "id": "live-1791726404955-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "John Healey has announced a change for motorists at the forecourt, with drivers set to pocket £40 in savings from Thursday. The Labour government Chancellor has revealed that near real-time petrol and diesel prices will now appear on Google Maps for ..."
     },
     {
-      "id": "live-1791638265367-4",
+      "id": "live-1791726404955-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Government confirmed on Thursday (October 8) that near-real-time petrol and diesel prices are included on Google Maps for the first time.\nAndy Burnham’s new £40 cost of living boost for drivers has been slammed by motorists - with some baffled road u..."
     },
     {
-      "id": "live-1791638265367-5",
+      "id": "live-1791726404955-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1791638265367-6",
+      "id": "live-1791726404955-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 9, even as global crude oil prices continue to trade at elevated levels. State-run oil marketing companies have kept retail fuel rates s..."
     },
     {
-      "id": "live-1791638265367-7",
+      "id": "live-1791726404955-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,41 +172,7 @@
       "bodyEn": "Google Maps in the UK will now display the price of both fuels when a user searches for a nearby forecourt on the app, the Department for Energy Security and Net Zero said.\nAccording to the department, households who own a car could save around £40 a..."
     },
     {
-      "id": "live-1791638265367-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-08",
-      "source": "Birmingham Live",
-      "featured": false,
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/john-healey-announces-petrol-station-34735075",
-      "isLive": true,
-      "title": "John Healey announces petrol station change with £40 saving for drivers",
-      "titleEn": "John Healey announces petrol station change with £40 saving for drivers",
-      "summary": "Drivers are set to save at the pump as near real-time petrol and diesel prices are included on Google Maps for the first time.",
-      "summaryEn": "Drivers are set to save at the pump as near real-time petrol and diesel prices are included on Google Maps for the first time.",
-      "body": "Drivers are set to save at the pump as near real-time petrol and diesel prices are included on Google Maps for the first time.\nJohn Healey has confirmed a fuel station change with drivers handed £40 savings from Thursday. The Labour Party government ...",
-      "bodyEn": "Drivers are set to save at the pump as near real-time petrol and diesel prices are included on Google Maps for the first time.\nJohn Healey has confirmed a fuel station change with drivers handed £40 savings from Thursday. The Labour Party government ..."
-    },
-    {
-      "id": "live-1791638265367-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-08",
-      "source": "The Sun",
-      "featured": false,
-      "url": "https://www.thesun.co.uk/motors/40618541/cheapest-fuel-prices-google-maps/",
-      "isLive": true,
-      "title": "How to check the cheapest fuel prices on Google Maps today: Petrol and diesel costs per litre revealed",
-      "titleEn": "How to check the cheapest fuel prices on Google Maps today: Petrol and diesel costs per litre revealed",
-      "summary": "MOTORISTS can now check near real-time petrol and diesel prices directly on Google Maps.\nFrom Thursday, October 8, users can search for local...",
-      "summaryEn": "MOTORISTS can now check near real-time petrol and diesel prices directly on Google Maps.\nFrom Thursday, October 8, users can search for local...",
-      "body": "MOTORISTS can now check near real-time petrol and diesel prices directly on Google Maps.\nFrom Thursday, October 8, users can search for local forecourts on the app to see how much a litre of fuel will cost before they even turn the key in the ignitio...",
-      "bodyEn": "MOTORISTS can now check near real-time petrol and diesel prices directly on Google Maps.\nFrom Thursday, October 8, users can search for local forecourts on the app to see how much a litre of fuel will cost before they even turn the key in the ignitio..."
-    },
-    {
-      "id": "live-1791638265367-10",
+      "id": "live-1791726404956-10",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
