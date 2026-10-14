@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-10-13",
+  "lastUpdated": "2026-10-14",
   "articles": [
     {
-      "id": "live-1791902905738-0",
+      "id": "live-1791981554453-0",
+      "flag": "🇺🇸",
+      "category": "Европа",
+      "categoryEn": "Europe",
+      "date": "2026-10-13",
+      "source": "Majorca Daily Bulletin",
+      "featured": true,
+      "url": "https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html",
+      "isLive": true,
+      "title": "Spain ranked as the fastest-growing major advanced economy for the third year running",
+      "titleEn": "Spain ranked as the fastest-growing major advanced economy for the third year running",
+      "summary": "IMF places Spain ahead of the United States. The Ministry of Economy has linked this to the anti-crisis shield deployed by the Government, which has cushioned “around half of the rise in prices and kept petrol and diesel prices below those in the eurozone”",
+      "summaryEn": "IMF places Spain ahead of the United States. The Ministry of Economy has linked this to the anti-crisis shield deployed by the Government, which has cushioned “around half of the rise in prices and kept petrol and diesel prices below those in the eurozone”",
+      "body": "“We are continuing,” the government’s economic chief emphasised on Tuesday in a message posted on the social media platform X, as reported by Europa Press. Spain’s gross domestic product (GDP) growth will continue to be the strongest among the major ...",
+      "bodyEn": "“We are continuing,” the government’s economic chief emphasised on Tuesday in a message posted on the social media platform X, as reported by Europa Press. Spain’s gross domestic product (GDP) growth will continue to be the strongest among the major ..."
+    },
+    {
+      "id": "live-1791981554454-1",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-10-13",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-13-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-561146-2026-10-13",
+      "isLive": true,
+      "title": "Petrol, diesel prices today (October 13): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today (October 13): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "Despite Brent crude crossing $105 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "summaryEn": "Despite Brent crude crossing $105 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "body": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 13, even as international crude oil prices stayed above $105 per barrel. However, private fuel retailer Jio-bp raised petrol prices by ₹...",
+      "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 13, even as international crude oil prices stayed above $105 per barrel. However, private fuel retailer Jio-bp raised petrol prices by ₹..."
+    },
+    {
+      "id": "live-1791981554454-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-13",
       "source": "News18",
-      "featured": true,
+      "featured": false,
       "url": "https://www.news18.com/business/economy/petrol-diesel-prices-today-october-13-check-fuel-rates-in-delhi-mumbai-kolkata-chennai-ws-q-10379143.html",
       "isLive": true,
       "title": "Petrol, Diesel Prices Today, October 13: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
@@ -19,7 +53,7 @@
       "bodyEn": "Petrol, Diesel Price Today, October 13: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, October 13: Petrol and diesel prices remai..."
     },
     {
-      "id": "live-1791902905739-1",
+      "id": "live-1791981554454-3",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -36,7 +70,7 @@
       "bodyEn": "Fuel prices across Indian cities showed mixed changes on 13 October. Petrol and diesel remained unchanged in several cities while others recorded increases or cuts. CNG prices rose at eight listed locations while three showed no change.\nPetrol prices..."
     },
     {
-      "id": "live-1791902905739-2",
+      "id": "live-1791981554454-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Lahore [Pakistan] October 12 (ANI) Pakistan’s persistent fuel price fluctuations have intensified financial pressure on households, with petrol and diesel costs remaining significantly higher despite repeated revisions, exposing the burden of the cou..."
     },
     {
-      "id": "live-1791902905739-3",
+      "id": "live-1791981554454-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Lahore [Pakistan] October 12 (ANI) Pakistan’s persistent fuel price fluctuations have intensified financial pressure on households, with petrol and diesel costs remaining significantly higher despite repeated revisions, exposing the burden of the cou..."
     },
     {
-      "id": "live-1791902905739-4",
+      "id": "live-1791981554454-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Lahore [Pakistan] October 12 (ANI) Pakistan’s persistent fuel price fluctuations have intensified financial pressure on households, with petrol and diesel costs remaining significantly higher despite repeated revisions, exposing the burden of the cou..."
     },
     {
-      "id": "live-1791902905739-5",
+      "id": "live-1791981554454-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices across India have remained largely unchanged again today. CNG rates are also holding steady.\nBrent crude fell 1.47% to $103.18 per barrel on Monday, while WTI slipped 1.69% to $90.31, as hopes of more Russian supply pulled pr..."
     },
     {
-      "id": "live-1791902905739-6",
+      "id": "live-1791981554454-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -121,7 +155,7 @@
       "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 12, even as international crude oil prices stayed above $100 per barrel. However, private fuel retailer Jio-bp raised petrol prices by ₹..."
     },
     {
-      "id": "live-1791902905739-7",
+      "id": "live-1791981554454-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,41 +172,7 @@
       "bodyEn": "Petrol, Diesel Price Today, October 12: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.21 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, October 12: Petrol and diesel prices remai..."
     },
     {
-      "id": "live-1791902905739-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-11",
-      "source": "Daily Express",
-      "featured": false,
-      "url": "https://www.express.co.uk/life-style/cars/2256377/aa-petrol-diesel-fuel-prices-costs",
-      "isLive": true,
-      "title": "AA urges drivers to do 10 things - could save 20% on petrol and diesel",
-      "titleEn": "AA urges drivers to do 10 things - could save 20% on petrol and diesel",
-      "summary": "Petrol and diesel fuel prices have soared in recent weeks, but motorists struggling with rising costs could enjoy some savings by adopting these simple tips.",
-      "summaryEn": "Petrol and diesel fuel prices have soared in recent weeks, but motorists struggling with rising costs could enjoy some savings by adopting these simple tips.",
-      "body": "The AA has previously urged petrol and diesel owners to follow 10 crucial tips, with road users able to save as much as 20% on fuel. AA President Edmund King previously issued 10 pieces of advice for road users desperate to save at the pumps, with th...",
-      "bodyEn": "The AA has previously urged petrol and diesel owners to follow 10 crucial tips, with road users able to save as much as 20% on fuel. AA President Edmund King previously issued 10 pieces of advice for road users desperate to save at the pumps, with th..."
-    },
-    {
-      "id": "live-1791902905739-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-11",
-      "source": "Daily Express",
-      "featured": false,
-      "url": "https://www.express.co.uk/life-style/cars/2256327/car-tax-bands-2026-petrol-diesel-cars",
-      "isLive": true,
-      "title": "Car tax bands in 2026 - almost every petrol and diesel driver affected",
-      "titleEn": "Car tax bands in 2026 - almost every petrol and diesel driver affected",
-      "summary": "Petrol and diesel car owners are among the most affected by new car tax bands in 2026, with prices up across the board.",
-      "summaryEn": "Petrol and diesel car owners are among the most affected by new car tax bands in 2026, with prices up across the board.",
-      "body": "Petrol and diesel car owners are among the most affected by new car tax bands in 2026, with prices up across the board.\nPetrol and diesel owners have been battling new 2026 car tax bands, with fees rising for combustion engine owners earlier this yea...",
-      "bodyEn": "Petrol and diesel car owners are among the most affected by new car tax bands in 2026, with prices up across the board.\nPetrol and diesel owners have been battling new 2026 car tax bands, with fees rising for combustion engine owners earlier this yea..."
-    },
-    {
-      "id": "live-1791902905739-10",
+      "id": "live-1791981554454-10",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
