@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-10-17",
+  "lastUpdated": "2026-10-18",
   "articles": [
     {
-      "id": "live-1792236220988-0",
+      "id": "live-1792324592765-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-17",
+      "source": "Northern Echo",
+      "featured": true,
+      "url": "https://www.thenorthernecho.co.uk/news/26643354.cheapest-petrol-diesel-prices-darlington-weekend/",
+      "isLive": true,
+      "title": "Cheapest petrol and diesel prices in Darlington this weekend",
+      "titleEn": "Cheapest petrol and diesel prices in Darlington this weekend",
+      "summary": "Here's a list of the cheapest garages in and around Darlington this weekend, according to petrolprices.com.",
+      "summaryEn": "Here's a list of the cheapest garages in and around Darlington this weekend, according to petrolprices.com.",
+      "body": "But it's no secret that the prices can quickly burn a hole in your bank account.\nTo help you get the best deal on your petrol or diesel this weekend, we've compiled a list of the cheapest garages in and around Darlington.\nPetrolprices.com gets its in...",
+      "bodyEn": "But it's no secret that the prices can quickly burn a hole in your bank account.\nTo help you get the best deal on your petrol or diesel this weekend, we've compiled a list of the cheapest garages in and around Darlington.\nPetrolprices.com gets its in..."
+    },
+    {
+      "id": "live-1792324592765-1",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-17",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-17-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-562217-2026-10-17",
+      "isLive": true,
+      "title": "Petrol, diesel prices today (October 17): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today (October 17): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "The jump in crude oil prices came after Iran escalated attacks in the Strait of Hormuz, severely disrupting commercial shipping and petroleum transit through the strategically vital waterway.",
+      "summaryEn": "The jump in crude oil prices came after Iran escalated attacks in the Strait of Hormuz, severely disrupting commercial shipping and petroleum transit through the strategically vital waterway.",
+      "body": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 17, even as global crude oil prices eased from recent highs. Brent crude fell neared $100 per barrel, while US West Texas Intermediate (...",
+      "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 17, even as global crude oil prices eased from recent highs. Brent crude fell neared $100 per barrel, while US West Texas Intermediate (..."
+    },
+    {
+      "id": "live-1792324592765-2",
+      "flag": "🇷🇺",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-17",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-17-check-fuel-cost-in-delhi-mumbai-bengaluru-11792200993259.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 17: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, October 17: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "summary": "US President Donald Trump has issued a waiver of sanctions, restrictions, and duties under the Sanctions on Russia and Iran Act, citing national interest.",
+      "summaryEn": "US President Donald Trump has issued a waiver of sanctions, restrictions, and duties under the Sanctions on Russia and Iran Act, citing national interest.",
+      "body": "Petrol and diesel prices today, October 17: Petrol and diesel prices remained steady across major cities today, with no revisions announced by oil marketing companies.\nThe cost of fuel varies across states and cities due to local taxes (Value Added T...",
+      "bodyEn": "Petrol and diesel prices today, October 17: Petrol and diesel prices remained steady across major cities today, with no revisions announced by oil marketing companies.\nThe cost of fuel varies across states and cities due to local taxes (Value Added T..."
+    },
+    {
+      "id": "live-1792324592766-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-16",
       "source": "Swissinfo (EN)",
-      "featured": true,
+      "featured": false,
       "url": "https://www.swissinfo.ch/eng/global-trade/fuel-prices-in-switzerland-are-rising-again/92228358",
       "isLive": true,
       "title": "Fuel prices rise again in Switzerland",
@@ -19,7 +70,7 @@
       "bodyEn": "‘Switzerland is a partial member of the EU,’ says historian\nRead more: ‘Switzerland is a partial member of the EU,’ says historian\nRising inequality, diesel deal and another execution\nRead more: Rising inequality, diesel deal and another execution\nSw..."
     },
     {
-      "id": "live-1792236220989-1",
+      "id": "live-1792324592766-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "The Centre on October 16 slashed the windfall tax on diesel overseas shipments while sharply raising the levy on petrol.\nAccording to a Finance Ministry notification issued late on October 15, the combined Special Additional Excise Duty (SAED) and ro..."
     },
     {
-      "id": "live-1792236220989-2",
+      "id": "live-1792324592766-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +104,7 @@
       "bodyEn": "Nine Years, Made Possible by Readers\nIn 2017, Shekhar Gupta started ThePrint with a simple belief: Indian readers want journalism that asks why and what next, not just what. And that enough of them would be willing to pay for good journalism.\nNine ye..."
     },
     {
-      "id": "live-1792236220989-3",
+      "id": "live-1792324592766-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Amid growing concerns over fuel supplies during the conflict in West Asia, the government on Friday cut the windfall tax on diesel exports and raised the levy on petrol exports for the fortnight beginning October 16.\nThe duty on petrol exports has be..."
     },
     {
-      "id": "live-1792236220989-4",
+      "id": "live-1792324592766-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices remained stable on October 16 in major cities, including Delhi and Mumbai. The government reviews the tax every 15 days based on international oil prices.\nThe government has amended the windfall tax on petrol and diesel expor..."
     },
     {
-      "id": "live-1792236220989-5",
+      "id": "live-1792324592766-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +155,7 @@
       "bodyEn": "The government has raised the windfall tax on petrol exports to Rs 2.5 per litre from Rs 0.5 per litre, while cutting the duty on diesel exports to Rs 8.5 per litre from Rs 16 per litre, according to a government order issued late Thursday.\nThe revis..."
     },
     {
-      "id": "live-1792236220989-6",
+      "id": "live-1792324592766-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -121,58 +172,7 @@
       "bodyEn": "The government has raised the windfall tax on petrol exports to Rs 2.5 per litre from Rs 0.5 per litre, while cutting the duty on diesel exports to Rs 8.5 per litre from Rs 16 per litre, according to a government order issued late Thursday.\nThe revis..."
     },
     {
-      "id": "live-1792236220989-7",
-      "flag": "📰",
-      "category": "Ю. Америка",
-      "categoryEn": "S. America",
-      "date": "2026-10-16",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-16-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11792117977001.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today, October 16: How much does fuel cost in Delhi, Mumbai, Bengaluru",
-      "titleEn": "Petrol and diesel prices today, October 16: How much does fuel cost in Delhi, Mumbai, Bengaluru",
-      "summary": "Oil prices edged lower on Friday morning as investors balanced escalating geopolitical tensions in the Middle East against potential US moves to ease sanctions on the global “shadow fleet” of oil tankers.",
-      "summaryEn": "Oil prices edged lower on Friday morning as investors balanced escalating geopolitical tensions in the Middle East against potential US moves to ease sanctions on the global “shadow fleet” of oil tankers.",
-      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
-      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
-    },
-    {
-      "id": "live-1792236220990-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-16",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/windfall-tax-diesel-exports-petrol-exports-atf-west-asia-war-crude-oil-prices-oil-marketing-companies-11792117561587.html",
-      "isLive": true,
-      "title": "Centre cuts windfall tax on diesel exports, raises levy on petrol",
-      "titleEn": "Centre cuts windfall tax on diesel exports, raises levy on petrol",
-      "summary": "The Centre has cut the diesel export levy to ₹8.50 a litre and raised the petrol levy to ₹2.50, while keeping the aviation turbine fuel duty unchanged amid rising oil prices.",
-      "summaryEn": "The Centre has cut the diesel export levy to ₹8.50 a litre and raised the petrol levy to ₹2.50, while keeping the aviation turbine fuel duty unchanged amid rising oil prices.",
-      "body": "The Centre has cut the windfall tax on diesel exports while raising the levy on petrol exports for the fortnight beginning 16 October, amid escalating tensions in West Asia and rising oil prices.\nThe combined rate of special additional excise duty (S...",
-      "bodyEn": "The Centre has cut the windfall tax on diesel exports while raising the levy on petrol exports for the fortnight beginning 16 October, amid escalating tensions in West Asia and rising oil prices.\nThe combined rate of special additional excise duty (S..."
-    },
-    {
-      "id": "live-1792236220990-9",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-10-16",
-      "source": "Bloomberg",
-      "featured": false,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/india-hikes-petrol-export-levy-slashes-diesel-duty",
-      "isLive": true,
-      "title": "India Hikes Petrol Export Levy, Slashes Diesel Duty",
-      "titleEn": "India Hikes Petrol Export Levy, Slashes Diesel Duty",
-      "summary": "India revised export levies on petrol and diesel for the next fortnight while keeping the duty on aviation turbine fuel unchanged, as the government continues to adjust the charges in line with international energy prices and domestic supply conditions, according to a Thursday circular.",
-      "summaryEn": "India revised export levies on petrol and diesel for the next fortnight while keeping the duty on aviation turbine fuel unchanged, as the government continues to adjust the charges in line with international energy prices and domestic supply conditions, according to a Thursday circular.",
-      "body": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor...",
-      "bodyEn": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nConnecting decision makers to a dynamic network of infor..."
-    },
-    {
-      "id": "live-1792236220990-10",
+      "id": "live-1792324592766-10",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
