@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-21",
   "articles": [
     {
-      "id": "live-1792499544731-0",
+      "id": "live-1792586606362-0",
+      "flag": "📰",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-10-20",
+      "source": "Business Today",
+      "featured": true,
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-20-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-562589-2026-10-20",
+      "isLive": true,
+      "title": "Petrol, diesel prices today (October 20): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "titleEn": "Petrol, diesel prices today (October 20): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "summary": "However, the outlook for crude oil remains uncertain as geopolitical tensions in the West Asia continue to threaten energy supplies and shipping routes.",
+      "summaryEn": "However, the outlook for crude oil remains uncertain as geopolitical tensions in the West Asia continue to threaten energy supplies and shipping routes.",
+      "body": "The decline followed US President Donald Trump’s decision to waive certain sanctions and tariffs on Russia, raising expectations of increased fuel supplies to the global market.\nHowever, the outlook for crude oil remains uncertain as geopolitical ten...",
+      "bodyEn": "The decline followed US President Donald Trump’s decision to waive certain sanctions and tariffs on Russia, raising expectations of increased fuel supplies to the global market.\nHowever, the outlook for crude oil remains uncertain as geopolitical ten..."
+    },
+    {
+      "id": "live-1792586606363-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-20",
+      "source": "News18",
+      "featured": false,
+      "url": "https://www.news18.com/business/economy/petrol-diesel-prices-today-october-20-check-fuel-rates-in-delhi-mumbai-kolkata-chennai-10389460.html",
+      "isLive": true,
+      "title": "Petrol, Diesel Prices Today, October 20: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
+      "titleEn": "Petrol, Diesel Prices Today, October 20: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
+      "summary": "Petrol, Diesel Price Today, October 20: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.",
+      "summaryEn": "Petrol, Diesel Price Today, October 20: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.",
+      "body": "Petrol, Diesel Price Today, October 20: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, October 20: Petrol and diesel prices remai...",
+      "bodyEn": "Petrol, Diesel Price Today, October 20: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, October 20: Petrol and diesel prices remai..."
+    },
+    {
+      "id": "live-1792586606363-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-10-19",
       "source": "The Economic Times",
-      "featured": true,
+      "featured": false,
       "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/carmakers-gear-up-with-multi-powertrain-models-as-indian-buyers-shift-beyond-petrol-diesel/articleshow/135054934.cms",
       "isLive": true,
       "title": "Carmakers gear up with multi-powertrain models as Indian buyers shift beyond petrol, diesel",
@@ -19,7 +53,7 @@
       "bodyEn": "Synopsis\nCar manufacturers are expanding powertrain offerings by introducing electric, CNG, hybrid, and petrol options. Companies like Renault and Stellantis are addressing regional demands for efficient engines and diverse vehicles. The rising fuel ..."
     },
     {
-      "id": "live-1792499544732-1",
+      "id": "live-1792586606363-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Figures from the Office for National Statistics are expected to show fuel prices pushed inflation to around 3.4% in September\nSoaring pump prices drove inflation to around 3.4% last month, figures out later this week are expected to show.\nThe jump in..."
     },
     {
-      "id": "live-1792499544732-2",
+      "id": "live-1792586606363-4",
       "flag": "🇷🇺",
       "category": "Россия",
       "categoryEn": "Russia",
@@ -53,7 +87,7 @@
       "bodyEn": "Global crude oil prices declined on Monday after reaching a five-month high near $109 per barrel on Friday, offering some relief amid persistent geopolitical tensions and supply concerns.\nBrent crude fell 1.88% to $107.80 per barrel, while US benchma..."
     },
     {
-      "id": "live-1792499544732-3",
+      "id": "live-1792586606363-5",
       "flag": "🇸🇦",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Petrol, diesel rates across India remained unchanged again today. CNG prices are also holding steady.\nBrent crude fell to $108 per barrel in early Asian trade after jumping almost 4% on Friday October 17. WTI for November delivery dropped 0.7% to $10..."
     },
     {
-      "id": "live-1792499544732-4",
+      "id": "live-1792586606363-6",
       "flag": "📰",
       "category": "Ближний Восток",
       "categoryEn": "Middle East",
@@ -87,7 +121,7 @@
       "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices are likely to remain in focus on October 19 as retail fuel rates across major Indian cities stay unchanged, despite a slight decline in international crude oil prices. Brent crude futures fell ..."
     },
     {
-      "id": "live-1792499544732-5",
+      "id": "live-1792586606364-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1792499544732-6",
+      "id": "live-1792586606364-8",
       "flag": "🇪🇺",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -121,7 +155,7 @@
       "bodyEn": "Prime Minister Kyriakos Mitsotakis has addressed measures to support households and businesses amid the energy crisis, the decisions taken at the recent European Council summit, and government initiatives to protect minors on social media in his regu..."
     },
     {
-      "id": "live-1792499544732-7",
+      "id": "live-1792586606364-9",
       "flag": "📰",
       "category": "Ю. Америка",
       "categoryEn": "S. America",
@@ -138,41 +172,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1792499544732-8",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-18",
-      "source": "Business Today",
-      "featured": false,
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-18-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-562276-2026-10-18",
-      "isLive": true,
-      "title": "Petrol, diesel prices today (October 18): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "titleEn": "Petrol, diesel prices today (October 18): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "summary": "The jump in crude oil prices came after Iran escalated attacks in the Strait of Hormuz, severely disrupting commercial shipping and petroleum transit through the strategically vital waterway.",
-      "summaryEn": "The jump in crude oil prices came after Iran escalated attacks in the Strait of Hormuz, severely disrupting commercial shipping and petroleum transit through the strategically vital waterway.",
-      "body": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 17, even as global crude oil prices eased from recent highs. Brent crude fell neared $109.9 per barrel, while US West Texas Intermediate...",
-      "bodyEn": "Petrol and diesel prices today: Petrol and diesel prices remained unchanged across major Indian cities on October 17, even as global crude oil prices eased from recent highs. Brent crude fell neared $109.9 per barrel, while US West Texas Intermediate..."
-    },
-    {
-      "id": "live-1792499544732-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-17",
-      "source": "Northern Echo",
-      "featured": false,
-      "url": "https://www.thenorthernecho.co.uk/news/26643354.cheapest-petrol-diesel-prices-darlington-weekend/",
-      "isLive": true,
-      "title": "Cheapest petrol and diesel prices in Darlington this weekend",
-      "titleEn": "Cheapest petrol and diesel prices in Darlington this weekend",
-      "summary": "Here's a list of the cheapest garages in and around Darlington this weekend, according to petrolprices.com.",
-      "summaryEn": "Here's a list of the cheapest garages in and around Darlington this weekend, according to petrolprices.com.",
-      "body": "But it's no secret that the prices can quickly burn a hole in your bank account.\nTo help you get the best deal on your petrol or diesel this weekend, we've compiled a list of the cheapest garages in and around Darlington.\nPetrolprices.com gets its in...",
-      "bodyEn": "But it's no secret that the prices can quickly burn a hole in your bank account.\nTo help you get the best deal on your petrol or diesel this weekend, we've compiled a list of the cheapest garages in and around Darlington.\nPetrolprices.com gets its in..."
-    },
-    {
-      "id": "live-1792499544732-10",
+      "id": "live-1792586606364-10",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
