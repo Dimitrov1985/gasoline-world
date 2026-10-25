@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-10-24",
+  "lastUpdated": "2026-10-25",
   "articles": [
     {
-      "id": "live-1792842663149-0",
+      "id": "live-1792930857948-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-24",
+      "source": "Birmingham Live",
+      "featured": true,
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-government-confirms-change-34783714",
+      "isLive": true,
+      "title": "Andy Burnham government confirms change for every petrol and diesel driver to give 'breathing space'",
+      "titleEn": "Andy Burnham government confirms change for every petrol and diesel driver to give 'breathing space'",
+      "summary": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK",
+      "summaryEn": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK",
+      "body": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK\nAndy Burnham and John Healey have confirmed \"breathing space\" for every petrol and diesel driver with the rollout of a new rule. Real-time fuel prices are now on Goo...",
+      "bodyEn": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK\nAndy Burnham and John Healey have confirmed \"breathing space\" for every petrol and diesel driver with the rollout of a new rule. Real-time fuel prices are now on Goo..."
+    },
+    {
+      "id": "live-1792930857949-1",
+      "flag": "🇸🇦",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-24",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-24-check-fuel-cost-in-delhi-mumbai-bengaluru-11792812146331.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "summary": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
+      "summaryEn": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
+      "body": "Petrol and diesel prices today, October 24: Petrol and diesel prices remained steady across major cities today, with no revisions announced by oil marketing companies (OMCs).\nThe cost of fuel varies across states and cities due to local taxes (Value ...",
+      "bodyEn": "Petrol and diesel prices today, October 24: Petrol and diesel prices remained steady across major cities today, with no revisions announced by oil marketing companies (OMCs).\nThe cost of fuel varies across states and cities due to local taxes (Value ..."
+    },
+    {
+      "id": "live-1792930857949-2",
       "flag": "🇸🇦",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-23",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-23-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11792719736435.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, October 23: How much does fuel cost in Delhi, Mumbai, Bengaluru",
@@ -19,7 +53,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1792842663149-1",
+      "id": "live-1792930857949-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "A potential 10% Auto Development Levy on petrol and diesel vehicles could make new cars more expensive. Here’s what prospective buyers should know before making their next purchase.\nPakistan’s automotive sector may be heading toward an important poli..."
     },
     {
-      "id": "live-1792842663150-2",
+      "id": "live-1792930857949-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +87,7 @@
       "bodyEn": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nMotorists in several Indian cities are paying less for petrol and diesel than consumers in Dubai, according to fuel prices as of October 22, 2026. The diff..."
     },
     {
-      "id": "live-1792842663150-3",
+      "id": "live-1792930857949-5",
       "flag": "🇮🇳",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Petrol and diesel are cheaper in several Indian cities than in the UAE, where fuel prices rose sharply in October. However, the comparison varies by city and petrol grade.\nFor years, the UAE has been associated with relatively affordable fuel. But a ..."
     },
     {
-      "id": "live-1792842663150-4",
+      "id": "live-1792930857949-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "WITH average petrol prices at a four-year high and diesel prices breaking records, we’ve created an interactive tool to help you find the cheapest fuel stations near you.\nThe average price of unleaded is now 173.98 a litre, the highest price since th..."
     },
     {
-      "id": "live-1792842663150-5",
+      "id": "live-1792930857949-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "Last Updated:October 22, 2026, 13:48 IST\nPetrol in Delhi is nearly Rs 8 cheaper per litre than Dubai, while the difference for diesel is over Rs 28, according to October 22 prices.\nPetrol and diesel prices across several Indian cities are currently l..."
     },
     {
-      "id": "live-1792842663150-6",
+      "id": "live-1792930857949-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -121,7 +155,7 @@
       "bodyEn": "Petrol and diesel prices remained unchanged across 14 cities on 22 October. CNG prices rose in nine locations while four locations recorded no change. Chennai, Mathura and Meerut recorded the biggest CNG increases, at ₹2 each.\nPetrol and diesel price..."
     },
     {
-      "id": "live-1792842663150-7",
+      "id": "live-1792930857949-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,41 +172,7 @@
       "bodyEn": "There has been a rare reprieve for Perth motorists at the bowser, with the average cost of petrol trending downwards this week.\nLast Wednesday, unleaded petrol in the metro area soared to a new average weekly high of $2.45 a litre amid predictions th..."
     },
     {
-      "id": "live-1792842663150-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-21",
-      "source": "Daily Record",
-      "featured": false,
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/uk-inflation-rises-highest-rate-37793543",
-      "isLive": true,
-      "title": "UK inflation rises to highest rate in almost a year as fuel prices spike by 30 per cent",
-      "titleEn": "UK inflation rises to highest rate in almost a year as fuel prices spike by 30 per cent",
-      "summary": "Petrol and diesel has soared by a whopping 30 per cent new data revealed.",
-      "summaryEn": "Petrol and diesel has soared by a whopping 30 per cent new data revealed.",
-      "body": "Petrol and diesel has soared by a whopping 30 per cent new data revealed.\nHard up Scots continue to be hit in the pocket as inflation has risen to its highest rate in almost a year across the UK, new figures revealed.\nThe cost of living was pushed up...",
-      "bodyEn": "Petrol and diesel has soared by a whopping 30 per cent new data revealed.\nHard up Scots continue to be hit in the pocket as inflation has risen to its highest rate in almost a year across the UK, new figures revealed.\nThe cost of living was pushed up..."
-    },
-    {
-      "id": "live-1792842663150-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-21",
-      "source": "The Mirror",
-      "featured": false,
-      "url": "https://www.mirror.co.uk/money/inflation-september-fuel-diesel-price-37793396",
-      "isLive": true,
-      "title": "Inflation rises to 3.5% as diesel and petrol prices push up cost of living",
-      "titleEn": "Inflation rises to 3.5% as diesel and petrol prices push up cost of living",
-      "summary": "Inflation is a measure of the rate at which the level of prices for goods and services rises over time - when it is higher, you get less for your money than you did before",
-      "summaryEn": "Inflation is a measure of the rate at which the level of prices for goods and services rises over time - when it is higher, you get less for your money than you did before",
-      "body": "Inflation is a measure of the rate at which the level of prices for goods and services rises over time - when it is higher, you get less for your money than you did before\nInflation rose by more than expected in September and is now at its highest le...",
-      "bodyEn": "Inflation is a measure of the rate at which the level of prices for goods and services rises over time - when it is higher, you get less for your money than you did before\nInflation rose by more than expected in September and is now at its highest le..."
-    },
-    {
-      "id": "live-1792842663150-10",
+      "id": "live-1792930857950-10",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
