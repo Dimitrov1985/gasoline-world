@@ -1,14 +1,65 @@
 {
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-10-28",
   "articles": [
     {
-      "id": "live-1793105934208-0",
+      "id": "live-1793195404764-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-10-28",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-28-check-fuel-rates-in-different-cities-across-india-11793150045980.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 28: Check fuel rates in different cities across India",
+      "titleEn": "Petrol and diesel prices today, October 28: Check fuel rates in different cities across India",
+      "summary": "Check petrol and diesel prices in major Indian cities on October 28. CNG prices rose in several locations, with increases of up to ₹2 in Chennai, Mathura and Meerut.",
+      "summaryEn": "Check petrol and diesel prices in major Indian cities on October 28. CNG prices rose in several locations, with increases of up to ₹2 in Chennai, Mathura and Meerut.",
+      "body": "Petrol and diesel prices remain unchanged across major Indian cities today. However, CNG prices have increased in several places, including Mumbai, Chennai and Bengaluru. Fuel rates continue to differ widely between cities.\nNew Delhi records petrol a...",
+      "bodyEn": "Petrol and diesel prices remain unchanged across major Indian cities today. However, CNG prices have increased in several places, including Mumbai, Chennai and Bengaluru. Fuel rates continue to differ widely between cities.\nNew Delhi records petrol a..."
+    },
+    {
+      "id": "live-1793195404764-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-27",
+      "source": "The Independent",
+      "featured": false,
+      "url": "https://www.independent.co.uk/news/uk/home-news/budget-fuel-duty-petrol-diesel-prices-b3074084.html",
+      "isLive": true,
+      "title": "Drivers demand fuel VAT cut in Budget as record petrol and diesel prices force spending cuts",
+      "titleEn": "Drivers demand fuel VAT cut in Budget as record petrol and diesel prices force spending cuts",
+      "summary": "A 5p cut to fuel duty has been in place since spring 2022",
+      "summaryEn": "A 5p cut to fuel duty has been in place since spring 2022",
+      "body": "One in three drivers wants the Chancellor to cut VAT on fuel in this week's Budget, according to the RAC.\nThe motoring organisation's survey found that a reduction would be more popular than a cut to fuel duty when John Healey makes his announcement....",
+      "bodyEn": "One in three drivers wants the Chancellor to cut VAT on fuel in this week's Budget, according to the RAC.\nThe motoring organisation's survey found that a reduction would be more popular than a cut to fuel duty when John Healey makes his announcement...."
+    },
+    {
+      "id": "live-1793195404764-2",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-10-27",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-27-check-fuel-rates-in-different-cities-across-india-11793063827695.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 27: Check fuel rates in different cities across India",
+      "titleEn": "Petrol and diesel prices today, October 27: Check fuel rates in different cities across India",
+      "summary": "Check petrol, diesel and CNG prices on October 27. Chandigarh recorded the lowest prices for both petrol and diesel. CNG rose in multiple cities, including a ₹2 increase in Chennai, Mathura and Meerut.",
+      "summaryEn": "Check petrol, diesel and CNG prices on October 27. Chandigarh recorded the lowest prices for both petrol and diesel. CNG rose in multiple cities, including a ₹2 increase in Chennai, Mathura and Meerut.",
+      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
+      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
+    },
+    {
+      "id": "live-1793195404765-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-27",
       "source": "ITV News",
-      "featured": true,
+      "featured": false,
       "url": "https://www.itv.com/news/2026-10-26/snp-call-for-action-as-burnham-asleep-at-the-wheel-as-fuel-prices-rise",
       "isLive": true,
       "title": "SNP call for action as Burnham ‘asleep at the wheel’ as fuel prices rise",
@@ -19,7 +70,7 @@
       "bodyEn": "Prime Minister Andy Burnham has been accused of being “asleep at the wheel” while motorists are having to pay increasing amounts to fill up with either petrol or diesel.\nThe SNP has challenged the UK Government to scrap the VAT on fuel in Wednesday’s..."
     },
     {
-      "id": "live-1793105934324-1",
+      "id": "live-1793195404765-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "SNP energy spokesman Graham Leadbitter wants the Government to remove the VAT on petrol and diesel during the current fuel price crisis.\nThe UK Government is being urged to scrap VAT on petrol and diesel in this week’s Budget (Jacob King/PA)\nKatrine ..."
     },
     {
-      "id": "live-1793105934324-2",
+      "id": "live-1793195404765-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +104,7 @@
       "bodyEn": "Synopsis\nIndia's petroleum product export earnings increased significantly in April to September, driven by high international prices. While the volume of shipments declined by 16%, earnings surged by nearly 50% in rupee terms. Diesel exports were th..."
     },
     {
-      "id": "live-1793105934325-3",
+      "id": "live-1793195404765-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Islamabad [Pakistan], October 27 (ANI): T.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.he Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1\nFollowing the latest revision, petr..."
     },
     {
-      "id": "live-1793105934325-4",
+      "id": "live-1793195404765-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "Islamabad [Pakistan], October 27 (ANI): The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.\nFollowing the latest revision, petr..."
     },
     {
-      "id": "live-1793105934325-5",
+      "id": "live-1793195404765-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "The latest data from RAC Fuel Watch shows that drivers are still paying high prices at the pumps after diesel reached its highest-ever level earlier this month.\nMotorists are paying an average of 173.98p for petrol, while diesel drivers are still pay..."
     },
     {
-      "id": "live-1793105934325-6",
+      "id": "live-1793195404765-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -119,57 +170,6 @@
       "summaryEn": "CNG prices have risen in Mumbai, Chennai, Bengaluru and other locations. Check petrol, diesel and CNG prices today.",
       "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
-    },
-    {
-      "id": "live-1793105934325-7",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-10-25",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/money/fuel-prices-today-check-petrol-diesel-and-cng-rates-on-25-october-in-different-cities-across-india-11792891983344.html",
-      "isLive": true,
-      "title": "Fuel prices today: Check petrol, diesel and CNG rates on 25 October in different cities across India",
-      "titleEn": "Fuel prices today: Check petrol, diesel and CNG rates on 25 October in different cities across India",
-      "summary": "Fuel prices were mostly steady on 25 October though CNG became costlier in several cities.",
-      "summaryEn": "Fuel prices were mostly steady on 25 October though CNG became costlier in several cities.",
-      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
-      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
-    },
-    {
-      "id": "live-1793105934325-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-24",
-      "source": "Birmingham Live",
-      "featured": false,
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-government-confirms-change-34783714",
-      "isLive": true,
-      "title": "Andy Burnham government confirms change for every petrol and diesel driver to give 'breathing space'",
-      "titleEn": "Andy Burnham government confirms change for every petrol and diesel driver to give 'breathing space'",
-      "summary": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK",
-      "summaryEn": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK",
-      "body": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK\nAndy Burnham and John Healey have confirmed \"breathing space\" for every petrol and diesel driver with the rollout of a new rule. Real-time fuel prices are now on Goo...",
-      "bodyEn": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK\nAndy Burnham and John Healey have confirmed \"breathing space\" for every petrol and diesel driver with the rollout of a new rule. Real-time fuel prices are now on Goo..."
-    },
-    {
-      "id": "live-1793105934325-9",
-      "flag": "🇸🇦",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-24",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-24-check-fuel-cost-in-delhi-mumbai-bengaluru-11792812146331.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
-      "titleEn": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
-      "summary": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
-      "summaryEn": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
-      "body": "Petrol and diesel prices today, October 24: Petrol and diesel prices remained steady across major cities today, with no revisions announced by oil marketing companies (OMCs).\nThe cost of fuel varies across states and cities due to local taxes (Value ...",
-      "bodyEn": "Petrol and diesel prices today, October 24: Petrol and diesel prices remained steady across major cities today, with no revisions announced by oil marketing companies (OMCs).\nThe cost of fuel varies across states and cities due to local taxes (Value ..."
     }
   ]
 }
