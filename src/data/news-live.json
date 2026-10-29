@@ -1,25 +1,76 @@
 {
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "articles": [
     {
-      "id": "live-1793195404764-0",
+      "id": "live-1793282198091-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-10-29",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-29-check-fuel-rates-in-different-cities-across-india-11793237728806.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 29: Check fuel rates in different cities across India",
+      "titleEn": "Petrol and diesel prices today, October 29: Check fuel rates in different cities across India",
+      "summary": "Fuel prices were steady for petrol and diesel across major cities, but CNG became costlier in many locations.",
+      "summaryEn": "Fuel prices were steady for petrol and diesel across major cities, but CNG became costlier in many locations.",
+      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
+      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
+    },
+    {
+      "id": "live-1793282198091-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-28",
+      "source": "Moneycontrol",
+      "featured": false,
+      "url": "https://www.moneycontrol.com/news/business/economy/omcs-likely-to-face-rs-64-000-cr-auto-fuel-under-recoveries-in-fy27-if-crude-stays-at-115-bbl-14062595.html",
+      "isLive": true,
+      "title": "OMCs likely to face Rs 64,000 cr auto-fuel under-recoveries in FY27 if crude stays at $115/bbl",
+      "titleEn": "OMCs likely to face Rs 64,000 cr auto-fuel under-recoveries in FY27 if crude stays at $115/bbl",
+      "summary": "Rating agency Icra estimates if crude oil prices remain between $105-$115 per barrel range in the second half of FY27 with no hike in retail fuel prices, the OMCs could face under-recoveries of over Rs 64,000 crore on the sale of petrol and diesel for 2026-27.",
+      "summaryEn": "Rating agency Icra estimates if crude oil prices remain between $105-$115 per barrel range in the second half of FY27 with no hike in retail fuel prices, the OMCs could face under-recoveries of over Rs 64,000 crore on the sale of petrol and diesel for 2026-27.",
+      "body": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nAs the West Asia war nears its eighth month, the question for India is how long it can shield consumers from elevated oil prices before the burden becomes ...",
+      "bodyEn": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nAs the West Asia war nears its eighth month, the question for India is how long it can shield consumers from elevated oil prices before the burden becomes ..."
+    },
+    {
+      "id": "live-1793282198092-2",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-10-28",
+      "source": "Business Today",
+      "featured": false,
+      "url": "https://www.businesstoday.in/latest/economy/story/petrol-diesel-prices-may-rise-after-diwali-what-crude-oil-at-140-a-barrel-means-for-consumers-564314-2026-10-28",
+      "isLive": true,
+      "title": "Petrol, diesel prices may rise after Diwali: What crude oil at $140 a barrel means for consumers",
+      "titleEn": "Petrol, diesel prices may rise after Diwali: What crude oil at $140 a barrel means for consumers",
+      "summary": "Petrol and diesel prices could rise after Diwali as surging crude oil prices and higher shipping costs increase pressure on the government and oil marketing companies, energy expert Narendra Taneja told Business Today TV. With dated Brent touching $140 per barrel, the key question is how long India can shield consumers from rising fuel costs.",
+      "summaryEn": "Petrol and diesel prices could rise after Diwali as surging crude oil prices and higher shipping costs increase pressure on the government and oil marketing companies, energy expert Narendra Taneja told Business Today TV. With dated Brent touching $140 per barrel, the key question is how long India can shield consumers from rising fuel costs.",
+      "body": "MUST READ: Indian gasoline demand to peak by 2035 as EVs, ethanol blending gain ground: IOC chairman\nThe pressure extends beyond headline crude prices. Brent crude has climbed above $110 per barrel, while dated Brent has touched $140, according to an...",
+      "bodyEn": "MUST READ: Indian gasoline demand to peak by 2035 as EVs, ethanol blending gain ground: IOC chairman\nThe pressure extends beyond headline crude prices. Brent crude has climbed above $110 per barrel, while dated Brent has touched $140, according to an..."
+    },
+    {
+      "id": "live-1793282198092-3",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-10-28",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-28-check-fuel-rates-in-different-cities-across-india-11793150045980.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, October 28: Check fuel rates in different cities across India",
       "titleEn": "Petrol and diesel prices today, October 28: Check fuel rates in different cities across India",
       "summary": "Check petrol and diesel prices in major Indian cities on October 28. CNG prices rose in several locations, with increases of up to ₹2 in Chennai, Mathura and Meerut.",
       "summaryEn": "Check petrol and diesel prices in major Indian cities on October 28. CNG prices rose in several locations, with increases of up to ₹2 in Chennai, Mathura and Meerut.",
-      "body": "Petrol and diesel prices remain unchanged across major Indian cities today. However, CNG prices have increased in several places, including Mumbai, Chennai and Bengaluru. Fuel rates continue to differ widely between cities.\nNew Delhi records petrol a...",
-      "bodyEn": "Petrol and diesel prices remain unchanged across major Indian cities today. However, CNG prices have increased in several places, including Mumbai, Chennai and Bengaluru. Fuel rates continue to differ widely between cities.\nNew Delhi records petrol a..."
+      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
+      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1793195404764-1",
+      "id": "live-1793282198092-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +87,7 @@
       "bodyEn": "One in three drivers wants the Chancellor to cut VAT on fuel in this week's Budget, according to the RAC.\nThe motoring organisation's survey found that a reduction would be more popular than a cut to fuel duty when John Healey makes his announcement...."
     },
     {
-      "id": "live-1793195404764-2",
+      "id": "live-1793282198092-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +104,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1793195404765-3",
+      "id": "live-1793282198092-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Prime Minister Andy Burnham has been accused of being “asleep at the wheel” while motorists are having to pay increasing amounts to fill up with either petrol or diesel.\nThe SNP has challenged the UK Government to scrap the VAT on fuel in Wednesday’s..."
     },
     {
-      "id": "live-1793195404765-4",
+      "id": "live-1793282198092-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +138,7 @@
       "bodyEn": "SNP energy spokesman Graham Leadbitter wants the Government to remove the VAT on petrol and diesel during the current fuel price crisis.\nThe UK Government is being urged to scrap VAT on petrol and diesel in this week’s Budget (Jacob King/PA)\nKatrine ..."
     },
     {
-      "id": "live-1793195404765-5",
+      "id": "live-1793282198092-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +155,7 @@
       "bodyEn": "Synopsis\nIndia's petroleum product export earnings increased significantly in April to September, driven by high international prices. While the volume of shipments declined by 16%, earnings surged by nearly 50% in rupee terms. Diesel exports were th..."
     },
     {
-      "id": "live-1793195404765-6",
+      "id": "live-1793282198092-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -119,57 +170,6 @@
       "summaryEn": "The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.",
       "body": "Islamabad [Pakistan], October 27 (ANI): T.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.he Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1\nFollowing the latest revision, petr...",
       "bodyEn": "Islamabad [Pakistan], October 27 (ANI): T.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.he Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1\nFollowing the latest revision, petr..."
-    },
-    {
-      "id": "live-1793195404765-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-26",
-      "source": "ANI (Asian News International)",
-      "featured": false,
-      "url": "https://www.aninews.in/news/world/asia/pakistan-burdens-public-again-as-govt-hikes-petrol-price-by-rs-154-diesel-by-rs-216-per-litre20261027050738/",
-      "isLive": true,
-      "title": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre",
-      "titleEn": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre",
-      "summary": "The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.",
-      "summaryEn": "The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.",
-      "body": "Islamabad [Pakistan], October 27 (ANI): The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.\nFollowing the latest revision, petr...",
-      "bodyEn": "Islamabad [Pakistan], October 27 (ANI): The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.\nFollowing the latest revision, petr..."
-    },
-    {
-      "id": "live-1793195404765-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-26",
-      "source": "GB News",
-      "featured": false,
-      "url": "https://www.gbnews.com/lifestyle/cars/petrol-diesel-prices-warning-consequences",
-      "isLive": true,
-      "title": "Petrol and diesel prices remain high amid dire warning - 'Consequences spread throughout the economy'",
-      "titleEn": "Petrol and diesel prices remain high amid dire warning - 'Consequences spread throughout the economy'",
-      "summary": "Petrol and diesel prices remain high amid dire warning - 'Consequences spread throughout the economy' . A prominent campaign group has called on the Government to urgently help small businesses across the UK struggling with high fuel prices",
-      "summaryEn": "Petrol and diesel prices remain high amid dire warning - 'Consequences spread throughout the economy' . A prominent campaign group has called on the Government to urgently help small businesses across the UK struggling with high fuel prices",
-      "body": "The latest data from RAC Fuel Watch shows that drivers are still paying high prices at the pumps after diesel reached its highest-ever level earlier this month.\nMotorists are paying an average of 173.98p for petrol, while diesel drivers are still pay...",
-      "bodyEn": "The latest data from RAC Fuel Watch shows that drivers are still paying high prices at the pumps after diesel reached its highest-ever level earlier this month.\nMotorists are paying an average of 173.98p for petrol, while diesel drivers are still pay..."
-    },
-    {
-      "id": "live-1793195404765-9",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-10-26",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/fuel-prices-today-check-petrol-diesel-and-cng-rates-on-26-october-in-different-cities-across-india-11792977854922.html",
-      "isLive": true,
-      "title": "Fuel prices today: Check petrol, diesel and CNG rates on 26 October in different cities across India",
-      "titleEn": "Fuel prices today: Check petrol, diesel and CNG rates on 26 October in different cities across India",
-      "summary": "CNG prices have risen in Mumbai, Chennai, Bengaluru and other locations. Check petrol, diesel and CNG prices today.",
-      "summaryEn": "CNG prices have risen in Mumbai, Chennai, Bengaluru and other locations. Check petrol, diesel and CNG prices today.",
-      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
-      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     }
   ]
 }
