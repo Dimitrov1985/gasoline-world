@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-10-29",
+  "lastUpdated": "2026-10-30",
   "articles": [
     {
-      "id": "live-1793282198091-0",
+      "id": "live-1793368269144-0",
+      "flag": "📰",
+      "category": "Ю. Америка",
+      "categoryEn": "S. America",
+      "date": "2026-10-30",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-30-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11793322230821.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, October 30: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
+      "titleEn": "Petrol and diesel prices today, October 30: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
+      "summary": "While global oil prices have fluctuated amid escalating geopolitical tensions in the Middle East, domestic retail prices have remained unchanged.",
+      "summaryEn": "While global oil prices have fluctuated amid escalating geopolitical tensions in the Middle East, domestic retail prices have remained unchanged.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1793368269145-1",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-10-29",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-29-check-fuel-rates-in-different-cities-across-india-11793237728806.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, October 29: Check fuel rates in different cities across India",
@@ -19,7 +36,24 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1793282198091-1",
+      "id": "live-1793368269145-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-10-28",
+      "source": "The Daily Star",
+      "featured": false,
+      "url": "https://www.thedailystar.net/news/power-and-energy/news/fuel-prices-remain-unchanged-november-4310701",
+      "isLive": true,
+      "title": "Fuel prices remain unchanged in November",
+      "titleEn": "Fuel prices remain unchanged in November",
+      "summary": "Diesel will continue to sell at Tk 135 per litre, octane at Tk 165, petrol at Tk 160, and kerosene at Tk 155",
+      "summaryEn": "Diesel will continue to sell at Tk 135 per litre, octane at Tk 165, petrol at Tk 160, and kerosene at Tk 155",
+      "body": "The government has kept the prices of diesel, octane, petrol, and kerosene unchanged for the month November.\nAccording to a notification issued by the Energy and Mineral Resources Division today, the prices fixed on September 20 will remain in force ...",
+      "bodyEn": "The government has kept the prices of diesel, octane, petrol, and kerosene unchanged for the month November.\nAccording to a notification issued by the Energy and Mineral Resources Division today, the prices fixed on September 20 will remain in force ..."
+    },
+    {
+      "id": "live-1793368269145-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Market Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nAs the West Asia war nears its eighth month, the question for India is how long it can shield consumers from elevated oil prices before the burden becomes ..."
     },
     {
-      "id": "live-1793282198092-2",
+      "id": "live-1793368269145-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +87,7 @@
       "bodyEn": "MUST READ: Indian gasoline demand to peak by 2035 as EVs, ethanol blending gain ground: IOC chairman\nThe pressure extends beyond headline crude prices. Brent crude has climbed above $110 per barrel, while dated Brent has touched $140, according to an..."
     },
     {
-      "id": "live-1793282198092-3",
+      "id": "live-1793368269145-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -70,7 +104,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1793282198092-4",
+      "id": "live-1793368269145-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "One in three drivers wants the Chancellor to cut VAT on fuel in this week's Budget, according to the RAC.\nThe motoring organisation's survey found that a reduction would be more popular than a cut to fuel duty when John Healey makes his announcement...."
     },
     {
-      "id": "live-1793282198092-5",
+      "id": "live-1793368269145-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1793282198092-6",
+      "id": "live-1793368269145-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Prime Minister Andy Burnham has been accused of being “asleep at the wheel” while motorists are having to pay increasing amounts to fill up with either petrol or diesel.\nThe SNP has challenged the UK Government to scrap the VAT on fuel in Wednesday’s..."
     },
     {
-      "id": "live-1793282198092-7",
+      "id": "live-1793368269145-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "SNP energy spokesman Graham Leadbitter wants the Government to remove the VAT on petrol and diesel during the current fuel price crisis.",
       "body": "SNP energy spokesman Graham Leadbitter wants the Government to remove the VAT on petrol and diesel during the current fuel price crisis.\nThe UK Government is being urged to scrap VAT on petrol and diesel in this week’s Budget (Jacob King/PA)\nKatrine ...",
       "bodyEn": "SNP energy spokesman Graham Leadbitter wants the Government to remove the VAT on petrol and diesel during the current fuel price crisis.\nThe UK Government is being urged to scrap VAT on petrol and diesel in this week’s Budget (Jacob King/PA)\nKatrine ..."
-    },
-    {
-      "id": "live-1793282198092-8",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-10-27",
-      "source": "The Economic Times",
-      "featured": false,
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-earns-nearly-50-more-from-fuel-exports-in-april-september-as-costlier-oil-and-weak-rupee-outweigh-lower-volumes/articleshow/135218784.cms",
-      "isLive": true,
-      "title": "India earns nearly 50% more from fuel exports in April-September as costlier oil and weak rupee outweigh lower volumes",
-      "titleEn": "India earns nearly 50% more from fuel exports in April-September as costlier oil and weak rupee outweigh lower volumes",
-      "summary": "India's petroleum product export earnings increased significantly in April to September, driven by high international prices. While the volume of shipments declined by 16%, earnings surged by nearly 50% in rupee terms. Diesel exports were the largest contributors to the earnings growth, accounting for 42% of the total volume. Both diesel and petrol consumption rose during this period, whereas production saw slight declines.",
-      "summaryEn": "India's petroleum product export earnings increased significantly in April to September, driven by high international prices. While the volume of shipments declined by 16%, earnings surged by nearly 50% in rupee terms. Diesel exports were the largest contributors to the earnings growth, accounting for 42% of the total volume. Both diesel and petrol consumption rose during this period, whereas production saw slight declines.",
-      "body": "Synopsis\nIndia's petroleum product export earnings increased significantly in April to September, driven by high international prices. While the volume of shipments declined by 16%, earnings surged by nearly 50% in rupee terms. Diesel exports were th...",
-      "bodyEn": "Synopsis\nIndia's petroleum product export earnings increased significantly in April to September, driven by high international prices. While the volume of shipments declined by 16%, earnings surged by nearly 50% in rupee terms. Diesel exports were th..."
-    },
-    {
-      "id": "live-1793282198092-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-26",
-      "source": "The Tribune",
-      "featured": false,
-      "url": "https://www.tribuneindia.com/news/world/pakistan-burdens-public-again-as-govt-hikes-petrol-price-by-rs-1-54-diesel-by-rs-2-16-per-litre/",
-      "isLive": true,
-      "title": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre",
-      "titleEn": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre",
-      "summary": "The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.",
-      "summaryEn": "The Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.",
-      "body": "Islamabad [Pakistan], October 27 (ANI): T.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.he Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1\nFollowing the latest revision, petr...",
-      "bodyEn": "Islamabad [Pakistan], October 27 (ANI): T.54 per litre and high-speed diesel (HSD) by PKR 2.16 per litre, Dawn reported.he Pakistan government has announced a fresh hike in petroleum prices, raising petrol by PKR 1\nFollowing the latest revision, petr..."
     }
   ]
 }
