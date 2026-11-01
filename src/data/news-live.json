@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-10-31",
+  "lastUpdated": "2026-11-01",
   "articles": [
     {
-      "id": "live-1793452790620-0",
+      "id": "live-1793541791040-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-01",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-1-check-fuel-rates-in-different-cities-across-india-11793497305653.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, November 1: Check fuel rates in different cities across India",
+      "titleEn": "Petrol and diesel prices today, November 1: Check fuel rates in different cities across India",
+      "summary": "Fuel prices were mostly steady across major Indian cities. CNG prices increased in several cities.",
+      "summaryEn": "Fuel prices were mostly steady across major Indian cities. CNG prices increased in several cities.",
+      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
+      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
+    },
+    {
+      "id": "live-1793541791040-1",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
       "date": "2026-10-30",
       "source": "The New Indian Express",
-      "featured": true,
+      "featured": false,
       "url": "https://www.newindianexpress.com/business/2026/Oct/30/iocs-record-profit-lifts-oil-psus-q2-earnings-to-rs-30106-crore",
       "isLive": true,
       "title": "IOC's record profit lifts oil PSUs' Q2 earnings to Rs 30,106 crore",
@@ -19,7 +36,7 @@
       "bodyEn": "The three state-owned oil marketing companies reported a combined standalone profit after tax (PAT) of Rs 30,106 crore in the second quarter of the current financial year, up 68.3% from Rs 17,884 crore in the corresponding period last year, with Indi..."
     },
     {
-      "id": "live-1793452790621-1",
+      "id": "live-1793541791041-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +53,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793452790621-2",
+      "id": "live-1793541791041-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793452790621-3",
+      "id": "live-1793541791041-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793452790621-4",
+      "id": "live-1793541791041-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +104,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793452790621-5",
+      "id": "live-1793541791041-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +121,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793452790621-6",
+      "id": "live-1793541791041-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +138,7 @@
       "bodyEn": "Comparing local forecourt prices could help motorists spend less on fuel\nChoosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website fo..."
     },
     {
-      "id": "live-1793452790621-7",
+      "id": "live-1793541791041-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,24 +155,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793452790621-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-30",
-      "source": "Essexlive",
-      "featured": false,
-      "url": "https://www.essexlive.news/news/motoring/save-20-filling-up-cars-11220611",
-      "isLive": true,
-      "title": "Save £20 when filling up cars with petrol or diesel with MSE tip",
-      "titleEn": "Save £20 when filling up cars with petrol or diesel with MSE tip",
-      "summary": "Comparing local forecourt prices could help motorists spend less on fuel",
-      "summaryEn": "Comparing local forecourt prices could help motorists spend less on fuel",
-      "body": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before...",
-      "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
-    },
-    {
-      "id": "live-1793452790621-9",
+      "id": "live-1793541791041-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
