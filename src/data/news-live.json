@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-11-01",
+  "lastUpdated": "2026-11-02",
   "articles": [
     {
-      "id": "live-1793541791040-0",
+      "id": "live-1793638213028-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-01",
+      "source": "The Economic Times",
+      "featured": true,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+      "isLive": true,
+      "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+      "titleEn": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+      "summary": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May. Indian Oil Corporation achieved its highest standalone quarterly net profit, buoyed by strong refining margins, yet faces ongoing challenges related to fuel under-recoveries.",
+      "summaryEn": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May. Indian Oil Corporation achieved its highest standalone quarterly net profit, buoyed by strong refining margins, yet faces ongoing challenges related to fuel under-recoveries.",
+      "body": "Synopsis\nIn the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing free...",
+      "bodyEn": "Synopsis\nIn the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing free..."
+    },
+    {
+      "id": "live-1793638213029-1",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-01",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-1-check-fuel-rates-in-different-cities-across-india-11793497305653.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, November 1: Check fuel rates in different cities across India",
@@ -19,7 +36,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1793541791040-1",
+      "id": "live-1793638213029-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +53,7 @@
       "bodyEn": "The three state-owned oil marketing companies reported a combined standalone profit after tax (PAT) of Rs 30,106 crore in the second quarter of the current financial year, up 68.3% from Rs 17,884 crore in the corresponding period last year, with Indi..."
     },
     {
-      "id": "live-1793541791041-2",
+      "id": "live-1793638213029-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793541791041-3",
+      "id": "live-1793638213029-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793541791041-4",
+      "id": "live-1793638213029-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,24 +104,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793541791041-5",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-10-30",
-      "source": "Cornwall Live",
-      "featured": false,
-      "url": "https://www.cornwalllive.com/news/motoring/save-20-filling-up-cars-11220611",
-      "isLive": true,
-      "title": "Save £20 when filling up cars with petrol or diesel with MSE tip",
-      "titleEn": "Save £20 when filling up cars with petrol or diesel with MSE tip",
-      "summary": "Comparing local forecourt prices could help motorists spend less on fuel",
-      "summaryEn": "Comparing local forecourt prices could help motorists spend less on fuel",
-      "body": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before...",
-      "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
-    },
-    {
-      "id": "live-1793541791041-6",
+      "id": "live-1793638213029-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +121,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793541791041-7",
+      "id": "live-1793638213029-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,7 +138,7 @@
       "bodyEn": "Comparing local forecourt prices could help motorists spend less on fuel\nChoosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website fo..."
     },
     {
-      "id": "live-1793541791041-8",
+      "id": "live-1793638213029-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -155,7 +155,7 @@
       "bodyEn": "Choosing where to fill up could make a difference to how much motorists spend on fuel, particularly while prices remain high. Money Saving Expert, the consumer advice website founded by Martin Lewis, recommends comparing nearby petrol stations before..."
     },
     {
-      "id": "live-1793541791041-9",
+      "id": "live-1793638213029-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
