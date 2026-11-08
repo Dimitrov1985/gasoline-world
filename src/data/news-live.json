@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-11-07",
+  "lastUpdated": "2026-11-08",
   "articles": [
     {
-      "id": "live-1794059080919-0",
+      "id": "live-1794146684379-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-08",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/fuel-prices-today-on-8-november-check-how-much-petrol-diesel-cost-in-delhi-bengaluru-mumbai-chennai-full-list-11794100902262.html",
+      "isLive": true,
+      "title": "Fuel prices today on 8 November: Check how much petrol, diesel cost in Delhi, Bengaluru, Mumbai, Chennai - Full list",
+      "titleEn": "Fuel prices today on 8 November: Check how much petrol, diesel cost in Delhi, Bengaluru, Mumbai, Chennai - Full list",
+      "summary": "Petrol and diesel prices remained largely unchanged across major Indian cities on November 8, despite fluctuations in global crude rates amid Middle East tensions. Meanwhile, India's oil consumption surged 10% in October to its highest level since March, government data showed.",
+      "summaryEn": "Petrol and diesel prices remained largely unchanged across major Indian cities on November 8, despite fluctuations in global crude rates amid Middle East tensions. Meanwhile, India's oil consumption surged 10% in October to its highest level since March, government data showed.",
+      "body": "Fuel prices today, November 8: Petrol and diesel prices remained largely unchanged on Sunday (November 8) across most major cities, including New Delhi, Bengaluru, Chennai and Mumbai. However, minor fluctuations were observed in some other cities, su...",
+      "bodyEn": "Fuel prices today, November 8: Petrol and diesel prices remained largely unchanged on Sunday (November 8) across most major cities, including New Delhi, Bengaluru, Chennai and Mumbai. However, minor fluctuations were observed in some other cities, su..."
+    },
+    {
+      "id": "live-1794146684379-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-07",
+      "source": "Northern Echo",
+      "featured": false,
+      "url": "https://www.thenorthernecho.co.uk/news/26705539.cheapest-petrol-diesel-prices-darlington-weekend/",
+      "isLive": true,
+      "title": "Cheapest petrol and diesel prices in Darlington this weekend",
+      "titleEn": "Cheapest petrol and diesel prices in Darlington this weekend",
+      "summary": "Here's a list of the cheapest garages in and around Darlington this weekend, according to petrolprices.com.",
+      "summaryEn": "Here's a list of the cheapest garages in and around Darlington this weekend, according to petrolprices.com.",
+      "body": "Petrolprices.com gets its information directly from garages and from users.\nCheapest unleaded around Darlington\nSainsbury's Darlington 168.9p\nShell Haughton Road (GEM Haughton) 168.9p\nMorrisons Darlington 168.9p\nMorrisons Morton Park 168.9p\nJet Darli...",
+      "bodyEn": "Petrolprices.com gets its information directly from garages and from users.\nCheapest unleaded around Darlington\nSainsbury's Darlington 168.9p\nShell Haughton Road (GEM Haughton) 168.9p\nMorrisons Darlington 168.9p\nMorrisons Morton Park 168.9p\nJet Darli..."
+    },
+    {
+      "id": "live-1794146684379-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-07",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-diesel-prices-on-7-november-check-how-much-fuel-costs-in-delhi-mumbai-bengaluru-kolkata-full-list-11794012895239.html",
       "isLive": true,
       "title": "Petrol, diesel prices on 7 November: Check how much fuel costs in Delhi, Mumbai, Bengaluru, Kolkata - Full list",
@@ -19,7 +53,7 @@
       "bodyEn": "Petrol and diesel prices today, November 7: Petrol and diesel prices remained unchanged in most cities on Saturday after the Centre reduced the additional excise duty on petrol exports. The Finance Ministry recently notified a revised duty structure ..."
     },
     {
-      "id": "live-1794059080920-1",
+      "id": "live-1794146684380-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday announced a reduction of Rs6.59 per litre in petrol prices and Rs4.25 per litre in high-speed diesel (HSD) prices, effective November 7. According to a press release issued by OGRA, th..."
     },
     {
-      "id": "live-1794059080920-2",
+      "id": "live-1794146684380-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik Shahzad Awan, President of the Pakistan Goods Transport Alliance, confirmed that fr..."
     },
     {
-      "id": "live-1794059080920-3",
+      "id": "live-1794146684380-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1794059080920-4",
+      "id": "live-1794146684380-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "The federal government has lowered petrol and prices, offering some relief to consumers as the revised rates take effect from November 6.\nUnder the latest petroleum price adjustment, petrol has been reduced by Rs9.41 per litre to Rs352.59, compared w..."
     },
     {
-      "id": "live-1794059080920-5",
+      "id": "live-1794146684380-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1794059080920-6",
+      "id": "live-1794146684380-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Motorists are continuing to hit the brakes on petrol car purchases as the cost of fuel transforms the Australian automotive market.\nFigures released by the Federal Chamber of Automotive Industries on Thursday revealed drivers bought 13,200 fewer petr..."
     },
     {
-      "id": "live-1794059080920-7",
+      "id": "live-1794146684380-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.",
       "body": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.\nThe Finance Ministry, in a statement on Wedn...",
       "bodyEn": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.\nThe Finance Ministry, in a statement on Wedn..."
-    },
-    {
-      "id": "live-1794059080920-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-04",
-      "source": "Lancashire Telegraph",
-      "featured": false,
-      "url": "https://www.lancashiretelegraph.co.uk/news/26694023.cheapest-petrol-diesel-prices-lancaster-week/",
-      "isLive": true,
-      "title": "The cheapest petrol and diesel prices in Lancaster this week",
-      "titleEn": "The cheapest petrol and diesel prices in Lancaster this week",
-      "summary": "We've compiled a list of the cheapest garages in and around Lancaster, according to petrolprices.com",
-      "summaryEn": "We've compiled a list of the cheapest garages in and around Lancaster, according to petrolprices.com",
-      "body": "Petrolprices.com gets its information direct from garages and from users.\nPrices are correct at the time of writing based on the information available.\nCheapest Unleaded in Lancaster\nAsda Lancaster Automat 170.9p\nJet Lancaster (Toll Bar Service Stati...",
-      "bodyEn": "Petrolprices.com gets its information direct from garages and from users.\nPrices are correct at the time of writing based on the information available.\nCheapest Unleaded in Lancaster\nAsda Lancaster Automat 170.9p\nJet Lancaster (Toll Bar Service Stati..."
-    },
-    {
-      "id": "live-1794059080920-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-04",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/fuel-prices-on-4-november-check-how-much-petrol-diesel-and-cng-cost-in-delhi-mumbai-bengaluru-full-list-11793753511017.html",
-      "isLive": true,
-      "title": "Fuel prices on 4 November: Check how much petrol, diesel, and CNG cost in Delhi, Mumbai, Bengaluru - Full list",
-      "titleEn": "Fuel prices on 4 November: Check how much petrol, diesel, and CNG cost in Delhi, Mumbai, Bengaluru - Full list",
-      "summary": "Petrol and diesel prices remained largely stable across major cities on November 4 after the Centre cut the petrol export duty to zero and raised the diesel export levy. Meanwhile, global oil prices fluctuated as traders assessed mixed signals on US-Iran peace talks amid tensions in the Middle East.",
-      "summaryEn": "Petrol and diesel prices remained largely stable across major cities on November 4 after the Centre cut the petrol export duty to zero and raised the diesel export levy. Meanwhile, global oil prices fluctuated as traders assessed mixed signals on US-Iran peace talks amid tensions in the Middle East.",
-      "body": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern...",
-      "bodyEn": "Swati Gandhi\nSwati Gandhi is a digital journalist with over four years of experience, specialising in international and geopolitical issues. Her work focuses on foreign policy, global power shifts, and the political and economic forces shaping intern..."
     }
   ]
 }
