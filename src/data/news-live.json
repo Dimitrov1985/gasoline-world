@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-11-08",
+  "lastUpdated": "2026-11-09",
   "articles": [
     {
-      "id": "live-1794146684379-0",
+      "id": "live-1794244230072-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-09",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11794123341939.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "summary": "Petrol is retailing at ₹102.12 per litre, while diesel is priced at ₹95.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
+      "summaryEn": "Petrol is retailing at ₹102.12 per litre, while diesel is priced at ₹95.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1794244230073-1",
+      "flag": "🇪🇺",
+      "category": "Европа",
+      "categoryEn": "Europe",
+      "date": "2026-11-08",
+      "source": "The Economic Times",
+      "featured": false,
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/gas-prices-in-the-us-are-nearly-half-of-europes-why-are-american-drivers-paying-so-much-less/articleshow/135657575.cms",
+      "isLive": true,
+      "title": "Gas prices in the US are nearly half of Europe's: Why are American drivers paying so much less?",
+      "titleEn": "Gas prices in the US are nearly half of Europe's: Why are American drivers paying so much less?",
+      "summary": "American motorists are currently paying much less for fuel compared to drivers in the European Union. The average petrol price in the EU is almost double that of the US, highlighting significant market differences. Higher taxation in Europe contributes to this price discrepancy, making it important for consumers to understand. Diesel costs also reflect a noticeable difference, though the gap is smaller than for petrol.",
+      "summaryEn": "American motorists are currently paying much less for fuel compared to drivers in the European Union. The average petrol price in the EU is almost double that of the US, highlighting significant market differences. Higher taxation in Europe contributes to this price discrepancy, making it important for consumers to understand. Diesel costs also reflect a noticeable difference, though the gap is smaller than for petrol.",
+      "body": "Synopsis\nAmerican motorists are currently paying much less for fuel compared to drivers in the European Union. The average petrol price in the EU is almost double that of the US, highlighting significant market differences. Higher taxation in Europe ...",
+      "bodyEn": "Synopsis\nAmerican motorists are currently paying much less for fuel compared to drivers in the European Union. The average petrol price in the EU is almost double that of the US, highlighting significant market differences. Higher taxation in Europe ..."
+    },
+    {
+      "id": "live-1794244230073-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-08",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/fuel-prices-today-on-8-november-check-how-much-petrol-diesel-cost-in-delhi-bengaluru-mumbai-chennai-full-list-11794100902262.html",
       "isLive": true,
       "title": "Fuel prices today on 8 November: Check how much petrol, diesel cost in Delhi, Bengaluru, Mumbai, Chennai - Full list",
@@ -19,7 +53,7 @@
       "bodyEn": "Fuel prices today, November 8: Petrol and diesel prices remained largely unchanged on Sunday (November 8) across most major cities, including New Delhi, Bengaluru, Chennai and Mumbai. However, minor fluctuations were observed in some other cities, su..."
     },
     {
-      "id": "live-1794146684379-1",
+      "id": "live-1794244230073-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Petrolprices.com gets its information directly from garages and from users.\nCheapest unleaded around Darlington\nSainsbury's Darlington 168.9p\nShell Haughton Road (GEM Haughton) 168.9p\nMorrisons Darlington 168.9p\nMorrisons Morton Park 168.9p\nJet Darli..."
     },
     {
-      "id": "live-1794146684379-2",
+      "id": "live-1794244230073-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +87,7 @@
       "bodyEn": "Petrol and diesel prices today, November 7: Petrol and diesel prices remained unchanged in most cities on Saturday after the Centre reduced the additional excise duty on petrol exports. The Finance Ministry recently notified a revised duty structure ..."
     },
     {
-      "id": "live-1794146684380-3",
+      "id": "live-1794244230073-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday announced a reduction of Rs6.59 per litre in petrol prices and Rs4.25 per litre in high-speed diesel (HSD) prices, effective November 7. According to a press release issued by OGRA, th..."
     },
     {
-      "id": "live-1794146684380-4",
+      "id": "live-1794244230073-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik Shahzad Awan, President of the Pakistan Goods Transport Alliance, confirmed that fr..."
     },
     {
-      "id": "live-1794146684380-5",
+      "id": "live-1794244230073-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1794146684380-6",
+      "id": "live-1794244230073-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "The federal government has lowered petrol and prices, offering some relief to consumers as the revised rates take effect from November 6.\nUnder the latest petroleum price adjustment, petrol has been reduced by Rs9.41 per litre to Rs352.59, compared w..."
     },
     {
-      "id": "live-1794146684380-7",
+      "id": "live-1794244230073-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "Brent crude futures dived nearly 9% overnight, falling below $100 a barrel. Brent has dropped by about 20% so far this week.",
       "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
-    },
-    {
-      "id": "live-1794146684380-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-05",
-      "source": "PerthNow",
-      "featured": false,
-      "url": "https://www.perthnow.com.au/news/transport/high-fuel-prices-hit-the-brakes-on-petrol-car-sales-c-23119866",
-      "isLive": true,
-      "title": "High fuel prices hit the brakes on petrol car sales",
-      "titleEn": "High fuel prices hit the brakes on petrol car sales",
-      "summary": "Australian motorists are kicking the tyres of more electric and hybrid vehicles as the price of petrol and diesel continues to sting.",
-      "summaryEn": "Australian motorists are kicking the tyres of more electric and hybrid vehicles as the price of petrol and diesel continues to sting.",
-      "body": "Motorists are continuing to hit the brakes on petrol car purchases as the cost of fuel transforms the Australian automotive market.\nFigures released by the Federal Chamber of Automotive Industries on Thursday revealed drivers bought 13,200 fewer petr...",
-      "bodyEn": "Motorists are continuing to hit the brakes on petrol car purchases as the cost of fuel transforms the Australian automotive market.\nFigures released by the Federal Chamber of Automotive Industries on Thursday revealed drivers bought 13,200 fewer petr..."
-    },
-    {
-      "id": "live-1794146684380-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-04",
-      "source": "The Star",
-      "featured": false,
-      "url": "https://www.thestar.com.my/news/nation/2026/11/04/fuel-prices-nov-5-11-unsubsidised-ron95-diesel-prices-drop-15-sen-per-litre-ron97-down-20-sen",
-      "isLive": true,
-      "title": "Fuel prices Nov 5-11: Unsubsidised RON95, diesel prices drop 15 sen per litre, RON97 down 20 sen",
-      "titleEn": "Fuel prices Nov 5-11: Unsubsidised RON95, diesel prices drop 15 sen per litre, RON97 down 20 sen",
-      "summary": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.",
-      "summaryEn": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.",
-      "body": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.\nThe Finance Ministry, in a statement on Wedn...",
-      "bodyEn": "KUALA LUMPUR: The retail price of RON97 petrol will go down by 20 sen to RM4.70 per liter, while unsubsidised RON95 and diesel will drop 15 sen to RM4.27 and RM5.12 per liter respectively from Nov 5 to 11.\nThe Finance Ministry, in a statement on Wedn..."
     }
   ]
 }
