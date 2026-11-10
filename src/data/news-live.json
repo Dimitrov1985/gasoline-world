@@ -1,25 +1,76 @@
 {
-  "lastUpdated": "2026-11-09",
+  "lastUpdated": "2026-11-10",
   "articles": [
     {
-      "id": "live-1794244230072-0",
+      "id": "live-1794324329007-0",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
-      "date": "2026-11-09",
-      "source": "Livemint",
+      "date": "2026-11-10",
+      "source": "News18",
       "featured": true,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11794123341939.html",
+      "url": "https://www.news18.com/business/economy/petrol-diesel-prices-today-november-10-check-fuel-rates-in-delhi-mumbai-kolkata-chennai-ws-l-10419392.html",
       "isLive": true,
-      "title": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
-      "titleEn": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "title": "Petrol, Diesel Prices Today, November 10: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
+      "titleEn": "Petrol, Diesel Prices Today, November 10: Check Fuel Rates In Delhi, Mumbai, Kolkata, Chennai",
+      "summary": "Petrol, Diesel Price Today, November 10: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.",
+      "summaryEn": "Petrol, Diesel Price Today, November 10: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.",
+      "body": "Petrol, Diesel Price Today, November 10: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, November 10: Petrol and diesel prices rem...",
+      "bodyEn": "Petrol, Diesel Price Today, November 10: In New Delhi, petrol is priced at Rs 102.12 per litre, while diesel costs Rs 95.20. In Mumbai, petrol costs Rs 111.18 and diesel Rs 97.83.\nPetrol, Diesel Prices Today, November 10: Petrol and diesel prices rem..."
+    },
+    {
+      "id": "live-1794324329008-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-10",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-10-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11794273000314.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, November 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, November 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
       "summary": "Petrol is retailing at ₹102.12 per litre, while diesel is priced at ₹95.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
       "summaryEn": "Petrol is retailing at ₹102.12 per litre, while diesel is priced at ₹95.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
       "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1794244230073-1",
+      "id": "live-1794324329008-2",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-09",
+      "source": "RTE.ie",
+      "featured": false,
+      "url": "https://www.rte.ie/news/business/2026/1109/1598478-aa-ireland-fuel-price-survey/",
+      "isLive": true,
+      "title": "Fuel prices dip in November, but EV charging costs rise",
+      "titleEn": "Fuel prices dip in November, but EV charging costs rise",
+      "summary": "New figures show a small fall in the price of petrol and diesel at the pumps in November, while public EV charging costs rose.",
+      "summaryEn": "New figures show a small fall in the price of petrol and diesel at the pumps in November, while public EV charging costs rose.",
+      "body": "New figures show a small fall in the price of petrol and diesel at the pumps in November, while public EV charging costs rose.\nAA Ireland's latest fuel price analysis shows that petrol averaged €1.96 per litre in November, down 2.26 cents from Octobe...",
+      "bodyEn": "New figures show a small fall in the price of petrol and diesel at the pumps in November, while public EV charging costs rose.\nAA Ireland's latest fuel price analysis shows that petrol averaged €1.96 per litre in November, down 2.26 cents from Octobe..."
+    },
+    {
+      "id": "live-1794324329008-3",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-09",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11794123341939.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, November 9: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, November 9: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "summary": "Petrol is retailing at ₹102.12 per litre, while diesel is priced at ₹95.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
+      "summaryEn": "Petrol is retailing at ₹102.12 per litre, while diesel is priced at ₹95.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1794324329008-4",
       "flag": "🇪🇺",
       "category": "Европа",
       "categoryEn": "Europe",
@@ -36,7 +87,7 @@
       "bodyEn": "Synopsis\nAmerican motorists are currently paying much less for fuel compared to drivers in the European Union. The average petrol price in the EU is almost double that of the US, highlighting significant market differences. Higher taxation in Europe ..."
     },
     {
-      "id": "live-1794244230073-2",
+      "id": "live-1794324329008-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +104,7 @@
       "bodyEn": "Fuel prices today, November 8: Petrol and diesel prices remained largely unchanged on Sunday (November 8) across most major cities, including New Delhi, Bengaluru, Chennai and Mumbai. However, minor fluctuations were observed in some other cities, su..."
     },
     {
-      "id": "live-1794244230073-3",
+      "id": "live-1794324329008-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +121,7 @@
       "bodyEn": "Petrolprices.com gets its information directly from garages and from users.\nCheapest unleaded around Darlington\nSainsbury's Darlington 168.9p\nShell Haughton Road (GEM Haughton) 168.9p\nMorrisons Darlington 168.9p\nMorrisons Morton Park 168.9p\nJet Darli..."
     },
     {
-      "id": "live-1794244230073-4",
+      "id": "live-1794324329008-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -87,7 +138,7 @@
       "bodyEn": "Petrol and diesel prices today, November 7: Petrol and diesel prices remained unchanged in most cities on Saturday after the Centre reduced the additional excise duty on petrol exports. The Finance Ministry recently notified a revised duty structure ..."
     },
     {
-      "id": "live-1794244230073-5",
+      "id": "live-1794324329008-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +155,7 @@
       "bodyEn": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday announced a reduction of Rs6.59 per litre in petrol prices and Rs4.25 per litre in high-speed diesel (HSD) prices, effective November 7. According to a press release issued by OGRA, th..."
     },
     {
-      "id": "live-1794244230073-6",
+      "id": "live-1794324329008-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -119,57 +170,6 @@
       "summaryEn": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik",
       "body": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik Shahzad Awan, President of the Pakistan Goods Transport Alliance, confirmed that fr...",
       "bodyEn": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik Shahzad Awan, President of the Pakistan Goods Transport Alliance, confirmed that fr..."
-    },
-    {
-      "id": "live-1794244230073-7",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-06",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11793929672121.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
-      "titleEn": "Petrol and diesel prices today, November 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
-      "summary": "West Texas Intermediate rose to trade near $91 a barrel on Friday, extending a rebound from a sharp selloff following a Democratic sweep of the US midterm elections.",
-      "summaryEn": "West Texas Intermediate rose to trade near $91 a barrel on Friday, extending a rebound from a sharp selloff following a Democratic sweep of the US midterm elections.",
-      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
-      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
-    },
-    {
-      "id": "live-1794244230073-8",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-05",
-      "source": "The Nation",
-      "featured": false,
-      "url": "https://www.nation.com.pk/05-Nov-2026/government-cuts-petrol-price-rs-9-41-diesel-rs-5-56-per-litre",
-      "isLive": true,
-      "title": "Government cuts petrol price by Rs 9.41, diesel by Rs 5.56 per litre",
-      "titleEn": "Government cuts petrol price by Rs 9.41, diesel by Rs 5.56 per litre",
-      "summary": "The federal government has lowered petrol and high-speed diesel prices, offering some relief to consumers as the revised rates take effect from November 6.",
-      "summaryEn": "The federal government has lowered petrol and high-speed diesel prices, offering some relief to consumers as the revised rates take effect from November 6.",
-      "body": "The federal government has lowered petrol and prices, offering some relief to consumers as the revised rates take effect from November 6.\nUnder the latest petroleum price adjustment, petrol has been reduced by Rs9.41 per litre to Rs352.59, compared w...",
-      "bodyEn": "The federal government has lowered petrol and prices, offering some relief to consumers as the revised rates take effect from November 6.\nUnder the latest petroleum price adjustment, petrol has been reduced by Rs9.41 per litre to Rs352.59, compared w..."
-    },
-    {
-      "id": "live-1794244230073-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-05",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-5-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11793849582568.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today, November 5: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
-      "titleEn": "Petrol and diesel prices today, November 5: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
-      "summary": "Brent crude futures dived nearly 9% overnight, falling below $100 a barrel. Brent has dropped by about 20% so far this week.",
-      "summaryEn": "Brent crude futures dived nearly 9% overnight, falling below $100 a barrel. Brent has dropped by about 20% so far this week.",
-      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
-      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     }
   ]
 }
