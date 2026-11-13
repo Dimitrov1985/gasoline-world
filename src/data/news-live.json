@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-11-12",
+  "lastUpdated": "2026-11-13",
   "articles": [
     {
-      "id": "live-1794498374064-0",
+      "id": "live-1794582421576-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-12",
+      "source": "The Nation",
+      "featured": true,
+      "url": "https://www.nation.com.pk/12-Nov-2026/petrol-price-cut-rs-3-per-litre-diesel-rs-4",
+      "isLive": true,
+      "title": "Petrol price cut by Rs 3 per litre, diesel by Rs 4",
+      "titleEn": "Petrol price cut by Rs 3 per litre, diesel by Rs 4",
+      "summary": "The government has announced another reduction in petroleum prices, lowering petrol by Rs3 per litre and high-speed diesel (HSD) by Rs4, marking the eighth consecutive",
+      "summaryEn": "The government has announced another reduction in petroleum prices, lowering petrol by Rs3 per litre and high-speed diesel (HSD) by Rs4, marking the eighth consecutive",
+      "body": "The government has announced another reduction in petroleum prices, lowering petrol by Rs3 per litre and high-speed diesel (HSD) by Rs4, marking the eighth consecutive cut.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (O...",
+      "bodyEn": "The government has announced another reduction in petroleum prices, lowering petrol by Rs3 per litre and high-speed diesel (HSD) by Rs4, marking the eighth consecutive cut.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (O..."
+    },
+    {
+      "id": "live-1794582421577-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-12",
+      "source": "The Mirror",
+      "featured": false,
+      "url": "https://www.mirror.co.uk/money/asda-petrol-prices-diesel-supermarkets-37871926",
+      "isLive": true,
+      "title": "Asda sparks fuel price war by slashing pump costs by average 4p per litre",
+      "titleEn": "Asda sparks fuel price war by slashing pump costs by average 4p per litre",
+      "summary": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up",
+      "summaryEn": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up",
+      "body": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up\nAsda has launched a pump price war by knocking an...",
+      "bodyEn": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up\nAsda has launched a pump price war by knocking an..."
+    },
+    {
+      "id": "live-1794582421577-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-12",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-12-check-fuel-rates-in-different-cities-across-india-11794449227669.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, November 12: Check fuel rates in different cities across India",
@@ -19,7 +53,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1794498374065-1",
+      "id": "live-1794582421577-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "Prices remain at a \"dismal\" £2 a litre, it has been warned, despite oil prices falling.\nA \"dismal\" warning has been issued to diesel drivers heading to petrol stations in the UK in the coming days. Prices remain at a \"dismal\" £2 a litre, it has been ..."
     },
     {
-      "id": "live-1794498374065-2",
+      "id": "live-1794582421577-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Key details to know as experts say when petrol and diesel prices will drop\nThe RAC and AA have given updates as experts analysed the fall in oil prices\nNeed to know: petrol price cuts 'on the way' as oil falls\nUK drivers should see cuts at the pump a..."
     },
     {
-      "id": "live-1794498374065-3",
+      "id": "live-1794582421577-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "The warning comes as petrol and diesel prices continue to be sky-high\nShort measures introduced by petrol stations amid the cost of living crisis are \"ripping off\" drivers and road users, it has been warned. Asda and Welcome Break have been accused o..."
     },
     {
-      "id": "live-1794498374065-4",
+      "id": "live-1794582421577-6",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -87,7 +121,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1794498374065-5",
+      "id": "live-1794582421577-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,24 +138,7 @@
       "bodyEn": "The federal government has announced a fresh reduction in fuel prices, lowering petrol and high-speed diesel (HSD) rates to provide some relief to consumers.\nUnder a notification issued by the Petroleum Division, petrol has become cheaper by Rs8 per ..."
     },
     {
-      "id": "live-1794498374065-6",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-10",
-      "source": "Surrey Advertiser",
-      "featured": false,
-      "url": "https://www.getsurrey.co.uk/news/motoring/motoring-news/new-updates-petrol-diesel-prices-34890372",
-      "isLive": true,
-      "title": "New updates on when petrol and diesel prices will fall after drop in oil price",
-      "titleEn": "New updates on when petrol and diesel prices will fall after drop in oil price",
-      "summary": "The RAC and AA have given updates on the state of UK petrol and diesel prices in the wake of a significant drop in the price of oil over the past week",
-      "summaryEn": "The RAC and AA have given updates on the state of UK petrol and diesel prices in the wake of a significant drop in the price of oil over the past week",
-      "body": "The RAC and AA have both issued updates on the state of UK petrol and diesel prices following a notable decline in the cost of oil over the past week. The benchmark Brent Crude price stood at around $90 a barrel on Tuesday morning, briefly dipping be...",
-      "bodyEn": "The RAC and AA have both issued updates on the state of UK petrol and diesel prices following a notable decline in the cost of oil over the past week. The benchmark Brent Crude price stood at around $90 a barrel on Tuesday morning, briefly dipping be..."
-    },
-    {
-      "id": "live-1794498374065-7",
+      "id": "live-1794582421577-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,7 +155,7 @@
       "bodyEn": "The RAC and AA have given updates on the state of UK petrol and diesel prices in the wake of a significant drop in the price of oil over the past week\nThe RAC and AA have both issued updates on the state of UK petrol and diesel prices following a not..."
     },
     {
-      "id": "live-1794498374065-8",
+      "id": "live-1794582421577-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -146,23 +163,6 @@
       "source": "Cambridge Evening News",
       "featured": false,
       "url": "https://www.cambridge-news.co.uk/news/motors/new-updates-petrol-diesel-prices-34890372",
-      "isLive": true,
-      "title": "New updates on when petrol and diesel prices will fall after drop in oil price",
-      "titleEn": "New updates on when petrol and diesel prices will fall after drop in oil price",
-      "summary": "The RAC and AA have given updates on the state of UK petrol and diesel prices in the wake of a significant drop in the price of oil over the past week",
-      "summaryEn": "The RAC and AA have given updates on the state of UK petrol and diesel prices in the wake of a significant drop in the price of oil over the past week",
-      "body": "The RAC and AA have both issued updates on the state of UK petrol and diesel prices following a notable decline in the cost of oil over the past week. The benchmark Brent Crude price stood at around $90 a barrel on Tuesday morning, briefly dipping be...",
-      "bodyEn": "The RAC and AA have both issued updates on the state of UK petrol and diesel prices following a notable decline in the cost of oil over the past week. The benchmark Brent Crude price stood at around $90 a barrel on Tuesday morning, briefly dipping be..."
-    },
-    {
-      "id": "live-1794498374065-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-10",
-      "source": "Daily Post",
-      "featured": false,
-      "url": "https://www.dailypost.co.uk/news/motoring/motoring-news/new-updates-petrol-diesel-prices-34890372",
       "isLive": true,
       "title": "New updates on when petrol and diesel prices will fall after drop in oil price",
       "titleEn": "New updates on when petrol and diesel prices will fall after drop in oil price",
