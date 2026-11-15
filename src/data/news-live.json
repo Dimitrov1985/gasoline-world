@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-11-14",
+  "lastUpdated": "2026-11-15",
   "articles": [
     {
-      "id": "live-1794664630566-0",
+      "id": "live-1794753064113-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-15",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-15-november-check-how-much-fuel-costs-in-your-city-full-list-11794704003086.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, 15 November: Check how much fuel costs in your city - Full List",
+      "titleEn": "Petrol and diesel prices today, 15 November: Check how much fuel costs in your city - Full List",
+      "summary": "Fuel prices today, 15 November: Petrol and diesel prices remain largely unchanged on Sunday, with a slight revision in petrol prices in Patna compared to Saturday. Here's how much petrol and diesel cost in your city.",
+      "summaryEn": "Fuel prices today, 15 November: Petrol and diesel prices remain largely unchanged on Sunday, with a slight revision in petrol prices in Patna compared to Saturday. Here's how much petrol and diesel cost in your city.",
+      "body": "Fuel prices today, 15 November: Petrol and diesel prices remained largely unchanged on Sunday (15 November), with most cities and states reporting no changes. However, petrol prices in Patna were up marginally, from Saturday's ₹113.35 to ₹113.37.\nDes...",
+      "bodyEn": "Fuel prices today, 15 November: Petrol and diesel prices remained largely unchanged on Sunday (15 November), with most cities and states reporting no changes. However, petrol prices in Patna were up marginally, from Saturday's ₹113.35 to ₹113.37.\nDes..."
+    },
+    {
+      "id": "live-1794753064114-1",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-14",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-unchanged-on-14-november-check-how-much-fuel-costs-in-new-delhi-mumbai-and-other-cities-11794618393662.html",
       "isLive": true,
       "title": "Petrol and diesel prices unchanged on 14 November: Check how much fuel costs in New Delhi, Mumbai, and other cities",
@@ -19,7 +36,7 @@
       "bodyEn": "Fuel prices today, 14 November: Petrol and diesel prices remained unchanged on Saturday (14 November) across major cities and states, including New Delhi, Mumbai, Chennai, Kolkata, Bengaluru, and Gurugram. However, petrol prices fell marginally in Pa..."
     },
     {
-      "id": "live-1794664630566-1",
+      "id": "live-1794753064114-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +53,7 @@
       "bodyEn": "The government has announced another reduction in , cutting the rate by Rs2 per litre for the ninth consecutive time, while the price of high-speed diesel (HSD) remains unchanged at Rs360 per litre.\nAccording to a notification issued by the Oil and G..."
     },
     {
-      "id": "live-1794664630566-2",
+      "id": "live-1794753064114-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "DRIVERS have been handed a welcome boost after Asda slashed petrol and diesel prices by an average of 4p a litre.\nThe supermarket’s move comes after a major victory for The Sun’s Keep It Down campaign, with the Chancellor freezing fuel duty and retai..."
     },
     {
-      "id": "live-1794664630566-3",
+      "id": "live-1794753064114-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "Asda has reduced the price of both unleaded petrol and diesel by an average of 4p per litre across all of its main forecourts nationwide\nAsda has slashed the price of both unleaded petrol and diesel by an average of 4p per litre across all of its maj..."
     },
     {
-      "id": "live-1794664630566-4",
+      "id": "live-1794753064114-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +104,7 @@
       "bodyEn": "New Delhi [India], November 13 (ANI): Oil marketing companies (OMCs) continue to incur losses on the sale of petrol and diesel, although the pressure has eased following a decline in crude oil prices, according to a report by Jefferies.\nThe report hi..."
     },
     {
-      "id": "live-1794664630566-5",
+      "id": "live-1794753064114-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +121,7 @@
       "bodyEn": "New Delhi [India], November 13 (ANI): Oil marketing companies (OMCs) continue to incur losses on the sale of petrol and diesel, although the pressure has eased following a decline in crude oil prices, according to a report by Jefferies.\nThe report hi..."
     },
     {
-      "id": "live-1794664630566-6",
+      "id": "live-1794753064114-7",
       "flag": "🇷🇺",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +138,7 @@
       "bodyEn": "Fuel prices today, November 13: Petrol and diesel prices remained unchanged on Friday (13 November) across major cities, including New Delhi, Mumbai, Chennai and Kolkata, even after the Centre scrapped the additional excise duty on petrol exports.\nIn..."
     },
     {
-      "id": "live-1794664630567-7",
+      "id": "live-1794753064114-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,7 +155,7 @@
       "bodyEn": "The government has announced another reduction in petroleum prices, lowering petrol by Rs3 per litre and high-speed diesel (HSD) by Rs4, marking the eighth consecutive cut.\nAccording to a notification issued by the Oil and Gas Regulatory Authority (O..."
     },
     {
-      "id": "live-1794664630567-8",
+      "id": "live-1794753064114-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -153,23 +170,6 @@
       "summaryEn": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up",
       "body": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up\nAsda has launched a pump price war by knocking an...",
       "bodyEn": "Supermarket giant Asda has cut petrol and diesel prices by average 4p a litre at more than 320 forecourts across the country, bringing savers for motorists reeling from the sky high cost of filling up\nAsda has launched a pump price war by knocking an..."
-    },
-    {
-      "id": "live-1794664630567-9",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-11-12",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-12-check-fuel-rates-in-different-cities-across-india-11794449227669.html",
-      "isLive": true,
-      "title": "Petrol and diesel prices today, November 12: Check fuel rates in different cities across India",
-      "titleEn": "Petrol and diesel prices today, November 12: Check fuel rates in different cities across India",
-      "summary": "Petrol and diesel prices were unchanged on November 12, while CNG prices rose in seven of 11 locations. Mathura recorded the largest increase.",
-      "summaryEn": "Petrol and diesel prices were unchanged on November 12, while CNG prices rose in seven of 11 locations. Mathura recorded the largest increase.",
-      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
-      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     }
   ]
 }
