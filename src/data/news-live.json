@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-11-17",
+  "lastUpdated": "2026-11-18",
   "articles": [
     {
-      "id": "live-1794933712480-0",
+      "id": "live-1795018306159-0",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-18",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-18-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11794966799274.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, November 18: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
+      "titleEn": "Petrol and diesel prices today, November 18: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
+      "summary": "Oil prices fell on Wednesday on data showing an increase in US crude and fuel inventories last week, although ongoing US-Iran attacks and disruptions to shipping through the Strait of Hormuz limited losses.",
+      "summaryEn": "Oil prices fell on Wednesday on data showing an increase in US crude and fuel inventories last week, although ongoing US-Iran attacks and disruptions to shipping through the Strait of Hormuz limited losses.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1795018306159-1",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-17",
+      "source": "The Independent",
+      "featured": false,
+      "url": "https://www.independent.co.uk/travel/news-and-advice/fuel-prices-petrol-diesel-oil-b3086324.html",
+      "isLive": true,
+      "title": "RAC expert predicts when drivers should see cheaper petrol and diesel prices",
+      "titleEn": "RAC expert predicts when drivers should see cheaper petrol and diesel prices",
+      "summary": "Average UK forecourt figures this week were recorded at 164.68p per litre for unleaded petrol, while a litre of diesel stood at 194.90p",
+      "summaryEn": "Average UK forecourt figures this week were recorded at 164.68p per litre for unleaded petrol, while a litre of diesel stood at 194.90p",
+      "body": "Motorists ought to be seeing a \"far greater benefit at the pumps\" following a decline in crude costs, the RAC has stated, demanding a swift reduction in retail fuel prices.\nThe motoring organisation suggested unleaded petrol could fall to 150p per li...",
+      "bodyEn": "Motorists ought to be seeing a \"far greater benefit at the pumps\" following a decline in crude costs, the RAC has stated, demanding a swift reduction in retail fuel prices.\nThe motoring organisation suggested unleaded petrol could fall to 150p per li..."
+    },
+    {
+      "id": "live-1795018306160-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-17",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-diesel-prices-largely-stable-on-tuesday-17-november-check-how-much-fuel-costs-in-new-delhi-mumbai-11794880783214.html",
       "isLive": true,
       "title": "Petrol, diesel prices largely stable on Tuesday, 17 November: Check how much fuel costs in New Delhi, Mumbai",
@@ -19,24 +53,7 @@
       "bodyEn": "Petrol and diesel prices today, November 17: Petrol and diesel prices remained unchanged across major Indian cities on Tuesday, November 17, even as the Centre raised export levies on diesel and aviation turbine fuel (ATF). However, the government ke..."
     },
     {
-      "id": "live-1794933712480-1",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-17",
-      "source": "Plymouth Live",
-      "featured": false,
-      "url": "https://www.plymouthherald.co.uk/news/motoring/rac-predicts-timeframe-uk-petrol-11243492",
-      "isLive": true,
-      "title": "RAC predicts timeframe for UK petrol and diesel prices to 'drop further and faster'",
-      "titleEn": "RAC predicts timeframe for UK petrol and diesel prices to 'drop further and faster'",
-      "summary": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease",
-      "summaryEn": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease",
-      "body": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With...",
-      "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
-    },
-    {
-      "id": "live-1794933712480-2",
+      "id": "live-1795018306160-3",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
     },
     {
-      "id": "live-1794933712480-3",
+      "id": "live-1795018306160-4",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
     },
     {
-      "id": "live-1794933712480-4",
+      "id": "live-1795018306160-5",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +104,7 @@
       "bodyEn": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease\nMotorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol ..."
     },
     {
-      "id": "live-1794933712480-5",
+      "id": "live-1795018306160-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +121,7 @@
       "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
     },
     {
-      "id": "live-1794933712480-6",
+      "id": "live-1795018306160-7",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,24 +138,7 @@
       "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
     },
     {
-      "id": "live-1794933712480-7",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-17",
-      "source": "Essexlive",
-      "featured": false,
-      "url": "https://www.essexlive.news/news/motoring/rac-predicts-timeframe-uk-petrol-11243492",
-      "isLive": true,
-      "title": "RAC predicts timeframe for UK petrol and diesel prices to 'drop further and faster'",
-      "titleEn": "RAC predicts timeframe for UK petrol and diesel prices to 'drop further and faster'",
-      "summary": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease",
-      "summaryEn": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease",
-      "body": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With...",
-      "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
-    },
-    {
-      "id": "live-1794933712480-8",
+      "id": "live-1795018306160-8",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -155,7 +155,7 @@
       "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
     },
     {
-      "id": "live-1794933712480-9",
+      "id": "live-1795018306160-9",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
