@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-11-19",
+  "lastUpdated": "2026-11-20",
   "articles": [
     {
-      "id": "live-1795105135235-0",
+      "id": "live-1795190116741-0",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-19",
+      "source": "The Nation",
+      "featured": true,
+      "url": "https://www.nation.com.pk/19-Nov-2026/ogra-raises-petrol-price-rs-1-per-litre-keeps-diesel-unchanged",
+      "isLive": true,
+      "title": "OGRA raises petrol price by Rs.1 per litre, keeps diesel unchanged",
+      "titleEn": "OGRA raises petrol price by Rs.1 per litre, keeps diesel unchanged",
+      "summary": "The Oil and Gas Regulatory Authority (OGRA) on Thursday announced a revision in petroleum product prices, increasing the price of petrol by Rs. 1 per litre while keeping",
+      "summaryEn": "The Oil and Gas Regulatory Authority (OGRA) on Thursday announced a revision in petroleum product prices, increasing the price of petrol by Rs. 1 per litre while keeping",
+      "body": "The Oil and Gas Regulatory Authority (OGRA) on Thursday announced a revision in petroleum product prices, increasing the price of petrol by Rs. 1 per litre while keeping high-speed diesel (HSD) unchanged.\nThe revised prices will take effect from Nove...",
+      "bodyEn": "The Oil and Gas Regulatory Authority (OGRA) on Thursday announced a revision in petroleum product prices, increasing the price of petrol by Rs. 1 per litre while keeping high-speed diesel (HSD) unchanged.\nThe revised prices will take effect from Nove..."
+    },
+    {
+      "id": "live-1795190116742-1",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-19",
+      "source": "NDTV Profit",
+      "featured": false,
+      "url": "https://www.ndtvprofit.com/business/petrol-diesel-prices-went-up-50-60-worldwide-but-not-in-india-hardeep-puri-explains-why-12350934",
+      "isLive": true,
+      "title": "Petrol, Diesel Prices Went Up 50-60% Worldwide, But Not In India: Hardeep Puri Explains Why",
+      "titleEn": "Petrol, Diesel Prices Went Up 50-60% Worldwide, But Not In India: Hardeep Puri Explains Why",
+      "summary": "Petroleum Minister Hardeep Singh Puri said repeated excise duty reductions helped India prevent global crude oil price shocks from fully reaching domestic petrol and diesel consumers.",
+      "summaryEn": "Petroleum Minister Hardeep Singh Puri said repeated excise duty reductions helped India prevent global crude oil price shocks from fully reaching domestic petrol and diesel consumers.",
+      "body": "India has avoided the sharp fuel price increases seen in several countries despite disruptions to global oil supplies, with the Centre attributing the relative stability to repeated cuts in central excise duty on petrol and diesel.\nUnion Petroleum an...",
+      "bodyEn": "India has avoided the sharp fuel price increases seen in several countries despite disruptions to global oil supplies, with the Centre attributing the relative stability to repeated cuts in central excise duty on petrol and diesel.\nUnion Petroleum an..."
+    },
+    {
+      "id": "live-1795190116742-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-19",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-19-check-fuel-rates-in-different-cities-across-india-11795052520173.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, November 19: Check fuel rates in different cities across India",
@@ -19,7 +53,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1795105135235-1",
+      "id": "live-1795190116742-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "The federal government has announced a Rs3 per litre reduction in the prices of petrol and high-speed diesel (HSD), with the revised rates coming into effect from November 19, 2026.\nUnder the latest adjustment, petrol will now cost Rs322 per litre, d..."
     },
     {
-      "id": "live-1795105135235-2",
+      "id": "live-1795190116742-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +87,7 @@
       "bodyEn": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar on Wednesday said the government had brought down petroleum prices considerably, offering consumers relief despite difficult global economic conditions.\nIn a statement shared on hi..."
     },
     {
-      "id": "live-1795105135235-3",
+      "id": "live-1795190116742-5",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +104,7 @@
       "bodyEn": "Annual inflation in the UK rose to 3.6% in October, up from 3.5% the previous month, largely driven by the jump in the cost of motor fuels.\n\"Inflation rose slightly in October, with fuel prices once again a major contributor to the increase in the an..."
     },
     {
-      "id": "live-1795105135235-4",
+      "id": "live-1795190116742-6",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.\nFigures from the Office for National Statistics (ONS) show the headline rate of inflation as meas..."
     },
     {
-      "id": "live-1795105135235-5",
+      "id": "live-1795190116742-7",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -104,7 +138,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795105135235-6",
+      "id": "live-1795190116742-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +155,7 @@
       "bodyEn": "Inflation has risen to its highest level for a year with spiralling petrol and diesel prices largely to blame.\nIt’s now running at 3.6 per cent, up from 3.5 per cent in September, with a warning from the Bank of England it could peak at around 5 per ..."
     },
     {
-      "id": "live-1795105135235-7",
+      "id": "live-1795190116742-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -136,40 +170,6 @@
       "summaryEn": "Average UK forecourt figures this week were recorded at 164.68p per litre for unleaded petrol, while a litre of diesel stood at 194.90p",
       "body": "Motorists ought to be seeing a \"far greater benefit at the pumps\" following a decline in crude costs, the RAC has stated, demanding a swift reduction in retail fuel prices.\nThe motoring organisation suggested unleaded petrol could fall to 150p per li...",
       "bodyEn": "Motorists ought to be seeing a \"far greater benefit at the pumps\" following a decline in crude costs, the RAC has stated, demanding a swift reduction in retail fuel prices.\nThe motoring organisation suggested unleaded petrol could fall to 150p per li..."
-    },
-    {
-      "id": "live-1795105135236-8",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-11-17",
-      "source": "Livemint",
-      "featured": false,
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-largely-stable-on-tuesday-17-november-check-how-much-fuel-costs-in-new-delhi-mumbai-11794880783214.html",
-      "isLive": true,
-      "title": "Petrol, diesel prices largely stable on Tuesday, 17 November: Check how much fuel costs in New Delhi, Mumbai",
-      "titleEn": "Petrol, diesel prices largely stable on Tuesday, 17 November: Check how much fuel costs in New Delhi, Mumbai",
-      "summary": "Petrol and diesel prices remained unchanged across major Indian cities on November 17, even as the Centre raised diesel and ATF export levies. Union Minister Suresh Gopi said an immediate fuel price cut was not possible, citing losses of ₹42,000 crore incurred by oil companies.",
-      "summaryEn": "Petrol and diesel prices remained unchanged across major Indian cities on November 17, even as the Centre raised diesel and ATF export levies. Union Minister Suresh Gopi said an immediate fuel price cut was not possible, citing losses of ₹42,000 crore incurred by oil companies.",
-      "body": "Petrol and diesel prices today, November 17: Petrol and diesel prices remained unchanged across major Indian cities on Tuesday, November 17, even as the Centre raised export levies on diesel and aviation turbine fuel (ATF). However, the government ke...",
-      "bodyEn": "Petrol and diesel prices today, November 17: Petrol and diesel prices remained unchanged across major Indian cities on Tuesday, November 17, even as the Centre raised export levies on diesel and aviation turbine fuel (ATF). However, the government ke..."
-    },
-    {
-      "id": "live-1795105135236-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-17",
-      "source": "Leicester Mercury",
-      "featured": false,
-      "url": "https://www.leicestermercury.co.uk/news/uk-world-news/rac-predicts-timeframe-uk-petrol-11243492",
-      "isLive": true,
-      "title": "RAC predicts timeframe for UK petrol and diesel prices to 'drop further and faster'",
-      "titleEn": "RAC predicts timeframe for UK petrol and diesel prices to 'drop further and faster'",
-      "summary": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease",
-      "summaryEn": "The RAC has warned that UK pump prices should fall 'further and faster' as US-Iran tensions ease",
-      "body": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With...",
-      "bodyEn": "Motorists are set to see pump prices fall \"further and faster\" over the coming weeks as tensions between the United States and Iran subside, with petrol potentially dropping to 150p per litre or below, according to fresh RAC Fuel Watch analysis. With..."
     }
   ]
 }
