@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-11-21",
+  "lastUpdated": "2026-11-22",
   "articles": [
     {
-      "id": "live-1795273584406-0",
+      "id": "live-1795359798725-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-22",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-22-november-check-fuel-rates-in-different-cities-across-india-11795311347789.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, 22 November: Check fuel rates in different cities across India",
+      "titleEn": "Petrol and diesel prices today, 22 November: Check fuel rates in different cities across India",
+      "summary": "Petrol and diesel prices were unchanged in 14 cities on 22 November. Hyderabad had the highest petrol and diesel rates among the listed cities while Chandigarh had the lowest.",
+      "summaryEn": "Petrol and diesel prices were unchanged in 14 cities on 22 November. Hyderabad had the highest petrol and diesel rates among the listed cities while Chandigarh had the lowest.",
+      "body": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w...",
+      "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
+    },
+    {
+      "id": "live-1795359798725-1",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-21",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-21-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11795222929259.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, November 21: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
@@ -19,7 +36,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795273584407-1",
+      "id": "live-1795359798725-2",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +53,7 @@
       "bodyEn": "The federal government has announced a mixed adjustment in petroleum prices, reducing petrol by Rs1 per litre while increasing high-speed diesel (HSD) by Rs2 amid continued uncertainty in international oil markets.\nUnder the revised rates announced o..."
     },
     {
-      "id": "live-1795273584407-2",
+      "id": "live-1795359798725-3",
       "flag": "🇮🇷",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "Bhanu Pratap\nBhanu Pratap is a journalist who reports and writes on foreign affairs, India’s foreign policy, geopolitics and strategic affairs. He closely follows diplomatic developments in New Delhi and has a keen interest in defence and national se..."
     },
     {
-      "id": "live-1795273584407-3",
+      "id": "live-1795359798725-4",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -70,7 +87,7 @@
       "bodyEn": "The Oil and Gas Regulatory Authority (OGRA) on Thursday announced a revision in petroleum product prices, increasing the price of petrol by Rs. 1 per litre while keeping high-speed diesel (HSD) unchanged.\nThe revised prices will take effect from Nove..."
     },
     {
-      "id": "live-1795273584407-4",
+      "id": "live-1795359798725-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -87,7 +104,7 @@
       "bodyEn": "India has avoided the sharp fuel price increases seen in several countries despite disruptions to global oil supplies, with the Centre attributing the relative stability to repeated cuts in central excise duty on petrol and diesel.\nUnion Petroleum an..."
     },
     {
-      "id": "live-1795273584407-5",
+      "id": "live-1795359798725-6",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +121,7 @@
       "bodyEn": "Sounak Mukhopadhyay\nSounak Mukhopadhyay covers trending news, sports and entertainment for LiveMint. His reporting focuses on fast-moving stories, box office performance, digital culture and major cricket developments. He combines real-time updates w..."
     },
     {
-      "id": "live-1795273584407-6",
+      "id": "live-1795359798725-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +138,7 @@
       "bodyEn": "The federal government has announced a Rs3 per litre reduction in the prices of petrol and high-speed diesel (HSD), with the revised rates coming into effect from November 19, 2026.\nUnder the latest adjustment, petrol will now cost Rs322 per litre, d..."
     },
     {
-      "id": "live-1795273584407-7",
+      "id": "live-1795359798726-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -138,7 +155,7 @@
       "bodyEn": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar on Wednesday said the government had brought down petroleum prices considerably, offering consumers relief despite difficult global economic conditions.\nIn a statement shared on hi..."
     },
     {
-      "id": "live-1795273584407-8",
+      "id": "live-1795359798726-9",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -153,23 +170,6 @@
       "summaryEn": "Higher fuel prices pushed UK inflation up from 3.5% in September to 3.6% in October. Diesel hit a record high, while prices for food and non-alcoholic drinks rose at their slowest pace in five years.",
       "body": "Annual inflation in the UK rose to 3.6% in October, up from 3.5% the previous month, largely driven by the jump in the cost of motor fuels.\n\"Inflation rose slightly in October, with fuel prices once again a major contributor to the increase in the an...",
       "bodyEn": "Annual inflation in the UK rose to 3.6% in October, up from 3.5% the previous month, largely driven by the jump in the cost of motor fuels.\n\"Inflation rose slightly in October, with fuel prices once again a major contributor to the increase in the an..."
-    },
-    {
-      "id": "live-1795273584407-9",
-      "flag": "🇮🇷",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-18",
-      "source": "The Guardian",
-      "featured": false,
-      "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-      "isLive": true,
-      "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-      "titleEn": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-      "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy",
-      "summaryEn": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy",
-      "body": "Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.\nFigures from the Office for National Statistics (ONS) show the headline rate of inflation as meas...",
-      "bodyEn": "Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.\nFigures from the Office for National Statistics (ONS) show the headline rate of inflation as meas..."
     }
   ]
 }
