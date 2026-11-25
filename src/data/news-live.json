@@ -1,14 +1,48 @@
 {
-  "lastUpdated": "2026-11-24",
+  "lastUpdated": "2026-11-25",
   "articles": [
     {
-      "id": "live-1795545570340-0",
+      "id": "live-1795628917945-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-25",
+      "source": "NewsBytes",
+      "featured": true,
+      "url": "https://www.newsbytesapp.com/news/india/fuel-prices-steady-across-major-indian-cities-november-25-2026/tldr",
+      "isLive": true,
+      "title": "Fuel prices steady across major Indian cities November 25 2026",
+      "titleEn": "Fuel prices steady across major Indian cities November 25 2026",
+      "summary": "Petrol and diesel prices remain steady across major Indian cities despite global crude oil fluctuations. New Delhi offers the lowest rates among the metros.",
+      "summaryEn": "Petrol and diesel prices remain steady across major Indian cities despite global crude oil fluctuations. New Delhi offers the lowest rates among the metros.",
+      "body": "Fuel prices didn't budge across major cities on Wednesday, November 25, 2026, so no surprises at the pump.\nIn Delhi, petrol is ₹102.12 per liter and diesel is ₹95.20 per liter.\nMumbai's rates are a bit higher, ₹111.21 for petrol and ₹97.83 for diesel...",
+      "bodyEn": "Fuel prices didn't budge across major cities on Wednesday, November 25, 2026, so no surprises at the pump.\nIn Delhi, petrol is ₹102.12 per liter and diesel is ₹95.20 per liter.\nMumbai's rates are a bit higher, ₹111.21 for petrol and ₹97.83 for diesel..."
+    },
+    {
+      "id": "live-1795628917946-1",
+      "flag": "📰",
+      "category": "Ю. Америка",
+      "categoryEn": "S. America",
+      "date": "2026-11-25",
+      "source": "Livemint",
+      "featured": false,
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-25-check-fuel-cost-in-delhi-mumbai-bengaluru-11795573041606.html",
+      "isLive": true,
+      "title": "Petrol and diesel prices today, November 25: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "titleEn": "Petrol and diesel prices today, November 25: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "summary": "Global oil prices steadied as traders balanced indications of rising global supply against escalating attacks on vessels near the Strait of Hormuz, Bloomberg reported.",
+      "summaryEn": "Global oil prices steadied as traders balanced indications of rising global supply against escalating attacks on vessels near the Strait of Hormuz, Bloomberg reported.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1795628917946-2",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-24",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-24-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11795484737196.html",
       "isLive": true,
       "title": "Petrol and diesel prices today, November 24: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
@@ -19,7 +53,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795545570340-1",
+      "id": "live-1795628917946-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -36,7 +70,7 @@
       "bodyEn": "The AA has revealed petrol prices are set to “collapse” this week with as much as £7.65 set to be shaved off bills. UK average pump prices have tumbled, with average petrol fees now at 160.8p per litre, down 13.9p from a peak of 174.7p in early Octob..."
     },
     {
-      "id": "live-1795545570340-2",
+      "id": "live-1795628917946-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -53,7 +87,7 @@
       "bodyEn": "Hardeep Singh Puri.\nUnion Oil minister Hardeep Singh Puri said India has seen its petrol and diesel prices rise, but the government has said that the hike has much less compared to other major global economies.\n\"Petrol and diesel prices in India had ..."
     },
     {
-      "id": "live-1795545570340-3",
+      "id": "live-1795628917946-5",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -70,7 +104,7 @@
       "bodyEn": "Puri acknowledged that international conflicts and geopolitical uncertainty continued to pose challenges.\nIndia has seen its petrol and diesel prices rise, but the government has said that the hike has much less compared to other major global economi..."
     },
     {
-      "id": "live-1795545570341-4",
+      "id": "live-1795628917946-6",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -87,7 +121,7 @@
       "bodyEn": "Petrol in Perth is as cheap as it is has been since the middle of the year, with the price of unleaded at some bowsers retreating back below $1.80 tomorrow.\nFuelwatch says the average price will also dip below $1.90 per litre, an average six cents pe..."
     },
     {
-      "id": "live-1795545570341-5",
+      "id": "live-1795628917946-7",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +138,7 @@
       "bodyEn": "Indore Union Petroleum Minister Hardeep Singh Puri has said that Prime Minister Narendra Modi’s policies insulated Indian consumers from global fuel price shocks, underscoring that domestic retail prices remained largely stable despite international ..."
     },
     {
-      "id": "live-1795545570341-6",
+      "id": "live-1795628917946-8",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,24 +155,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795545570341-7",
-      "flag": "🇮🇳",
-      "category": "Азия",
-      "categoryEn": "Asia",
-      "date": "2026-11-22",
-      "source": "Lokmat Times",
-      "featured": false,
-      "url": "https://www.lokmattimes.com/national/indias-fuel-prices-rose-only-7-while-global-rates-soared-50-70-hardeep-puri-a001-w02/",
-      "isLive": true,
-      "title": "India's Fuel Prices Rose Only 7% While Global Rates Soared 50",
-      "titleEn": "India's Fuel Prices Rose Only 7% While Global Rates Soared 50",
-      "summary": "India's Fuel Prices Rose Only 7% While Global Rates Soared 50-70%: Hardeep Puri - Indore, November 22: Union Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that petrol and diesel ... Get Latest News on National only on lokmattimes.com",
-      "summaryEn": "India's Fuel Prices Rose Only 7% While Global Rates Soared 50-70%: Hardeep Puri - Indore, November 22: Union Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that petrol and diesel ... Get Latest News on National only on lokmattimes.com",
-      "body": "Indore, November 22: Union Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that petrol and diesel prices in India saw a modest increase of only seven per cent over a four-year period ending in 2026. This is a stark contrast to ...",
-      "bodyEn": "Indore, November 22: Union Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that petrol and diesel prices in India saw a modest increase of only seven per cent over a four-year period ending in 2026. This is a stark contrast to ..."
-    },
-    {
-      "id": "live-1795545570341-8",
+      "id": "live-1795628917946-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -155,21 +172,106 @@
       "bodyEn": "Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that India managed to keep petrol and diesel price hikes to a mere 7% over a four-year period ending in 2026. This contrasts sharply with a 50-70% surge in other countries globall..."
     },
     {
-      "id": "live-1795545570341-9",
+      "id": "live-1795628917946-10",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-19",
+      "source": "Pagenews.gr",
+      "featured": false,
+      "url": "https://www.pagenews.gr/2026/11/19/english-edition/the-new-oil-powers-why-refineries-not-reserves-are-redrawing-the-global-energy-map/",
+      "isLive": true,
+      "title": "The New Oil Powers: Why Refineries, Not Reserves, Are Redrawing the Global Energy Map",
+      "titleEn": "The New Oil Powers: Why Refineries, Not Reserves, Are Redrawing the Global Energy Map",
+      "summary": "Crude oil is flowing through the Strait of Hormuz again, but diesel and jet fuel remain in short supply. Seven months after the outbreak of the Iran war, a new energy hierarchy is emerging: the countries that control spare refining capacity are gaining influence over global prices, trade routes and national energy security. Europe is discovering that access to crude oil means little when the world cannot produce enough of the fuels its economy actually needs. The New Oil Powers: Why Refineries, Not Reserves, Are Redrawing the Global Energy Map",
+      "summaryEn": "Crude oil is flowing through the Strait of Hormuz again, but diesel and jet fuel remain in short supply. Seven months after the outbreak of the Iran war, a new energy hierarchy is emerging: the countries that control spare refining capacity are gaining influence over global prices, trade routes and national energy security. Europe is discovering that access to crude oil means little when the world cannot produce enough of the fuels its economy actually needs. The New Oil Powers: Why Refineries, Not Reserves, Are Redrawing the Global Energy Map",
+      "body": "Crude oil is flowing through the Strait of Hormuz again, but diesel and jet fuel remain in short supply. Seven months after the outbreak of the Iran war, a new energy hierarchy is emerging: the countries that control spare refining capacity are gaini...",
+      "bodyEn": "Crude oil is flowing through the Strait of Hormuz again, but diesel and jet fuel remain in short supply. Seven months after the outbreak of the Iran war, a new energy hierarchy is emerging: the countries that control spare refining capacity are gaini..."
+    },
+    {
+      "id": "live-1795628917946-11",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-18",
+      "source": "Al-Monitor",
+      "featured": false,
+      "url": "https://www.al-monitor.com/originals/2026/11/iran-attacks-us-bases-gulf-countries-despite-diplomatic-efforts",
+      "isLive": true,
+      "title": "Iran attacks US bases in Gulf countries despite diplomatic efforts",
+      "titleEn": "Iran attacks US bases in Gulf countries despite diplomatic efforts",
+      "summary": "By Enas AlashrayNov 18 (Reuters) - Gulf countries said on Wednesday they intercepted missiles and drones from Iran and its Houthi allies in Yemen, after the United States had struckQeshm Island in the Strait of Hormuz in an uptick of hostilities despite efforts to end the nine-month-old war.The back-and-forth attacks were a reminder of the hurdles facingdiplomatic efforts to end a war that has destabilised the Middle East, pushed up global energy prices and helped fuel the US voter anger that punished President Donald Trump's Republican Party in the November elections.",
+      "summaryEn": "By Enas AlashrayNov 18 (Reuters) - Gulf countries said on Wednesday they intercepted missiles and drones from Iran and its Houthi allies in Yemen, after the United States had struckQeshm Island in the Strait of Hormuz in an uptick of hostilities despite efforts to end the nine-month-old war.The back-and-forth attacks were a reminder of the hurdles facingdiplomatic efforts to end a war that has destabilised the Middle East, pushed up global energy prices and helped fuel the US voter anger that punished President Donald Trump's Republican Party in the November elections.",
+      "body": "By Enas Alashray\nNov 18 (Reuters) - Gulf countries said on Wednesday they intercepted missiles and drones from Iran and its Houthi allies in Yemen, after the United States had struckQeshm Island in the Strait of Hormuz in an uptick of hostilities des...",
+      "bodyEn": "By Enas Alashray\nNov 18 (Reuters) - Gulf countries said on Wednesday they intercepted missiles and drones from Iran and its Houthi allies in Yemen, after the United States had struckQeshm Island in the Strait of Hormuz in an uptick of hostilities des..."
+    },
+    {
+      "id": "live-1795628917946-12",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-17",
+      "source": "Natural News",
+      "featured": false,
+      "url": "https://www.naturalnews.com/2026-11-17-health-rangers-guide-hidden-chemistry-of-famine.html",
+      "isLive": true,
+      "title": "“The Health Ranger’s Guide to Surviving Global War, Famine, Plandemics and Grid",
+      "titleEn": "“The Health Ranger’s Guide to Surviving Global War, Famine, Plandemics and Grid",
+      "summary": "Mike Adams explained how the Haber-Bosch process used natural gas, heat and pressure to convert atmospheric nitrogen into ammonia, the basis for important nitrogen fertilizers. Rising energy costs could increase fertilizer prices, cause farmers to reduce planting or leave fields unused and lead to lower crop yields one or two growing seasons later. Higher fuel […]",
+      "summaryEn": "Mike Adams explained how the Haber-Bosch process used natural gas, heat and pressure to convert atmospheric nitrogen into ammonia, the basis for important nitrogen fertilizers. Rising energy costs could increase fertilizer prices, cause farmers to reduce planting or leave fields unused and lead to lower crop yields one or two growing seasons later. Higher fuel […]",
+      "body": "Mike Adams explained how the Haber-Bosch process used natural gas, heat and pressure to convert atmospheric nitrogen into ammonia, the basis for important nitrogen fertilizers.\nRising energy costs could increase fertilizer prices, cause farmers to re...",
+      "bodyEn": "Mike Adams explained how the Haber-Bosch process used natural gas, heat and pressure to convert atmospheric nitrogen into ammonia, the basis for important nitrogen fertilizers.\nRising energy costs could increase fertilizer prices, cause farmers to re..."
+    },
+    {
+      "id": "live-1795628917946-13",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
-      "date": "2026-11-22",
-      "source": "The Tribune",
+      "date": "2026-11-17",
+      "source": "The Economic Times",
       "featured": false,
-      "url": "https://www.tribuneindia.com/news/business/petrol-diesel-prices-rose-only-7-in-india-in-4-years-against-50-70-global-surge-puri/",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/wholesale-inflation-faces-a-triple-squeeze-from-fuel-food-and-metals-in-fy27-report/articleshow/135909049.cms",
       "isLive": true,
-      "title": "Petrol, diesel prices rose only 7% in India in 4 years against 50",
-      "titleEn": "Petrol, diesel prices rose only 7% in India in 4 years against 50",
-      "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri on Sunday said petrol and diesel prices in India had risen by just 7 per cent over a four-year period, compared with increases of 50-70 per cent in several other parts of the world.",
-      "summaryEn": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri on Sunday said petrol and diesel prices in India had risen by just 7 per cent over a four-year period, compared with increases of 50-70 per cent in several other parts of the world.",
-      "body": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri on Sunday said petrol and diesel prices in India had risen by just 7 per cent over a four-year period, compared with increases of 50-70 per cent in several other parts of the world.\nAttribut...",
-      "bodyEn": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri on Sunday said petrol and diesel prices in India had risen by just 7 per cent over a four-year period, compared with increases of 50-70 per cent in several other parts of the world.\nAttribut..."
+      "title": "Wholesale inflation faces a triple squeeze from fuel, food and metals in FY27: Report",
+      "titleEn": "Wholesale inflation faces a triple squeeze from fuel, food and metals in FY27: Report",
+      "summary": "India's wholesale inflation is currently anticipated to reach around 11 percent in FY27, surpassing earlier projections. Persistent pressures from energy and input costs alongside risks to food prices are significant factors. The report highlights that global commodity prices will greatly influence this inflation trajectory. A potential 25-basis-point rate hike by the Reserve Bank of India is also expected in December.",
+      "summaryEn": "India's wholesale inflation is currently anticipated to reach around 11 percent in FY27, surpassing earlier projections. Persistent pressures from energy and input costs alongside risks to food prices are significant factors. The report highlights that global commodity prices will greatly influence this inflation trajectory. A potential 25-basis-point rate hike by the Reserve Bank of India is also expected in December.",
+      "body": "Synopsis\nIndia's wholesale inflation is currently anticipated to reach around 11 percent in FY27, surpassing earlier projections. Persistent pressures from energy and input costs alongside risks to food prices are significant factors. The report high...",
+      "bodyEn": "Synopsis\nIndia's wholesale inflation is currently anticipated to reach around 11 percent in FY27, surpassing earlier projections. Persistent pressures from energy and input costs alongside risks to food prices are significant factors. The report high..."
+    },
+    {
+      "id": "live-1795628917946-14",
+      "flag": "📰",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-16",
+      "source": "The New Indian Express",
+      "featured": false,
+      "url": "https://www.newindianexpress.com/business/2026/Nov/16/wpi-inflation-hits-series-high-of-1229-in-october-on-fuel-power-costs",
+      "isLive": true,
+      "title": "WPI inflation hits series high of 12.29% in October on fuel, power costs",
+      "titleEn": "WPI inflation hits series high of 12.29% in October on fuel, power costs",
+      "summary": "The wholesale inflation rate stood at 11.39 per cent in September 2026. Economists, however, expect a moderation in November as global energy prices have eased",
+      "summaryEn": "The wholesale inflation rate stood at 11.39 per cent in September 2026. Economists, however, expect a moderation in November as global energy prices have eased",
+      "body": "India's wholesale price inflation rose to 12.29 per cent in October, the highest level in the revised Wholesale Price Index (WPI) series with 2022-23 as the base year, driven by a sharp rise in fuel and power prices and higher costs of non-food items...",
+      "bodyEn": "India's wholesale price inflation rose to 12.29 per cent in October, the highest level in the revised Wholesale Price Index (WPI) series with 2022-23 as the base year, driven by a sharp rise in fuel and power prices and higher costs of non-food items..."
+    },
+    {
+      "id": "live-1795628917946-15",
+      "flag": "🇮🇷",
+      "category": "ОПЕК",
+      "categoryEn": "OPEC",
+      "date": "2026-11-15",
+      "source": "OilPrice",
+      "featured": false,
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-130-Billion-Oil-Boom-Fueled-by-the-Iran-War.html",
+      "isLive": true,
+      "title": "The $130 Billion Oil Boom Fueled by the Iran War",
+      "titleEn": "The $130 Billion Oil Boom Fueled by the Iran War",
+      "summary": "U.S. oil companies earned more than $130 billion in profits over six months as the Iran war disrupted global energy supplies and pushed up fuel prices.",
+      "summaryEn": "U.S. oil companies earned more than $130 billion in profits over six months as the Iran war disrupted global energy supplies and pushed up fuel prices.",
+      "body": "Several oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have been forced to turn to altern...",
+      "bodyEn": "Several oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have been forced to turn to altern..."
     }
   ]
 }
