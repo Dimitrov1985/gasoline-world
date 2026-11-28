@@ -1,14 +1,31 @@
 {
-  "lastUpdated": "2026-11-27",
+  "lastUpdated": "2026-11-28",
   "articles": [
     {
-      "id": "live-1795799679255-0",
+      "id": "live-1795881469710-0",
+      "flag": "🇮🇳",
+      "category": "Азия",
+      "categoryEn": "Asia",
+      "date": "2026-11-28",
+      "source": "Livemint",
+      "featured": true,
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-check-rates-in-delhi-mumbai-noida-and-other-cities-on-november-28-11795828659760.html",
+      "isLive": true,
+      "title": "Petrol, diesel prices today: Check rates in Delhi, Mumbai, Noida and other cities on November 28",
+      "titleEn": "Petrol, diesel prices today: Check rates in Delhi, Mumbai, Noida and other cities on November 28",
+      "summary": "Petrol and diesel prices remained largely stable on November 28, with Gurgaon and Noida recording cuts in both fuels. Meanwhile, Middle East tensions kept crude oil prices volatile, while high energy prices added ₹6-7 lakh crore to India's annual burden.",
+      "summaryEn": "Petrol and diesel prices remained largely stable on November 28, with Gurgaon and Noida recording cuts in both fuels. Meanwhile, Middle East tensions kept crude oil prices volatile, while high energy prices added ₹6-7 lakh crore to India's annual burden.",
+      "body": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ...",
+      "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
+    },
+    {
+      "id": "live-1795881469710-1",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
       "date": "2026-11-27",
       "source": "Livemint",
-      "featured": true,
+      "featured": false,
       "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-november-27-check-fuel-rates-in-delhi-mumbai-bengaluru-and-other-cities-11795741797218.html",
       "isLive": true,
       "title": "Petrol, diesel prices today, November 27: Check fuel rates in Delhi, Mumbai, Bengaluru and other cities",
@@ -19,7 +36,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795799679256-1",
+      "id": "live-1795881469710-2",
       "flag": "📰",
       "category": "Африка",
       "categoryEn": "Africa",
@@ -36,7 +53,7 @@
       "bodyEn": "Fresh off Top Gear South Africa’s Bakkie Wars, the Mail & Guardian has decided to also grant a week to the loved segment in South Africa.\nHowever, we are not looking at the best bakkies, we are looking at the two biggest gambles that brands took this..."
     },
     {
-      "id": "live-1795799679256-2",
+      "id": "live-1795881469710-3",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -53,7 +70,7 @@
       "bodyEn": "The federal government has reduced petrol and high-speed diesel prices by Rs1 and Rs2 per litre, respectively, in its latest petroleum price revision.\nAccording to a notification issued by the , petrol will now be available at Rs313 per litre, while ..."
     },
     {
-      "id": "live-1795799679256-3",
+      "id": "live-1795881469710-4",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -70,7 +87,7 @@
       "bodyEn": "Fuel prices didn't budge across major cities on Wednesday, November 25, 2026, so no surprises at the pump.\nIn Delhi, petrol is ₹102.12 per liter and diesel is ₹95.20 per liter.\nMumbai's rates are a bit higher, ₹111.21 for petrol and ₹97.83 for diesel..."
     },
     {
-      "id": "live-1795799679256-4",
+      "id": "live-1795881469710-5",
       "flag": "📰",
       "category": "Ю. Америка",
       "categoryEn": "S. America",
@@ -87,7 +104,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795799679256-5",
+      "id": "live-1795881469710-6",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -104,7 +121,7 @@
       "bodyEn": "Livemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on ..."
     },
     {
-      "id": "live-1795799679256-6",
+      "id": "live-1795881469711-7",
       "flag": "📰",
       "category": "ОПЕК",
       "categoryEn": "OPEC",
@@ -121,7 +138,7 @@
       "bodyEn": "The AA has revealed petrol prices are set to “collapse” this week with as much as £7.65 set to be shaved off bills. UK average pump prices have tumbled, with average petrol fees now at 160.8p per litre, down 13.9p from a peak of 174.7p in early Octob..."
     },
     {
-      "id": "live-1795799679256-7",
+      "id": "live-1795881469711-8",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -138,7 +155,7 @@
       "bodyEn": "Hardeep Singh Puri.\nUnion Oil minister Hardeep Singh Puri said India has seen its petrol and diesel prices rise, but the government has said that the hike has much less compared to other major global economies.\n\"Petrol and diesel prices in India had ..."
     },
     {
-      "id": "live-1795799679256-8",
+      "id": "live-1795881469711-9",
       "flag": "🇮🇳",
       "category": "Азия",
       "categoryEn": "Asia",
@@ -153,23 +170,6 @@
       "summaryEn": "India has seen its petrol and diesel prices rise, but the government has said that the hike has much less compared to other major global economies.",
       "body": "Puri acknowledged that international conflicts and geopolitical uncertainty continued to pose challenges.\nIndia has seen its petrol and diesel prices rise, but the government has said that the hike has much less compared to other major global economi...",
       "bodyEn": "Puri acknowledged that international conflicts and geopolitical uncertainty continued to pose challenges.\nIndia has seen its petrol and diesel prices rise, but the government has said that the hike has much less compared to other major global economi..."
-    },
-    {
-      "id": "live-1795799679256-9",
-      "flag": "📰",
-      "category": "ОПЕК",
-      "categoryEn": "OPEC",
-      "date": "2026-11-23",
-      "source": "PerthNow",
-      "featured": false,
-      "url": "https://www.perthnow.com.au/wa/perth-fuel-prices-petrol-and-diesel-dips-below-190-for-first-time-since-july-as-cheap-tuesdays-return--c-23202374",
-      "isLive": true,
-      "title": "Perth fuel prices: Petrol and diesel dips below $1.90 for first time since July as cheap Tuesdays return",
-      "titleEn": "Perth fuel prices: Petrol and diesel dips below $1.90 for first time since July as cheap Tuesdays return",
-      "summary": "Perth motorists will have some relief on Tuesday as a more than six-cent drop in price plunges fuel to as cheap as it is has been since July, with the price at some bowsers back below $1.80.",
-      "summaryEn": "Perth motorists will have some relief on Tuesday as a more than six-cent drop in price plunges fuel to as cheap as it is has been since July, with the price at some bowsers back below $1.80.",
-      "body": "Petrol in Perth is as cheap as it is has been since the middle of the year, with the price of unleaded at some bowsers retreating back below $1.80 tomorrow.\nFuelwatch says the average price will also dip below $1.90 per litre, an average six cents pe...",
-      "bodyEn": "Petrol in Perth is as cheap as it is has been since the middle of the year, with the price of unleaded at some bowsers retreating back below $1.80 tomorrow.\nFuelwatch says the average price will also dip below $1.90 per litre, an average six cents pe..."
     }
   ]
 }
